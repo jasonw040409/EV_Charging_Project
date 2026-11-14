@@ -1,0 +1,37 @@
+{
+  "verification_date": "2026-11-14",
+  "files": [
+    {
+      "path": "sources/sony_lfp_calendar_reference.py",
+      "url": "https://raw.githubusercontent.com/tum-ees/simses/d8bb7906ed58bb47be531f09e031ad6f4bf5ee39/src/simses/model/degradation/sony_lfp_calendar.py",
+      "sha256": "e50b20e749868b6ce247482badf7728748e872e525855b86298f93fcc170fa5f"
+    },
+    {
+      "path": "sources/acndata_events_reference.py",
+      "url": "https://raw.githubusercontent.com/zach401/acnportal/14e723b11339e56ca3afd2bf4969f9e4bc8c2623/acnportal/acnsim/events/acndata_events.py",
+      "sha256": "dd03bf53cb86d3a0d5ac3ab59ede451952ac1163571da751fbac483570ab998a"
+    },
+    {
+      "path": "data/acn_sessions_raw.json",
+      "url": "https://ev.caltech.edu/api/v1/sessions/caltech?max_results=5",
+      "sha256": "496db99262e4fd44dc16582f2e84c1994e62e067c91e3294c0ca9339dae74e99"
+    },
+    {
+      "path": "data/acn_api_response.json",
+      "url": "https://ev.caltech.edu/api/v1/sessions/caltech?max_results=5 (unauthenticated)",
+      "sha256": "467d4852e1868229d2f9a3d40eb8bc213026093443ef0a195a682cb9ab945ea7"
+    },
+    {
+      "path": "data/acn_events_official.json.gz",
+      "url": "https://raw.githubusercontent.com/caltech-netlab/acnportal-experiments/593f5dcbc50544fbdb6d1988e15e935877ae4b26/examples/2-Algorithm-Comparison/2.1-Comparing-Algorithms-with-Constrained-Infrastructure/events/caltech_20190301T000000_20190401T000000_5m_208V_6.6kW.json.gz",
+      "sha256": "6b688b132dc9d115e8b129ad1ff00f840597e1d3d8e0c0538cc83b96c721e054"
+    }
+  ],
+  "full_text_verified": {
+    "url": "https://mediatum.ub.tum.de/doc/1434981/document.pdf",
+    "title": "Naumann 2018 author dissertation",
+    "download_sha256": "58dc5ef7028f502e66c6e680ca09bd78742fd937c92e3b8c2fffc20a0b1e0a95",
+    "locations": "printed pp 69-75; equations 5.1,5.3,5.12,5.15,5.17; table 5.1",
+    "journal_article_full_text_obtained": false
+  }
+}

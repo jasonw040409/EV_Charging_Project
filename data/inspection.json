@@ -1,0 +1,75 @@
+{
+  "inspected_count": 5,
+  "records": [
+    {
+      "session_id": "2_39_78_362_2018-04-25 11:08:04.400812",
+      "connection_utc": "2018-04-25T11:08:04+00:00",
+      "disconnect_utc": "2018-04-25T13:20:10+00:00",
+      "connection_local": "2018-04-25T04:08:04-07:00",
+      "duration_hours": 2.2016666666666667,
+      "delivered_grid_kwh": 7.932,
+      "user_requested_kwh": null,
+      "user_inputs_present": false,
+      "done_charging_after_disconnect": true,
+      "assumed_capacity_kwh": 60,
+      "assumed_initial_soc": 0.3,
+      "derived_target_soc": 0.41898
+    },
+    {
+      "session_id": "2_39_95_27_2018-04-25 13:45:09.617470",
+      "connection_utc": "2018-04-25T13:45:10+00:00",
+      "disconnect_utc": "2018-04-26T00:56:16+00:00",
+      "connection_local": "2018-04-25T06:45:10-07:00",
+      "duration_hours": 11.185,
+      "delivered_grid_kwh": 10.013,
+      "user_requested_kwh": null,
+      "user_inputs_present": false,
+      "done_charging_after_disconnect": false,
+      "assumed_capacity_kwh": 60,
+      "assumed_initial_soc": 0.3,
+      "derived_target_soc": 0.450195
+    },
+    {
+      "session_id": "2_39_79_380_2018-04-25 13:45:49.962001",
+      "connection_utc": "2018-04-25T13:45:50+00:00",
+      "disconnect_utc": "2018-04-25T23:04:45+00:00",
+      "connection_local": "2018-04-25T06:45:50-07:00",
+      "duration_hours": 9.315277777777778,
+      "delivered_grid_kwh": 5.257,
+      "user_requested_kwh": null,
+      "user_inputs_present": false,
+      "done_charging_after_disconnect": false,
+      "assumed_capacity_kwh": 60,
+      "assumed_initial_soc": 0.3,
+      "derived_target_soc": 0.378855
+    },
+    {
+      "session_id": "2_39_79_379_2018-04-25 14:37:06.460772",
+      "connection_utc": "2018-04-25T14:37:06+00:00",
+      "disconnect_utc": "2018-04-25T23:55:34+00:00",
+      "connection_local": "2018-04-25T07:37:06-07:00",
+      "duration_hours": 9.307777777777778,
+      "delivered_grid_kwh": 5.177,
+      "user_requested_kwh": null,
+      "user_inputs_present": false,
+      "done_charging_after_disconnect": false,
+      "assumed_capacity_kwh": 60,
+      "assumed_initial_soc": 0.3,
+      "derived_target_soc": 0.37765499999999996
+    },
+    {
+      "session_id": "2_39_79_381_2018-04-25 14:40:33.638896",
+      "connection_utc": "2018-04-25T14:40:34+00:00",
+      "disconnect_utc": "2018-04-25T23:03:12+00:00",
+      "connection_local": "2018-04-25T07:40:34-07:00",
+      "duration_hours": 8.377222222222223,
+      "delivered_grid_kwh": 10.119,
+      "user_requested_kwh": null,
+      "user_inputs_present": false,
+      "done_charging_after_disconnect": false,
+      "assumed_capacity_kwh": 60,
+      "assumed_initial_soc": 0.3,
+      "derived_target_soc": 0.451785
+    }
+  ]
+}

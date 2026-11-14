@@ -1,0 +1,27 @@
+# Timezone of the ACN we are using.
+timezone = pytz.timezone('America/Los_Angeles')
+
+# Start and End times are used when collecting data.
+start = timezone.localize(datetime(2019, 3, 1))
+
+# Use only one week for quicker results.
+end = timezone.localize(datetime(2019, 4, 1,))
+
+# How long each time discrete time interval in the simulation should be.
+period = 5  # minutes
+
+# Voltage of the network.
+voltage = 208  # volts
+
+# Default maximum charging rate for each EV battery.
+default_battery_power = 6.6  # kW
+
+# Site info
+site = 'caltech'
+station_ids = acnsim.sites.caltech_acn().station_ids
+
+# Get Events Via the API
+API_KEY = 'DEMO_TOKEN'
+events = acnsim.acndata_events.generate_events(API_KEY, site, start, end, 
+                                               period, voltage, 
+                                               default_battery_power)

@@ -1,0 +1,9 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "cvxpy": "1.9.3",
+  "solver": "CLARABEL",
+  "prior_history": "365 days at 25 C and SOC .5; calendar only",
+  "synthetic_prices": "18-22 .30;22-03 .10;03-06 .24 dollars/kWh",
+  "cost_only_tie_break": "minimum squared power within $1e-8 of minimum cost"
+}
