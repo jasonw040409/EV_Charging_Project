@@ -1,0 +1,5 @@
+{
+  "trajectory_count": 224,
+  "checks": "PASS: reconstructed dynamics/energy/targets/power bounds/exposure; flat uniform case; inactive power/combined trajectories; zero numerical failures",
+  "independent_human_review": false
+}

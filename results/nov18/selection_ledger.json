@@ -1,0 +1,894 @@
+[
+  {
+    "session_id": "2_39_138_29_2018-04-27 01:17:42.537477",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_79_380_2018-04-26 00:02:15.719927",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      2
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_79_379_2018-04-26 00:03:03.183150",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      2
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_88_438_2018-04-26 00:05:36.143402",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_79_381_2018-04-26 00:07:09.533117",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_78_367_2018-04-26 01:21:27.557439",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_139_28_2018-04-26 01:40:28.805199",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_127_19_2018-04-26 01:48:54.561755",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_138_29_2018-04-26 01:49:57.021388",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_123_23_2018-04-26 02:17:10.267290",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      2
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_128_18_2018-04-26 02:25:13.890489",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_95_27_2018-04-26 02:36:01.816238",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      2
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_91_437_2018-04-26 02:49:57.469463",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_128_18_2018-04-26 03:07:04.059557",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_79_378_2018-04-26 03:13:43.624162",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_125_559_2018-04-26 03:33:57.793302",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_139_28_2018-04-26 06:20:55.934927",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      2
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_78_364_2018-04-26 11:31:16.750134",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_95_27_2018-04-26 13:25:08.191051",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      2
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_79_380_2018-04-26 13:54:16.774334",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_139_28_2018-04-26 14:47:07.799179",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      2
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_79_376_2018-04-26 14:59:44.094036",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_79_381_2018-04-26 15:05:15.788498",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_88_438_2018-04-26 15:05:55.670467",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      2
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_78_360_2018-04-26 15:27:50.360165",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_138_29_2018-04-26 15:28:14.862980",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_78_365_2018-04-26 15:45:25.544690",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_79_377_2018-04-26 15:46:05.101599",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_91_437_2018-04-26 15:46:32.723647",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_79_383_2018-04-26 15:47:39.378964",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_90_26_2018-04-26 15:55:17.797592",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_78_367_2018-04-26 15:56:03.627143",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_126_20_2018-04-26 15:57:15.957331",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_89_25_2018-04-26 15:59:52.547723",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_78_361_2018-04-26 16:01:29.497269",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_123_23_2018-04-26 16:01:58.184015",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      2
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_125_21_2018-04-26 16:07:42.331384",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      2
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_124_22_2018-04-26 16:09:34.799033",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      2
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_128_18_2018-04-26 16:20:51.916248",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_88_24_2018-04-26 16:21:30.898949",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      2
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_90_440_2018-04-26 16:38:46.876156",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_91_441_2018-04-26 16:41:11.622709",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_92_442_2018-04-26 16:53:04.473197",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_78_364_2018-04-26 16:58:20.585146",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_78_362_2018-04-26 17:08:18.246027",
+    "screening_reasons": [
+      "charging stop outside connected window"
+    ],
+    "bin": null,
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_79_378_2018-04-26 17:11:27.137449",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_95_444_2018-04-26 17:15:25.771871",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      2
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_89_439_2018-04-26 17:26:50.303622",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      2
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_123_557_2018-04-26 17:39:41.691514",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_78_367_2018-04-26 18:43:12.499350",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_91_441_2018-04-26 19:38:27.747784",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_78_366_2018-04-26 20:17:40.431300",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_131_30_2018-04-26 20:27:49.123093",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_128_18_2018-04-26 21:02:29.696365",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_78_363_2018-04-26 21:18:44.667990",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      2
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_91_437_2018-04-26 23:04:48.644211",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_78_362_2018-04-25 11:08:04.400812",
+    "screening_reasons": [
+      "charging stop outside connected window",
+      "original control or duplicate ID"
+    ],
+    "bin": null,
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_95_27_2018-04-25 13:45:09.617470",
+    "screening_reasons": [
+      "original control or duplicate ID"
+    ],
+    "bin": null,
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_79_380_2018-04-25 13:45:49.962001",
+    "screening_reasons": [
+      "original control or duplicate ID"
+    ],
+    "bin": null,
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_79_379_2018-04-25 14:37:06.460772",
+    "screening_reasons": [
+      "original control or duplicate ID"
+    ],
+    "bin": null,
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_79_381_2018-04-25 14:40:33.638896",
+    "screening_reasons": [
+      "original control or duplicate ID"
+    ],
+    "bin": null,
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_139_28_2018-04-25 14:43:49.647430",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      1
+    ],
+    "selected_addition": true
+  },
+  {
+    "session_id": "2_39_91_441_2018-04-25 14:47:41.776352",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      2
+    ],
+    "selected_addition": true
+  },
+  {
+    "session_id": "2_39_79_377_2018-04-25 14:58:25.255583",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      1
+    ],
+    "selected_addition": true
+  },
+  {
+    "session_id": "2_39_79_382_2018-04-25 15:10:51.871020",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      0
+    ],
+    "selected_addition": true
+  },
+  {
+    "session_id": "2_39_78_362_2018-04-25 15:12:10.901351",
+    "screening_reasons": [
+      "charging stop outside connected window"
+    ],
+    "bin": null,
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_78_366_2018-04-25 15:14:06.329009",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      1
+    ],
+    "selected_addition": true
+  },
+  {
+    "session_id": "2_39_91_437_2018-04-25 15:14:41.260754",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      0
+    ],
+    "selected_addition": true
+  },
+  {
+    "session_id": "2_39_78_361_2018-04-25 15:14:48.537248",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_78_360_2018-04-25 15:20:55.688491",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_125_21_2018-04-25 15:30:31.466431",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_78_365_2018-04-25 15:31:42.314475",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_127_19_2018-04-25 15:33:45.414350",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_79_383_2018-04-25 15:44:41.818763",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_89_25_2018-04-25 15:48:22.693006",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_95_444_2018-04-25 15:51:20.521751",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_124_22_2018-04-25 15:53:29.117069",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_89_439_2018-04-25 15:57:29.146101",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_92_442_2018-04-25 15:59:23.996834",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_123_23_2018-04-25 16:01:25.950919",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      2
+    ],
+    "selected_addition": true
+  },
+  {
+    "session_id": "2_39_90_440_2018-04-25 16:02:03.486354",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      0
+    ],
+    "selected_addition": true
+  },
+  {
+    "session_id": "2_39_78_364_2018-04-25 16:02:09.867816",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_88_24_2018-04-25 16:03:58.630483",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      2
+    ],
+    "selected_addition": true
+  },
+  {
+    "session_id": "2_39_90_26_2018-04-25 16:04:30.761826",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_88_438_2018-04-25 16:25:51.104829",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      2
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_78_363_2018-04-25 16:38:01.120020",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_79_378_2018-04-25 16:52:05.160592",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      2
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_123_557_2018-04-25 17:06:18.267849",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_79_382_2018-04-25 18:22:03.219076",
+    "screening_reasons": [],
+    "bin": [
+      2,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_78_366_2018-04-25 18:47:11.743708",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      0
+    ],
+    "selected_addition": true
+  },
+  {
+    "session_id": "2_39_78_362_2018-04-25 19:32:04.994953",
+    "screening_reasons": [
+      "charging stop outside connected window"
+    ],
+    "bin": null,
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_78_367_2018-04-25 19:33:01.165970",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_91_441_2018-04-25 19:40:02.051458",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      1
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_79_377_2018-04-25 19:41:42.209444",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      2
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_78_366_2018-04-25 19:43:13.444818",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      2
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_79_376_2018-04-25 20:14:49.585487",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_125_21_2018-04-25 20:30:48.546707",
+    "screening_reasons": [],
+    "bin": [
+      1,
+      0
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_78_362_2018-04-25 21:57:41.664229",
+    "screening_reasons": [
+      "charging stop outside connected window"
+    ],
+    "bin": null,
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_90_440_2018-04-25 22:17:32.279706",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      2
+    ],
+    "selected_addition": false
+  },
+  {
+    "session_id": "2_39_88_438_2018-04-25 22:42:48.381752",
+    "screening_reasons": [],
+    "bin": [
+      0,
+      0
+    ],
+    "selected_addition": false
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "successful_schedules": 236,
+  "trajectory_count": 224,
+  "excluded_scenarios_or_failures": 5,
+  "cohort_sessions": 15,
+  "analytically_infeasible": 5,
+  "numerical_failures": 0,
+  "max_energy_residual_kwh": 2.220446049250313e-11,
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "calendar_estimates": "provisional, pending independent model review",
+  "manual_review": "not completed by automation"
+}

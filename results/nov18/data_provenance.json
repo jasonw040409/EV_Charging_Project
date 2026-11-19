@@ -1,0 +1,10 @@
+{
+  "url": "https://ev.caltech.edu/api/v1/sessions/caltech?max_results=100",
+  "retrieved": "2026-11-18",
+  "authentication": "official public DEMO_TOKEN",
+  "snapshot_sha256": "d87d2d7b24767794ba19c21e4584eb4f1de6c8dc0eadc3711ebc2baabcec7cb4",
+  "selection": "Frozen first-page 100-record snapshot; deterministic duration/energy-bin round robin; five original controls plus ten additions. Not random or representative.",
+  "deviation_from_nov14_proposal": "Bounded first-page snapshot used instead of date-window query; availability and dates documented in cohort. No outcome-based selection.",
+  "candidate_count": 100,
+  "cohort_count": 15
+}

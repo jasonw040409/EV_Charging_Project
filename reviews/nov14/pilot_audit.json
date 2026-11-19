@@ -1,0 +1,432 @@
+{
+  "review_date": "2026-11-14",
+  "sessions": 5,
+  "generated_schedules": 20,
+  "raw_missing_user_inputs": 5,
+  "raw_missing_user_ids": 5,
+  "input_sha256": {
+    "README.md": "ec0479c34ba12f1ef16f8b87937db207435092052c47bb48304dd2031249b9da",
+    "docs/data_access_assessment.md": "b89ab7795f1d17d65ccad3529d113f8fafe2d31531af70293607958437f48e8b",
+    "docs/model_specification.md": "fa6b3d6b928dd80a355c03ce67d07e9359b0213ef88b59f39b4b6ff1148f2919",
+    "data/acn_sessions_raw.json": "496db99262e4fd44dc16582f2e84c1994e62e067c91e3294c0ca9339dae74e99",
+    "data/sample_sessions.csv": "2b455b76ec3a7befd02400c8834fb39d67887141d1e3204fc2e6270de6749d5c",
+    "data/inspection.json": "aadce7bb4529175c873919788a23442277da01e73a8b4e9141ba9b33c399b596",
+    "results/real_session_pilot.json": "948f151365ec2721e47a6241cae288b6880499a169d6f0eb5bec836f2bd11bd9",
+    "results/interpretation.md": "4d0651c2a80539357b2203bb06aa06fb6ffbae47df304c0343c9ee21257043bc",
+    "src/inspect_data.py": "630ff628089450b571f796ed3419a5da140c2a8e24e823d831354ba1e0dd326e",
+    "src/charging.py": "c7efd68863fe7499bfcde903b645283cce665f5dc823a4645b9815b14186e6b1",
+    "src/aging.py": "6a32d1314a2df4d3c121be8bb0e50dbfc8294dabf5fdfa171d43afe23c15a6e4",
+    "EV_Charging_Initial_Project_Plan.md": "f9276f627c25df32708d210e6035fcf6505f1cfd59ac6473df94cd02d9af15d5"
+  },
+  "checks": "PASS: raw/CSV/inspection/result consistency, saved feasibility and inactive penalty",
+  "limitations": "Saved pilot has aggregate metrics, not per-slot power/SOC trajectories. No new solves.",
+  "maximum_saved_residuals": {
+    "energy_residual_kwh": 3.950617610826157e-12,
+    "power_violation_kw": 0.0,
+    "soc_violation": 0.0,
+    "target_residual": 5.92303983637521e-14,
+    "max_constraint_residual": 3.952393967665557e-12
+  },
+  "records": [
+    {
+      "label": "S1",
+      "session_id": "2_39_78_362_2018-04-25 11:08:04.400812",
+      "raw_id": "5bc90cb9f9af8b0d7fe77cd2",
+      "station_id": "2-39-78-362",
+      "space_id": "CA-496",
+      "connection_utc": "2018-04-25T11:08:04+00:00",
+      "disconnect_utc": "2018-04-25T13:20:10+00:00",
+      "connection_local": "2018-04-25T04:08:04-07:00",
+      "disconnect_local": "2018-04-25T06:20:10-07:00",
+      "duration_hours": 2.2016666666666667,
+      "delivered_grid_kwh": 7.932,
+      "derived_target_soc": 0.41898,
+      "cheap_slot_capacity_grid_kwh": 15.852,
+      "done_charging_after_disconnect_seconds": 60.0,
+      "full_power_minimum_hours": 1.1016666666666668,
+      "combined_minus_power": {
+        "cost_dollars": 0.0,
+        "power_proxy": 5.551115123125783e-17,
+        "high_soc_proxy": 0.0,
+        "peak_kw": -1.9557688801796758e-11,
+        "calendar_increment_ppm": 6.31494856406789e-13
+      },
+      "saved_metrics": {
+        "immediate": {
+          "cost_dollars": 1.1898000000000002,
+          "power_proxy": 0.47260201272571184,
+          "high_soc_proxy": 0.0,
+          "peak_kw": 7.2,
+          "calendar_increment_ppm": 5.246527526474308
+        },
+        "cost_only": {
+          "cost_dollars": 1.1898000000002549,
+          "power_proxy": 0.25037864439872026,
+          "high_soc_proxy": 0.0,
+          "peak_kw": 3.6027252081812637,
+          "calendar_increment_ppm": 5.178453159457747
+        },
+        "power_penalty": {
+          "cost_dollars": 1.1898000000000006,
+          "power_proxy": 0.2503786443986132,
+          "high_soc_proxy": 0.0,
+          "peak_kw": 3.6027252082474295,
+          "calendar_increment_ppm": 5.178453159455879
+        },
+        "combined": {
+          "cost_dollars": 1.1898000000000006,
+          "power_proxy": 0.25037864439861324,
+          "high_soc_proxy": 0.0,
+          "peak_kw": 3.602725208227872,
+          "calendar_increment_ppm": 5.17845315945651
+        }
+      },
+      "analytic_sensitivity": [
+        {
+          "assumed_initial_soc": 0.3,
+          "derived_target_soc": 0.41898,
+          "energy_window_feasible": true,
+          "capacity_feasible": true,
+          "feasible": true,
+          "threshold_crossed_if_feasible": false
+        },
+        {
+          "assumed_initial_soc": 0.6,
+          "derived_target_soc": 0.71898,
+          "energy_window_feasible": true,
+          "capacity_feasible": true,
+          "feasible": true,
+          "threshold_crossed_if_feasible": true
+        },
+        {
+          "assumed_initial_soc": 0.75,
+          "derived_target_soc": 0.86898,
+          "energy_window_feasible": true,
+          "capacity_feasible": true,
+          "feasible": true,
+          "threshold_crossed_if_feasible": true
+        }
+      ]
+    },
+    {
+      "label": "S2",
+      "session_id": "2_39_95_27_2018-04-25 13:45:09.617470",
+      "raw_id": "5bc90cb9f9af8b0d7fe77cd3",
+      "station_id": "2-39-95-27",
+      "space_id": "CA-319",
+      "connection_utc": "2018-04-25T13:45:10+00:00",
+      "disconnect_utc": "2018-04-26T00:56:16+00:00",
+      "connection_local": "2018-04-25T06:45:10-07:00",
+      "disconnect_local": "2018-04-25T17:56:16-07:00",
+      "duration_hours": 11.185,
+      "delivered_grid_kwh": 10.013,
+      "derived_target_soc": 0.450195,
+      "cheap_slot_capacity_grid_kwh": 68.0048,
+      "done_charging_after_disconnect_seconds": -29521.0,
+      "full_power_minimum_hours": 1.3906944444444445,
+      "combined_minus_power": {
+        "cost_dollars": 6.439293542825908e-15,
+        "power_proxy": -1.0061396160665481e-16,
+        "high_soc_proxy": 0.0,
+        "peak_kw": -2.4387827313177013e-09,
+        "calendar_increment_ppm": -7.209521868389857e-11
+      },
+      "saved_metrics": {
+        "immediate": {
+          "cost_dollars": 1.5019500000000003,
+          "power_proxy": 0.11898111160469958,
+          "high_soc_proxy": 0.0,
+          "peak_kw": 7.2,
+          "calendar_increment_ppm": 27.02197506597798
+        },
+        "cost_only": {
+          "cost_dollars": 1.5019500099975975,
+          "power_proxy": 0.01830713457285477,
+          "high_soc_proxy": 0.0,
+          "peak_kw": 1.0601251605987791,
+          "calendar_increment_ppm": 26.558638086162308
+        },
+        "power_penalty": {
+          "cost_dollars": 1.5019500000009758,
+          "power_proxy": 0.018307134816521718,
+          "high_soc_proxy": 0.0,
+          "peak_kw": 1.060125170305412,
+          "calendar_increment_ppm": 26.558638089999686
+        },
+        "combined": {
+          "cost_dollars": 1.5019500000009822,
+          "power_proxy": 0.018307134816521617,
+          "high_soc_proxy": 0.0,
+          "peak_kw": 1.0601251678666292,
+          "calendar_increment_ppm": 26.55863808992759
+        }
+      },
+      "analytic_sensitivity": [
+        {
+          "assumed_initial_soc": 0.3,
+          "derived_target_soc": 0.450195,
+          "energy_window_feasible": true,
+          "capacity_feasible": true,
+          "feasible": true,
+          "threshold_crossed_if_feasible": false
+        },
+        {
+          "assumed_initial_soc": 0.6,
+          "derived_target_soc": 0.750195,
+          "energy_window_feasible": true,
+          "capacity_feasible": true,
+          "feasible": true,
+          "threshold_crossed_if_feasible": true
+        },
+        {
+          "assumed_initial_soc": 0.75,
+          "derived_target_soc": 0.900195,
+          "energy_window_feasible": true,
+          "capacity_feasible": false,
+          "feasible": false,
+          "threshold_crossed_if_feasible": null
+        }
+      ]
+    },
+    {
+      "label": "S3",
+      "session_id": "2_39_79_380_2018-04-25 13:45:49.962001",
+      "raw_id": "5bc90cb9f9af8b0d7fe77cd4",
+      "station_id": "2-39-79-380",
+      "space_id": "CA-489",
+      "connection_utc": "2018-04-25T13:45:50+00:00",
+      "disconnect_utc": "2018-04-25T23:04:45+00:00",
+      "connection_local": "2018-04-25T06:45:50-07:00",
+      "disconnect_local": "2018-04-25T16:04:45-07:00",
+      "duration_hours": 9.315277777777778,
+      "delivered_grid_kwh": 5.257,
+      "derived_target_soc": 0.378855,
+      "cheap_slot_capacity_grid_kwh": 67.07000000000001,
+      "done_charging_after_disconnect_seconds": -29581.0,
+      "full_power_minimum_hours": 0.7301388888888888,
+      "combined_minus_power": {
+        "cost_dollars": -2.220446049250313e-16,
+        "power_proxy": -3.469446951953614e-18,
+        "high_soc_proxy": 0.0,
+        "peak_kw": -1.4551378879623655e-08,
+        "calendar_increment_ppm": -3.2856917187018553e-10
+      },
+      "saved_metrics": {
+        "immediate": {
+          "cost_dollars": 0.7885500000000002,
+          "power_proxy": 0.0778264221009634,
+          "high_soc_proxy": 0.0,
+          "peak_kw": 7.2,
+          "calendar_increment_ppm": 22.17658635294084
+        },
+        "cost_only": {
+          "cost_dollars": 0.7885500000005786,
+          "power_proxy": 0.006143549210304472,
+          "high_soc_proxy": 0.0,
+          "peak_kw": 0.564341732542818,
+          "calendar_increment_ppm": 21.669646074233064
+        },
+        "power_penalty": {
+          "cost_dollars": 0.7885500000000002,
+          "power_proxy": 0.006143549210295457,
+          "high_soc_proxy": 0.0,
+          "peak_kw": 0.5643417479370808,
+          "calendar_increment_ppm": 21.669646074820992
+        },
+        "combined": {
+          "cost_dollars": 0.78855,
+          "power_proxy": 0.006143549210295454,
+          "high_soc_proxy": 0.0,
+          "peak_kw": 0.5643417333857019,
+          "calendar_increment_ppm": 21.669646074492423
+        }
+      },
+      "analytic_sensitivity": [
+        {
+          "assumed_initial_soc": 0.3,
+          "derived_target_soc": 0.378855,
+          "energy_window_feasible": true,
+          "capacity_feasible": true,
+          "feasible": true,
+          "threshold_crossed_if_feasible": false
+        },
+        {
+          "assumed_initial_soc": 0.6,
+          "derived_target_soc": 0.678855,
+          "energy_window_feasible": true,
+          "capacity_feasible": true,
+          "feasible": true,
+          "threshold_crossed_if_feasible": false
+        },
+        {
+          "assumed_initial_soc": 0.75,
+          "derived_target_soc": 0.828855,
+          "energy_window_feasible": true,
+          "capacity_feasible": true,
+          "feasible": true,
+          "threshold_crossed_if_feasible": true
+        }
+      ]
+    },
+    {
+      "label": "S4",
+      "session_id": "2_39_79_379_2018-04-25 14:37:06.460772",
+      "raw_id": "5bc90cb9f9af8b0d7fe77cd5",
+      "station_id": "2-39-79-379",
+      "space_id": "CA-327",
+      "connection_utc": "2018-04-25T14:37:06+00:00",
+      "disconnect_utc": "2018-04-25T23:55:34+00:00",
+      "connection_local": "2018-04-25T07:37:06-07:00",
+      "disconnect_local": "2018-04-25T16:55:34-07:00",
+      "duration_hours": 9.307777777777778,
+      "delivered_grid_kwh": 5.177,
+      "derived_target_soc": 0.37765499999999996,
+      "cheap_slot_capacity_grid_kwh": 61.725263157894744,
+      "done_charging_after_disconnect_seconds": -28212.0,
+      "full_power_minimum_hours": 0.7190277777777777,
+      "combined_minus_power": {
+        "cost_dollars": -1.6836532168440499e-12,
+        "power_proxy": 2.8097316140396345e-14,
+        "high_soc_proxy": 0.0,
+        "peak_kw": -1.9471561030215412e-08,
+        "calendar_increment_ppm": -4.517346496868413e-10
+      },
+      "saved_metrics": {
+        "immediate": {
+          "cost_dollars": 0.7765499999999997,
+          "power_proxy": 0.0756625027056473,
+          "high_soc_proxy": 0.0,
+          "peak_kw": 7.2,
+          "calendar_increment_ppm": 22.148101012523835
+        },
+        "cost_only": {
+          "cost_dollars": 0.7765500099952302,
+          "power_proxy": 0.006479102732784228,
+          "high_soc_proxy": 0.0,
+          "peak_kw": 0.6038759110189875,
+          "calendar_increment_ppm": 21.68696279096942
+        },
+        "power_penalty": {
+          "cost_dollars": 0.7765500000017188,
+          "power_proxy": 0.006479102899539479,
+          "high_soc_proxy": 0.0,
+          "peak_kw": 0.6038759388762486,
+          "calendar_increment_ppm": 21.686962798545373
+        },
+        "combined": {
+          "cost_dollars": 0.7765500000000352,
+          "power_proxy": 0.006479102899567576,
+          "high_soc_proxy": 0.0,
+          "peak_kw": 0.6038759194046875,
+          "calendar_increment_ppm": 21.68696279809364
+        }
+      },
+      "analytic_sensitivity": [
+        {
+          "assumed_initial_soc": 0.3,
+          "derived_target_soc": 0.37765499999999996,
+          "energy_window_feasible": true,
+          "capacity_feasible": true,
+          "feasible": true,
+          "threshold_crossed_if_feasible": false
+        },
+        {
+          "assumed_initial_soc": 0.6,
+          "derived_target_soc": 0.677655,
+          "energy_window_feasible": true,
+          "capacity_feasible": true,
+          "feasible": true,
+          "threshold_crossed_if_feasible": false
+        },
+        {
+          "assumed_initial_soc": 0.75,
+          "derived_target_soc": 0.827655,
+          "energy_window_feasible": true,
+          "capacity_feasible": true,
+          "feasible": true,
+          "threshold_crossed_if_feasible": true
+        }
+      ]
+    },
+    {
+      "label": "S5",
+      "session_id": "2_39_79_381_2018-04-25 14:40:33.638896",
+      "raw_id": "5bc90cb9f9af8b0d7fe77cd6",
+      "station_id": "2-39-79-381",
+      "space_id": "CA-490",
+      "connection_utc": "2018-04-25T14:40:34+00:00",
+      "disconnect_utc": "2018-04-25T23:03:12+00:00",
+      "connection_local": "2018-04-25T07:40:34-07:00",
+      "disconnect_local": "2018-04-25T16:03:12-07:00",
+      "duration_hours": 8.377222222222223,
+      "delivered_grid_kwh": 10.119,
+      "derived_target_soc": 0.451785,
+      "cheap_slot_capacity_grid_kwh": 60.316,
+      "done_charging_after_disconnect_seconds": -19362.0,
+      "full_power_minimum_hours": 1.4054166666666665,
+      "combined_minus_power": {
+        "cost_dollars": 0.0,
+        "power_proxy": -3.469446951953614e-18,
+        "high_soc_proxy": 0.0,
+        "peak_kw": 6.331823954042193e-11,
+        "calendar_increment_ppm": 4.239453232912638e-11
+      },
+      "saved_metrics": {
+        "immediate": {
+          "cost_dollars": 1.5178500000000001,
+          "power_proxy": 0.161638192554164,
+          "high_soc_proxy": 0.0,
+          "peak_kw": 7.2,
+          "calendar_increment_ppm": 20.221977676851317
+        },
+        "cost_only": {
+          "cost_dollars": 1.5178500000000807,
+          "power_proxy": 0.02814557508011877,
+          "high_soc_proxy": 0.0,
+          "peak_kw": 1.2079182969835764,
+          "calendar_increment_ppm": 19.823224537622732
+        },
+        "power_penalty": {
+          "cost_dollars": 1.5178499999999995,
+          "power_proxy": 0.028145575080115757,
+          "high_soc_proxy": 0.0,
+          "peak_kw": 1.207918297129345,
+          "calendar_increment_ppm": 19.82322453762639
+        },
+        "combined": {
+          "cost_dollars": 1.5178499999999995,
+          "power_proxy": 0.028145575080115753,
+          "high_soc_proxy": 0.0,
+          "peak_kw": 1.2079182971926632,
+          "calendar_increment_ppm": 19.823224537668786
+        }
+      },
+      "analytic_sensitivity": [
+        {
+          "assumed_initial_soc": 0.3,
+          "derived_target_soc": 0.451785,
+          "energy_window_feasible": true,
+          "capacity_feasible": true,
+          "feasible": true,
+          "threshold_crossed_if_feasible": false
+        },
+        {
+          "assumed_initial_soc": 0.6,
+          "derived_target_soc": 0.7517849999999999,
+          "energy_window_feasible": true,
+          "capacity_feasible": true,
+          "feasible": true,
+          "threshold_crossed_if_feasible": true
+        },
+        {
+          "assumed_initial_soc": 0.75,
+          "derived_target_soc": 0.9017850000000001,
+          "energy_window_feasible": true,
+          "capacity_feasible": false,
+          "feasible": false,
+          "threshold_crossed_if_feasible": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "weight_power": 0,
+    "weight_soc": 0,
+    "cost_dollars": 3.333333343334481,
+    "power_proxy": 0.35722450693063856,
+    "high_soc_proxy": 0.03211805516526895
+  },
+  {
+    "weight_power": 0,
+    "weight_soc": 1,
+    "cost_dollars": 3.3333333333344606,
+    "power_proxy": 0.3648330091542446,
+    "high_soc_proxy": 0.031899537037043346
+  },
+  {
+    "weight_power": 0,
+    "weight_soc": 10,
+    "cost_dollars": 4.059745845559944,
+    "power_proxy": 0.33416066325857924,
+    "high_soc_proxy": 0.0051759555575431404
+  },
+  {
+    "weight_power": 0.1,
+    "weight_soc": 0,
+    "cost_dollars": 3.3333333333339237,
+    "power_proxy": 0.35722450845899867,
+    "high_soc_proxy": 0.032118055555563706
+  },
+  {
+    "weight_power": 0.1,
+    "weight_soc": 1,
+    "cost_dollars": 3.3333333333687287,
+    "power_proxy": 0.35754735740779714,
+    "high_soc_proxy": 0.031905936458905625
+  },
+  {
+    "weight_power": 0.1,
+    "weight_soc": 10,
+    "cost_dollars": 4.061438235264772,
+    "power_proxy": 0.3098478895182064,
+    "high_soc_proxy": 0.00518106825740557
+  },
+  {
+    "weight_power": 1,
+    "weight_soc": 0,
+    "cost_dollars": 3.826289345206818,
+    "power_proxy": 0.2923843053971914,
+    "high_soc_proxy": 0.017257535125182893
+  },
+  {
+    "weight_power": 1,
+    "weight_soc": 1,
+    "cost_dollars": 3.998239167579298,
+    "power_proxy": 0.27567944688333346,
+    "high_soc_proxy": 0.012042519742207094
+  },
+  {
+    "weight_power": 1,
+    "weight_soc": 10,
+    "cost_dollars": 4.27070237466193,
+    "power_proxy": 0.2691997778827377,
+    "high_soc_proxy": 0.005288806971113973
+  },
+  {
+    "weight_power": 10,
+    "weight_soc": 0,
+    "cost_dollars": 6.398070198759891,
+    "power_proxy": 0.15062590602411316,
+    "high_soc_proxy": 0.008969856598261735
+  },
+  {
+    "weight_power": 10,
+    "weight_soc": 1,
+    "cost_dollars": 6.401436459071612,
+    "power_proxy": 0.15059684297350515,
+    "high_soc_proxy": 0.00880882962817337
+  },
+  {
+    "weight_power": 10,
+    "weight_soc": 10,
+    "cost_dollars": 6.42502176489177,
+    "power_proxy": 0.15089086575138477,
+    "high_soc_proxy": 0.007726639116246973
+  }
+]
