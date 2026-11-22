@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "png_dimensions": [
+    3080,
+    1980
+  ],
+  "pdf_pages": 1,
+  "visual_inspection": "PNG inspected, then threshold label repositioned; latest PDF rendered and inspected with readable labels and no clipping.",
+  "saved_data_checks": "Common inputs/prices, dynamics, energy, departure target and window checked by plotting script.",
+  "sha256": {
+    "results/data_review_nov21/figures/s2_soc60_schedules.png": "718cd00eb325a80f85457bf0bfa028ccc4a536dc8677e608860fc40a405b80b0",
+    "output/pdf/data_review_nov21/s2_soc60_schedules.pdf": "0f636169ce3faedebb0928b7ab76060193b58b167931ae1497585be8d9f06f47"
+  },
+  "no_optimizer_runs": true,
+  "independent_scientific_review": false
+}

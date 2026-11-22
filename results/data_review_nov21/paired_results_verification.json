@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "complete_cases": 40,
+  "per_case_metric_differences": 960,
+  "clean_counts": [
+    14,
+    14,
+    9
+  ],
+  "all_raw_differences_checked": true,
+  "all_group_medians_checked": true,
+  "quartiles_checked_against_statistics_inclusive": true,
+  "classification_counts_reconcile": true,
+  "scope": "Saved-result analysis checks only; no solver or independent model validation"
+}

@@ -1,0 +1,51 @@
+{
+  "status": "PASS",
+  "revision_date": "2026-11-22",
+  "figures": [
+    {
+      "figure": "s2_soc60_schedules_slide",
+      "png_dimensions": [
+        3080,
+        1732
+      ],
+      "pdf_pages": 1,
+      "style": "Matplotlib default styling, single concise title, no subtitle",
+      "visual_review": "Latest rendered PDF inspected; labels legible and unclipped",
+      "sha256": {
+        "results/data_review_nov21/figures/s2_soc60_schedules_slide.png": "e8301dacaaea8153cc38975bc2726cb9077b479b396f48c6c732d505fd719cd4",
+        "output/pdf/data_review_nov21/s2_soc60_schedules_slide.pdf": "58baf33f06b47c87af55f8dbb813cd38ab913d439418a998e132a45d6c508ccd"
+      }
+    },
+    {
+      "figure": "paired_tradeoffs_slide",
+      "png_dimensions": [
+        3080,
+        1732
+      ],
+      "pdf_pages": 1,
+      "style": "Matplotlib default styling, single concise title, no subtitle",
+      "visual_review": "Latest rendered PDF inspected; labels legible and unclipped",
+      "sha256": {
+        "results/data_review_nov21/figures/paired_tradeoffs_slide.png": "c77873db2beb92925cd29427f6a8330de07ef0f06555af625207ac31f50b9952",
+        "output/pdf/data_review_nov21/paired_tradeoffs_slide.pdf": "48c6d24b1c154e6c3c59c77dc6bccafa8298e44b0f35a13cf12d687543561f93"
+      }
+    },
+    {
+      "figure": "scenario_availability_slide",
+      "png_dimensions": [
+        3080,
+        1732
+      ],
+      "pdf_pages": 1,
+      "style": "Matplotlib default styling, single concise title, no subtitle",
+      "visual_review": "Latest rendered PDF inspected; labels legible and unclipped",
+      "sha256": {
+        "results/data_review_nov21/figures/scenario_availability_slide.png": "fa8d0284bb3bce785967b1e90dc089cb2a11a69159e480eb7514c76f91b1fd96",
+        "output/pdf/data_review_nov21/scenario_availability_slide.pdf": "81bbcd0649dfcacbaea030655008f3f7f274ca74c157f0d8227e43507cbe175b"
+      }
+    }
+  ],
+  "all_nine_medians_match_task3": true,
+  "no_optimizer_runs": true,
+  "source_data_unchanged": true
+}

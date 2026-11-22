@@ -1,0 +1,62 @@
+{
+  "input_directory": "/Users/tongyangwang/Desktop/FL2026/CSE 543/EV_Charging_Project/results/nov18",
+  "input_sha256": {
+    "metrics.json": "f601e006d6feef4b6885f107e6f81f6acf983fbe9e15c09e78d905ca033bb011",
+    "cohort.json": "c268318dc654bbf964fee069228ef14db29701a84d34bfb40ceb61b88bdf860e",
+    "exclusions.json": "254ffaeafeec620874a6382a42d1f8070970f76fc309c4bfa031f6338ad39d49"
+  },
+  "metrics": {
+    "cost_dollars": {
+      "unit": "dollars",
+      "reporting_tolerance": 1e-07
+    },
+    "power_proxy": {
+      "unit": "dimensionless",
+      "reporting_tolerance": 1e-08
+    },
+    "high_soc_proxy": {
+      "unit": "dimensionless",
+      "reporting_tolerance": 1e-08
+    },
+    "peak_kw": {
+      "unit": "kW",
+      "reporting_tolerance": 1e-05
+    },
+    "calendar_increment_ppm": {
+      "unit": "ppm of original capacity",
+      "reporting_tolerance": 1e-06
+    },
+    "total_wall_seconds": {
+      "unit": "seconds, single execution",
+      "reporting_tolerance": null
+    }
+  },
+  "comparisons": [
+    [
+      "immediate",
+      "cost_only"
+    ],
+    [
+      "power_penalty",
+      "cost_only"
+    ],
+    [
+      "combined",
+      "cost_only"
+    ],
+    [
+      "combined",
+      "power_penalty"
+    ]
+  ],
+  "quantile_rule": "Linear interpolation at (n-1)*q, q=0.25/0.75",
+  "direction": "comparison minus reference; smaller cost/scores/peak is lower, not proof of health benefit",
+  "paired_rule": "Compute differences within each session/SOC case first, then summarize differences",
+  "tolerance_rule": "Classify small changes only; preserve raw deltas. Not a physical significance test.",
+  "statistical_limit": "Descriptive statistics only; repeated SOC assumptions are not independent real sessions. No confidence/significance claims.",
+  "timing_limit": "Single saved executions; cost-only has two stages. No speed ranking from timing classification.",
+  "clean_rule": "No saved/raw charging-stop ordering flag; not proof of overall data quality",
+  "aging_status": "Conditional calendar estimates, pending independent model review",
+  "optimizer_executed": false,
+  "original_study_inputs_unchanged": true
+}

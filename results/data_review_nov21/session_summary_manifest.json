@@ -1,0 +1,36 @@
+{
+  "session_count": 15,
+  "input_sha256": {
+    "/Users/tongyangwang/Desktop/FL2026/CSE 543/EV_Charging_Project/results/nov18/cohort.json": "c268318dc654bbf964fee069228ef14db29701a84d34bfb40ceb61b88bdf860e",
+    "/Users/tongyangwang/Desktop/FL2026/CSE 543/EV_Charging_Project/data/acn_sessions_raw.json": "496db99262e4fd44dc16582f2e84c1994e62e067c91e3294c0ca9339dae74e99"
+  },
+  "assumptions": {
+    "capacity_kwh": 60.0,
+    "efficiency": 0.9,
+    "initial_soc_fractions": [
+      0.3,
+      0.6,
+      0.75
+    ],
+    "maximum_soc": 0.9
+  },
+  "derived_target_note": "Hypothetical targets in percent, not measured SOC. Values are not capped at maximum SOC.",
+  "observed_fields_note": "Delivered energy is recorded; treating it as grid-side is a modeling convention. UTC/local times describe the same events.",
+  "optional_input_note": "user_inputs_present indicates presence only; no requested-energy value is inferred or extracted.",
+  "label_note": "S labels preserve cohort order for this export. Join across versions using session_id, not S label.",
+  "timing_note": "Empty timing_flags means no listed timestamp flag was detected, not proof of overall data quality.",
+  "export_command_settings": {
+    "cohort": "results/nov18/cohort.json",
+    "controls": "data/acn_sessions_raw.json",
+    "output_dir": "results/data_review_nov21",
+    "capacity_kwh": 60.0,
+    "efficiency": 0.9,
+    "initial_socs": [
+      0.3,
+      0.6,
+      0.75
+    ],
+    "maximum_soc": 0.9
+  },
+  "optimizer_executed": false
+}

@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "revision_date": "2026-11-22",
+  "figure": "scenario_availability_slide",
+  "png_dimensions": [
+    3080,
+    1732
+  ],
+  "pdf_pages": 1,
+  "style": "Matplotlib default styling, single concise title, no subtitle",
+  "visual_review": "Latest rendered PDF inspected; labels legible and unclipped",
+  "sha256": {
+    "results/data_review_nov21/figures/scenario_availability_slide.png": "fa8d0284bb3bce785967b1e90dc089cb2a11a69159e480eb7514c76f91b1fd96",
+    "output/pdf/data_review_nov21/scenario_availability_slide.pdf": "81bbcd0649dfcacbaea030655008f3f7f274ca74c157f0d8227e43507cbe175b"
+  }
+}

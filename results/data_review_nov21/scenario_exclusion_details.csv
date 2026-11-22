@@ -1,0 +1,6 @@
+session_id,case,status,original_saved_reason,review_explanation,assumed_initial_soc_pct,derived_target_soc_pct,assumed_maximum_soc_pct,recorded_delivered_kwh
+2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc75,analytically_infeasible,Invalid physical parameters,derived target exceeds assumed maximum SOC,75.0,90.0195,90.0,10.013
+2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc75,analytically_infeasible,Invalid physical parameters,derived target exceeds assumed maximum SOC,75.0,90.1785,90.0,10.119
+2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc75,analytically_infeasible,Invalid physical parameters,derived target exceeds assumed maximum SOC,75.0,97.941,90.0,15.294
+2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc75,analytically_infeasible,Invalid physical parameters,derived target exceeds assumed maximum SOC,75.0,101.169,90.0,17.446
+2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc75,analytically_infeasible,Invalid physical parameters,derived target exceeds assumed maximum SOC,75.0,97.0395,90.0,14.693

@@ -1,0 +1,75 @@
+{
+  "input_sha256": {
+    "/Users/tongyangwang/Desktop/FL2026/CSE 543/EV_Charging_Project/results/data_review_nov21/paired_case_changes.csv": "4e24e1472692c78a71cba2f907e6a01b241b729fc70a88f69db7471a8e11b23b",
+    "/Users/tongyangwang/Desktop/FL2026/CSE 543/EV_Charging_Project/results/nov18/metrics.json": "f601e006d6feef4b6885f107e6f81f6acf983fbe9e15c09e78d905ca033bb011"
+  },
+  "comparison": "combined minus power_penalty",
+  "clean_case_counts": {
+    "30": 14,
+    "60": 14,
+    "75": 9
+  },
+  "paired_medians": [
+    {
+      "assumed_initial_soc_pct": 30,
+      "metric": "high_soc_proxy",
+      "case_count": 14,
+      "median_change": 0.0
+    },
+    {
+      "assumed_initial_soc_pct": 60,
+      "metric": "high_soc_proxy",
+      "case_count": 14,
+      "median_change": 0.0
+    },
+    {
+      "assumed_initial_soc_pct": 75,
+      "metric": "high_soc_proxy",
+      "case_count": 9,
+      "median_change": -0.05411688806556114
+    },
+    {
+      "assumed_initial_soc_pct": 30,
+      "metric": "peak_kw",
+      "case_count": 14,
+      "median_change": -2.3369306489939845e-10
+    },
+    {
+      "assumed_initial_soc_pct": 60,
+      "metric": "peak_kw",
+      "case_count": 14,
+      "median_change": 5.994208740478513e-10
+    },
+    {
+      "assumed_initial_soc_pct": 75,
+      "metric": "peak_kw",
+      "case_count": 9,
+      "median_change": 5.107221664755618
+    },
+    {
+      "assumed_initial_soc_pct": 30,
+      "metric": "cost_dollars",
+      "case_count": 14,
+      "median_change": -3.3306690738754696e-16
+    },
+    {
+      "assumed_initial_soc_pct": 60,
+      "metric": "cost_dollars",
+      "case_count": 14,
+      "median_change": 0.0
+    },
+    {
+      "assumed_initial_soc_pct": 75,
+      "metric": "cost_dollars",
+      "case_count": 9,
+      "median_change": 2.220446049250313e-16
+    }
+  ],
+  "source_cross_check": "PASS: every plotted delta and case membership checked against frozen metrics",
+  "outputs": {
+    "png": "/Users/tongyangwang/Desktop/FL2026/CSE 543/EV_Charging_Project/results/data_review_nov21/figures/paired_tradeoffs_slide.png",
+    "pdf": "/Users/tongyangwang/Desktop/FL2026/CSE 543/EV_Charging_Project/output/pdf/data_review_nov21/paired_tradeoffs_slide.pdf"
+  },
+  "optimizer_executed": false,
+  "original_inputs_unchanged": true
+}

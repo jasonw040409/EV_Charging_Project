@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "exported_unique_sessions": 15,
+  "saved_real_schedule_rows_cross_checked": 160,
+  "S2_local_times_checked": true,
+  "S2_infeasible_target_preserved_pct": 90.0195,
+  "source_timing_flags_preserved": true,
+  "baseline_code_or_results_modified": false,
+  "scope": "Export verification only; no solver or independent scientific model review."
+}

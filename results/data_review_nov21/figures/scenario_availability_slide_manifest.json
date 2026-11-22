@@ -1,0 +1,36 @@
+{
+  "input_sha256": {
+    "/Users/tongyangwang/Desktop/FL2026/CSE 543/EV_Charging_Project/results/data_review_nov21/scenario_availability_by_soc.csv": "7e901854c913b36ba44cebad813716f500d6445614485a273308b66a63670ba0",
+    "/Users/tongyangwang/Desktop/FL2026/CSE 543/EV_Charging_Project/results/nov18/cohort.json": "c268318dc654bbf964fee069228ef14db29701a84d34bfb40ceb61b88bdf860e",
+    "/Users/tongyangwang/Desktop/FL2026/CSE 543/EV_Charging_Project/results/nov18/metrics.json": "f601e006d6feef4b6885f107e6f81f6acf983fbe9e15c09e78d905ca033bb011",
+    "/Users/tongyangwang/Desktop/FL2026/CSE 543/EV_Charging_Project/results/nov18/exclusions.json": "254ffaeafeec620874a6382a42d1f8070970f76fc309c4bfa031f6338ad39d49"
+  },
+  "counts": [
+    {
+      "assumed_arrival_soc_pct": 30.0,
+      "clean_feasible": 14,
+      "flagged_feasible": 1,
+      "infeasible": 0
+    },
+    {
+      "assumed_arrival_soc_pct": 60.0,
+      "clean_feasible": 14,
+      "flagged_feasible": 1,
+      "infeasible": 0
+    },
+    {
+      "assumed_arrival_soc_pct": 75.0,
+      "clean_feasible": 9,
+      "flagged_feasible": 1,
+      "infeasible": 5
+    }
+  ],
+  "cohort_sessions": 15,
+  "source_cross_check": "PASS: CSV counts agree with saved study; mutually exclusive groups cover full cohort at each SOC",
+  "outputs": {
+    "png": "/Users/tongyangwang/Desktop/FL2026/CSE 543/EV_Charging_Project/results/data_review_nov21/figures/scenario_availability_slide.png",
+    "pdf": "/Users/tongyangwang/Desktop/FL2026/CSE 543/EV_Charging_Project/output/pdf/data_review_nov21/scenario_availability_slide.pdf"
+  },
+  "optimizer_executed": false,
+  "original_inputs_unchanged": true
+}

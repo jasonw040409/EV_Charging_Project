@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "checked_local_references": 21,
+  "counts_and_paired_statistics_checked": true,
+  "source_sha256": {
+    "results/data_review_nov21/paired_change_summary.csv": "c1d445beacc4ac82f71b562d3301eaf7d3afd4c80f50bf12687e79f1e83017b4",
+    "results/data_review_nov21/scenario_availability_by_soc.csv": "7e901854c913b36ba44cebad813716f500d6445614485a273308b66a63670ba0",
+    "results/nov18/metrics.json": "f601e006d6feef4b6885f107e6f81f6acf983fbe9e15c09e78d905ca033bb011",
+    "results/nov18/run_summary.json": "12043b530dafa593e08ce53115ddd96fc029b4b64771d7fac178a962a100394d"
+  },
+  "scope": "Evidence/wording assembly; no new experiments or independent scientific review"
+}

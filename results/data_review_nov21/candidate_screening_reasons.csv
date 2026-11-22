@@ -1,0 +1,3 @@
+reason,candidate_count,denominator,counting_rule
+charging stop outside connected window,5,100,Reasons overlap; do not add them to obtain excluded candidate count
+original control or duplicate ID,5,100,Reasons overlap; do not add them to obtain excluded candidate count

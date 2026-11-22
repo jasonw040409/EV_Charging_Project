@@ -1,0 +1,4 @@
+assumed_initial_soc_pct,completed_four_method_cases,analytically_infeasible_cases,completed_clean_paired_cases,completed_flagged_diagnostic_cases,successful_schedules
+30.0,15,0,14,1,60
+60.0,15,0,14,1,60
+75.0,10,5,9,1,40

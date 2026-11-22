@@ -1,0 +1,961 @@
+quality_group,assumed_initial_soc_pct,session_id,case,comparison_method,reference_method,metric,unit,comparison_value,reference_value,change,classification,reporting_tolerance
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,immediate,cost_only,cost_dollars,dollars,1.1898000000000002,1.1898000000002549,-2.546851618490109e-13,within_reporting_tolerance,1e-07
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,immediate,cost_only,power_proxy,dimensionless,0.47260201272571184,0.25037864439872026,0.22222336832699158,higher,1e-08
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,immediate,cost_only,peak_kw,kW,7.2,3.6027252081812637,3.5972747918187364,higher,1e-05
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,5.246527526474308,5.178453159457747,0.06807436701656133,higher,1e-06
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.0005864579579792917,0.02362370799528435,-0.023037250037305057,timing_observation_only,
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,power_penalty,cost_only,cost_dollars,dollars,1.1898000000000006,1.1898000000002549,-2.5424107263916085e-13,within_reporting_tolerance,1e-07
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,power_penalty,cost_only,power_proxy,dimensionless,0.2503786443986132,0.25037864439872026,-1.0708101072509635e-13,within_reporting_tolerance,1e-08
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,power_penalty,cost_only,peak_kw,kW,3.6027252082474295,3.6027252081812637,6.616573955398053e-11,within_reporting_tolerance,1e-05
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,5.178453159455879,5.178453159457747,-1.8678392166293634e-12,within_reporting_tolerance,1e-06
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.008478417003061622,0.02362370799528435,-0.015145290992222726,timing_observation_only,
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,combined,cost_only,cost_dollars,dollars,1.1898000000000006,1.1898000000002549,-2.5424107263916085e-13,within_reporting_tolerance,1e-07
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,combined,cost_only,power_proxy,dimensionless,0.25037864439861324,0.25037864439872026,-1.0702549957386509e-13,within_reporting_tolerance,1e-08
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,combined,cost_only,peak_kw,kW,3.602725208227872,3.6027252081812637,4.660805075218377e-11,within_reporting_tolerance,1e-05
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,combined,cost_only,calendar_increment_ppm,ppm of original capacity,5.17845315945651,5.178453159457747,-1.2363443602225743e-12,within_reporting_tolerance,1e-06
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,combined,cost_only,total_wall_seconds,"seconds, single execution",0.008413874951656908,0.02362370799528435,-0.015209833043627441,timing_observation_only,
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,combined,power_penalty,cost_dollars,dollars,1.1898000000000006,1.1898000000000006,0.0,within_reporting_tolerance,1e-07
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,combined,power_penalty,power_proxy,dimensionless,0.25037864439861324,0.2503786443986132,5.551115123125783e-17,within_reporting_tolerance,1e-08
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,combined,power_penalty,peak_kw,kW,3.602725208227872,3.6027252082474295,-1.9557688801796758e-11,within_reporting_tolerance,1e-05
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,5.17845315945651,5.178453159455879,6.31494856406789e-13,within_reporting_tolerance,1e-06
+flagged_diagnostic,30.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc30,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.008413874951656908,0.008478417003061622,-6.454205140471458e-05,timing_observation_only,
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,immediate,cost_only,cost_dollars,dollars,1.1898,1.1898000000001532,-1.532107773982716e-13,within_reporting_tolerance,1e-07
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,immediate,cost_only,power_proxy,dimensionless,0.4726020127257116,0.2503786443986774,0.2222233683270342,higher,1e-08
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,immediate,cost_only,high_soc_proxy,dimensionless,0.0022635362962962952,0.0004857012345688146,0.0017778350617274805,higher,1e-08
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,immediate,cost_only,peak_kw,kW,7.2,3.602725208176111,3.597274791823889,higher,1e-05
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,5.731297037526846,5.580192130360802,0.15110490716604374,higher,1e-06
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00018737500067800283,0.015039041987620294,-0.014851666986942291,timing_observation_only,
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,power_penalty,cost_only,cost_dollars,dollars,1.1897999999999995,1.1898000000001532,-1.5365486660812167e-13,within_reporting_tolerance,1e-07
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,power_penalty,cost_only,power_proxy,dimensionless,0.2503786443986128,0.2503786443986774,-6.461498003318411e-14,within_reporting_tolerance,1e-08
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,power_penalty,cost_only,high_soc_proxy,dimensionless,0.00048570123456838084,0.0004857012345688146,-4.337892892114503e-16,within_reporting_tolerance,1e-08
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,power_penalty,cost_only,peak_kw,kW,3.6027252081793644,3.602725208176111,3.2533975513615587e-12,within_reporting_tolerance,1e-05
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,5.580192130360806,5.580192130360802,3.552713678800501e-15,within_reporting_tolerance,1e-06
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.00803437497233972,0.015039041987620294,-0.0070046670152805746,timing_observation_only,
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,combined,cost_only,cost_dollars,dollars,1.1898,1.1898000000001532,-1.532107773982716e-13,within_reporting_tolerance,1e-07
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,combined,cost_only,power_proxy,dimensionless,0.25040335731352764,0.2503786443986774,2.4712914850233414e-05,higher,1e-08
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,combined,cost_only,high_soc_proxy,dimensionless,0.00048058828102147166,0.0004857012345688146,-5.112953547342961e-06,lower,1e-08
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,combined,cost_only,peak_kw,kW,3.70396225709279,3.602725208176111,0.10123704891667895,higher,1e-05
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,combined,cost_only,calendar_increment_ppm,ppm of original capacity,5.579282515116547,5.580192130360802,-0.0009096152442555905,lower,1e-06
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,combined,cost_only,total_wall_seconds,"seconds, single execution",0.008323792018927634,0.015039041987620294,-0.00671524996869266,timing_observation_only,
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,combined,power_penalty,cost_dollars,dollars,1.1898,1.1897999999999995,4.440892098500626e-16,within_reporting_tolerance,1e-07
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,combined,power_penalty,power_proxy,dimensionless,0.25040335731352764,0.2503786443986128,2.4712914914848394e-05,higher,1e-08
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,combined,power_penalty,high_soc_proxy,dimensionless,0.00048058828102147166,0.00048570123456838084,-5.112953546909172e-06,lower,1e-08
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,combined,power_penalty,peak_kw,kW,3.70396225709279,3.6027252081793644,0.10123704891342555,higher,1e-05
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,5.579282515116547,5.580192130360806,-0.0009096152442591432,lower,1e-06
+flagged_diagnostic,60.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc60,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.008323792018927634,0.00803437497233972,0.00028941704658791423,timing_observation_only,
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,immediate,cost_only,cost_dollars,dollars,1.1898,1.189800000000051,-5.10702591327572e-14,within_reporting_tolerance,1e-07
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,immediate,cost_only,power_proxy,dimensionless,0.4726020127257116,0.25037864439863444,0.22222336832707718,higher,1e-08
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,immediate,cost_only,high_soc_proxy,dimensionless,0.24707616543209884,0.16271480740740596,0.08436135802469288,higher,1e-08
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,immediate,cost_only,peak_kw,kW,7.2,3.602725208178101,3.5972747918218992,higher,1e-05
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,7.5998365932136505,7.026348252211507,0.5734883410021432,higher,1e-06
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.0001823339844122529,0.01461058302083984,-0.014428249036427587,timing_observation_only,
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,power_penalty,cost_only,cost_dollars,dollars,1.1897999999999997,1.189800000000051,-5.129230373768223e-14,within_reporting_tolerance,1e-07
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,power_penalty,cost_only,power_proxy,dimensionless,0.25037864439861274,0.25037864439863444,-2.170486013142181e-14,within_reporting_tolerance,1e-08
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,power_penalty,cost_only,high_soc_proxy,dimensionless,0.16271480740691924,0.16271480740740596,-4.867217739956686e-13,within_reporting_tolerance,1e-08
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,power_penalty,cost_only,peak_kw,kW,3.602725208218961,3.602725208178101,4.086020410909441e-11,within_reporting_tolerance,1e-05
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,7.0263482522081615,7.026348252211507,-3.3457681070103718e-12,within_reporting_tolerance,1e-06
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.008284167037345469,0.01461058302083984,-0.006326415983494371,timing_observation_only,
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,combined,cost_only,cost_dollars,dollars,1.1897999999999995,1.189800000000051,-5.1514348342607263e-14,within_reporting_tolerance,1e-07
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,combined,cost_only,power_proxy,dimensionless,0.40780293288269304,0.25037864439863444,0.1574242884840586,higher,1e-08
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,combined,cost_only,high_soc_proxy,dimensionless,0.1081388043411547,0.16271480740740596,-0.05457600306625125,lower,1e-08
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,combined,cost_only,peak_kw,kW,7.199999999996686,3.602725208178101,3.5972747918185854,higher,1e-05
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,combined,cost_only,calendar_increment_ppm,ppm of original capacity,6.632036445115751,7.026348252211507,-0.39431180709575653,lower,1e-06
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,combined,cost_only,total_wall_seconds,"seconds, single execution",0.008470292028505355,0.01461058302083984,-0.006140290992334485,timing_observation_only,
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,combined,power_penalty,cost_dollars,dollars,1.1897999999999995,1.1897999999999997,-2.220446049250313e-16,within_reporting_tolerance,1e-07
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,combined,power_penalty,power_proxy,dimensionless,0.40780293288269304,0.25037864439861274,0.1574242884840803,higher,1e-08
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,combined,power_penalty,high_soc_proxy,dimensionless,0.1081388043411547,0.16271480740691924,-0.05457600306576453,lower,1e-08
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,combined,power_penalty,peak_kw,kW,7.199999999996686,3.602725208218961,3.5972747917777252,higher,1e-05
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,6.632036445115751,7.0263482522081615,-0.39431180709241076,lower,1e-06
+flagged_diagnostic,75.0,2_39_78_362_2018-04-25 11:08:04.400812,real_0_soc75,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.008470292028505355,0.008284167037345469,0.00018612499115988612,timing_observation_only,
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,immediate,cost_only,cost_dollars,dollars,1.5019500000000003,1.5019500099975975,-9.997597194555397e-09,within_reporting_tolerance,1e-07
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,immediate,cost_only,power_proxy,dimensionless,0.11898111160469958,0.01830713457285477,0.10067397703184482,higher,1e-08
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,immediate,cost_only,peak_kw,kW,7.2,1.0601251605987791,6.139874839401221,higher,1e-05
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,27.02197506597798,26.558638086162308,0.4633369798156721,higher,1e-06
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.0001994590274989605,0.017018708982504904,-0.016819249955005944,timing_observation_only,
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,power_penalty,cost_only,cost_dollars,dollars,1.5019500000009758,1.5019500099975975,-9.996621752605961e-09,within_reporting_tolerance,1e-07
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,power_penalty,cost_only,power_proxy,dimensionless,0.018307134816521718,0.01830713457285477,2.4366694773014785e-10,within_reporting_tolerance,1e-08
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,power_penalty,cost_only,peak_kw,kW,1.060125170305412,1.0601251605987791,9.7066328308415e-09,within_reporting_tolerance,1e-05
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,26.558638089999686,26.558638086162308,3.83737841502807e-09,within_reporting_tolerance,1e-06
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.009428584016859531,0.017018708982504904,-0.007590124965645373,timing_observation_only,
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,combined,cost_only,cost_dollars,dollars,1.5019500000009822,1.5019500099975975,-9.996615313312418e-09,within_reporting_tolerance,1e-07
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,combined,cost_only,power_proxy,dimensionless,0.018307134816521617,0.01830713457285477,2.4366684711618625e-10,within_reporting_tolerance,1e-08
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,combined,cost_only,peak_kw,kW,1.0601251678666292,1.0601251605987791,7.267850099523798e-09,within_reporting_tolerance,1e-05
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,combined,cost_only,calendar_increment_ppm,ppm of original capacity,26.55863808992759,26.558638086162308,3.765283196344171e-09,within_reporting_tolerance,1e-06
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,combined,cost_only,total_wall_seconds,"seconds, single execution",0.01064550003502518,0.017018708982504904,-0.006373208947479725,timing_observation_only,
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,combined,power_penalty,cost_dollars,dollars,1.5019500000009822,1.5019500000009758,6.439293542825908e-15,within_reporting_tolerance,1e-07
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,combined,power_penalty,power_proxy,dimensionless,0.018307134816521617,0.018307134816521718,-1.0061396160665481e-16,within_reporting_tolerance,1e-08
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,combined,power_penalty,peak_kw,kW,1.0601251678666292,1.060125170305412,-2.4387827313177013e-09,within_reporting_tolerance,1e-05
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,26.55863808992759,26.558638089999686,-7.209521868389857e-11,within_reporting_tolerance,1e-06
+clean,30.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc30,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.01064550003502518,0.009428584016859531,0.001216916018165648,timing_observation_only,
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,immediate,cost_only,cost_dollars,dollars,1.5019499999999997,1.501950009964671,-9.964671310314088e-09,within_reporting_tolerance,1e-07
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,immediate,cost_only,power_proxy,dimensionless,0.1189811116046995,0.018307134573636807,0.10067397703106269,higher,1e-08
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,immediate,cost_only,high_soc_proxy,dimensionless,0.025186897475555546,0.0073075286646182794,0.01787936881093727,higher,1e-08
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,immediate,cost_only,peak_kw,kW,7.2,1.0601251606225461,6.139874839377454,higher,1e-05
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,30.99933383894912,29.19588340382881,1.8034504351203111,higher,1e-06
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00019762502051889896,0.017313708027359098,-0.0171160830068402,timing_observation_only,
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,power_penalty,cost_only,cost_dollars,dollars,1.5019500000002097,1.501950009964671,-9.96446125611783e-09,within_reporting_tolerance,1e-07
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,power_penalty,cost_only,power_proxy,dimensionless,0.018307134816540387,0.018307134573636807,2.429035791950973e-10,within_reporting_tolerance,1e-08
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,power_penalty,cost_only,high_soc_proxy,dimensionless,0.007307528891727826,0.0073075286646182794,2.2710954644677983e-10,within_reporting_tolerance,1e-08
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,power_penalty,cost_only,peak_kw,kW,1.0601251678037227,1.0601251606225461,7.181176542303547e-09,within_reporting_tolerance,1e-05
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,29.195883421925178,29.19588340382881,1.809636884786414e-08,within_reporting_tolerance,1e-06
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.009140792011749,0.017313708027359098,-0.008172916015610099,timing_observation_only,
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,combined,cost_only,cost_dollars,dollars,1.5019500000000487,1.501950009964671,-9.9646222384564e-09,within_reporting_tolerance,1e-07
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,combined,cost_only,power_proxy,dimensionless,0.02263251198601096,0.018307134573636807,0.004325377412374154,higher,1e-08
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,combined,cost_only,high_soc_proxy,dimensionless,0.0056992999750804145,0.0073075286646182794,-0.001608228689537865,lower,1e-08
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,combined,cost_only,peak_kw,kW,3.4106360443870503,1.0601251606225461,2.350510883764504,higher,1e-05
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,combined,cost_only,calendar_increment_ppm,ppm of original capacity,28.918525193790142,29.19588340382881,-0.2773582100386669,lower,1e-06
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,combined,cost_only,total_wall_seconds,"seconds, single execution",0.01084400003310293,0.017313708027359098,-0.006469707994256169,timing_observation_only,
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,combined,power_penalty,cost_dollars,dollars,1.5019500000000487,1.5019500000002097,-1.609823385706477e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,combined,power_penalty,power_proxy,dimensionless,0.02263251198601096,0.018307134816540387,0.004325377169470575,higher,1e-08
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,combined,power_penalty,high_soc_proxy,dimensionless,0.0056992999750804145,0.007307528891727826,-0.0016082289166474114,lower,1e-08
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,combined,power_penalty,peak_kw,kW,3.4106360443870503,1.0601251678037227,2.3505108765833276,higher,1e-05
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,28.918525193790142,29.195883421925178,-0.27735822813503574,lower,1e-06
+clean,60.0,2_39_95_27_2018-04-25 13:45:09.617470,real_1_soc60,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.01084400003310293,0.009140792011749,0.0017032080213539302,timing_observation_only,
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,immediate,cost_only,cost_dollars,dollars,0.7885500000000002,0.7885500000005786,-5.784261958297066e-13,within_reporting_tolerance,1e-07
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,immediate,cost_only,power_proxy,dimensionless,0.0778264221009634,0.006143549210304472,0.07168287289065893,higher,1e-08
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,immediate,cost_only,peak_kw,kW,7.2,0.564341732542818,6.635658267457182,higher,1e-05
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,22.17658635294084,21.669646074233064,0.506940278707777,higher,1e-06
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00021016696700826287,0.01643774996045977,-0.016227582993451506,timing_observation_only,
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,power_penalty,cost_only,cost_dollars,dollars,0.7885500000000002,0.7885500000005786,-5.784261958297066e-13,within_reporting_tolerance,1e-07
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,power_penalty,cost_only,power_proxy,dimensionless,0.006143549210295457,0.006143549210304472,-9.014490542913478e-15,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,power_penalty,cost_only,peak_kw,kW,0.5643417479370808,0.564341732542818,1.539426275343203e-08,within_reporting_tolerance,1e-05
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,21.669646074820992,21.669646074233064,5.879279285636585e-10,within_reporting_tolerance,1e-06
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.009486333001405,0.01643774996045977,-0.006951416959054768,timing_observation_only,
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,combined,cost_only,cost_dollars,dollars,0.78855,0.7885500000005786,-5.786482404346316e-13,within_reporting_tolerance,1e-07
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,combined,cost_only,power_proxy,dimensionless,0.006143549210295454,0.006143549210304472,-9.017959989865432e-15,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,combined,cost_only,peak_kw,kW,0.5643417333857019,0.564341732542818,8.428838738083755e-10,within_reporting_tolerance,1e-05
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,combined,cost_only,calendar_increment_ppm,ppm of original capacity,21.669646074492423,21.669646074233064,2.5935875669347297e-10,within_reporting_tolerance,1e-06
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,combined,cost_only,total_wall_seconds,"seconds, single execution",0.010008290992118418,0.01643774996045977,-0.0064294589683413506,timing_observation_only,
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,combined,power_penalty,cost_dollars,dollars,0.78855,0.7885500000000002,-2.220446049250313e-16,within_reporting_tolerance,1e-07
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,combined,power_penalty,power_proxy,dimensionless,0.006143549210295454,0.006143549210295457,-3.469446951953614e-18,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,combined,power_penalty,peak_kw,kW,0.5643417333857019,0.5643417479370808,-1.4551378879623655e-08,within_reporting_tolerance,1e-05
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,21.669646074492423,21.669646074820992,-3.2856917187018553e-10,within_reporting_tolerance,1e-06
+clean,30.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc30,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.010008290992118418,0.009486333001405,0.0005219579907134175,timing_observation_only,
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,immediate,cost_only,cost_dollars,dollars,0.7885500000000002,0.7885500000001696,-1.694200335577989e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,immediate,cost_only,power_proxy,dimensionless,0.0778264221009634,0.0061435492102980965,0.0716828728906653,higher,1e-08
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,immediate,cost_only,peak_kw,kW,7.2,0.5643417325813032,6.635658267418697,higher,1e-05
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,23.79467096987533,23.232252143735366,0.5624188261399645,higher,1e-06
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00020283402409404516,0.016436750011052936,-0.01623391598695889,timing_observation_only,
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,power_penalty,cost_only,cost_dollars,dollars,0.7885500000000001,0.7885500000001696,-1.695310558602614e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,power_penalty,cost_only,power_proxy,dimensionless,0.006143549210295455,0.0061435492102980965,-2.6411164921746888e-15,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,power_penalty,cost_only,peak_kw,kW,0.5643417475308998,0.5643417325813032,1.4949596671698373e-08,within_reporting_tolerance,1e-05
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,23.23225214331317,23.232252143735366,-4.2219738816129393e-10,within_reporting_tolerance,1e-06
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.009820125007536262,0.016436750011052936,-0.006616625003516674,timing_observation_only,
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,combined,cost_only,cost_dollars,dollars,0.7885500000000002,0.7885500000001696,-1.694200335577989e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,combined,cost_only,power_proxy,dimensionless,0.006143549210295457,0.0061435492102980965,-2.639381768698712e-15,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,combined,cost_only,peak_kw,kW,0.5643417335494845,0.5643417325813032,9.68181312899219e-10,within_reporting_tolerance,1e-05
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,combined,cost_only,calendar_increment_ppm,ppm of original capacity,23.232252143820602,23.232252143735366,8.523670658178162e-11,within_reporting_tolerance,1e-06
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,combined,cost_only,total_wall_seconds,"seconds, single execution",0.01005854201503098,0.016436750011052936,-0.006378207996021956,timing_observation_only,
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,combined,power_penalty,cost_dollars,dollars,0.7885500000000002,0.7885500000000001,1.1102230246251565e-16,within_reporting_tolerance,1e-07
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,combined,power_penalty,power_proxy,dimensionless,0.006143549210295457,0.006143549210295455,1.734723475976807e-18,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,combined,power_penalty,peak_kw,kW,0.5643417335494845,0.5643417475308998,-1.3981415358799154e-08,within_reporting_tolerance,1e-05
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,23.232252143820602,23.23225214331317,5.074340947430755e-10,within_reporting_tolerance,1e-06
+clean,60.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc60,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.01005854201503098,0.009820125007536262,0.00023841700749471784,timing_observation_only,
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,immediate,cost_only,cost_dollars,dollars,0.7885500000000002,0.7885500000001108,-1.1057821325266559e-13,within_reporting_tolerance,1e-07
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,immediate,cost_only,power_proxy,dimensionless,0.0778264221009634,0.00614354921029718,0.07168287289066622,higher,1e-08
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,immediate,cost_only,high_soc_proxy,dimensionless,0.17958395468567262,0.09668605777105992,0.0828978969146127,higher,1e-08
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,immediate,cost_only,peak_kw,kW,7.2,0.5643417325435482,6.635658267456452,higher,1e-05
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,30.65880279523863,28.220524656104207,2.4382781391344217,higher,1e-06
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00019937497563660145,0.01575187500566244,-0.01555250003002584,timing_observation_only,
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,power_penalty,cost_only,cost_dollars,dollars,0.7885500000000001,0.7885500000001108,-1.1068923555512811e-13,within_reporting_tolerance,1e-07
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,power_penalty,cost_only,power_proxy,dimensionless,0.006143549210295456,0.00614354921029718,-1.7234477733829578e-15,within_reporting_tolerance,1e-08
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,power_penalty,cost_only,high_soc_proxy,dimensionless,0.09668605777031623,0.09668605777105992,-7.436828930451611e-13,within_reporting_tolerance,1e-08
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,power_penalty,cost_only,peak_kw,kW,0.5643417326821188,0.5643417325435482,1.3857059943944705e-10,within_reporting_tolerance,1e-05
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,28.22052465608181,28.220524656104207,-2.2396307031158358e-11,within_reporting_tolerance,1e-06
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.008619291009381413,0.01575187500566244,-0.007132583996281028,timing_observation_only,
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,combined,cost_only,cost_dollars,dollars,0.7885500000000004,0.7885500000001108,-1.1035616864774056e-13,within_reporting_tolerance,1e-07
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,combined,cost_only,power_proxy,dimensionless,0.056143670831041506,0.00614354921029718,0.050000121620744326,higher,1e-08
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,combined,cost_only,high_soc_proxy,dimensionless,0.03623089526203434,0.09668605777105992,-0.06045516250902558,lower,1e-08
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,combined,cost_only,peak_kw,kW,7.199999975248806,0.5643417325435482,6.635658242705258,higher,1e-05
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,combined,cost_only,calendar_increment_ppm,ppm of original capacity,26.279319422482352,28.220524656104207,-1.9412052336218544,lower,1e-06
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,combined,cost_only,total_wall_seconds,"seconds, single execution",0.008810541010461748,0.01575187500566244,-0.006941333995200694,timing_observation_only,
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,combined,power_penalty,cost_dollars,dollars,0.7885500000000004,0.7885500000000001,3.3306690738754696e-16,within_reporting_tolerance,1e-07
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,combined,power_penalty,power_proxy,dimensionless,0.056143670831041506,0.006143549210295456,0.050000121620746046,higher,1e-08
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,combined,power_penalty,high_soc_proxy,dimensionless,0.03623089526203434,0.09668605777031623,-0.060455162508281896,lower,1e-08
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,combined,power_penalty,peak_kw,kW,7.199999975248806,0.5643417326821188,6.635658242566687,higher,1e-05
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,26.279319422482352,28.22052465608181,-1.941205233599458,lower,1e-06
+clean,75.0,2_39_79_380_2018-04-25 13:45:49.962001,real_2_soc75,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.008810541010461748,0.008619291009381413,0.0001912500010803342,timing_observation_only,
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,immediate,cost_only,cost_dollars,dollars,0.7765499999999997,0.7765500099952302,-9.9952304211115e-09,within_reporting_tolerance,1e-07
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,immediate,cost_only,power_proxy,dimensionless,0.0756625027056473,0.006479102732784228,0.06918339997286307,higher,1e-08
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,immediate,cost_only,peak_kw,kW,7.2,0.6038759110189875,6.596124088981012,higher,1e-05
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,22.148101012523835,21.68696279096942,0.461138221554414,higher,1e-06
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.0001956659834831953,0.0160504580126144,-0.015854792029131204,timing_observation_only,
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,power_penalty,cost_only,cost_dollars,dollars,0.7765500000017188,0.7765500099952302,-9.993511351780171e-09,within_reporting_tolerance,1e-07
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,power_penalty,cost_only,power_proxy,dimensionless,0.006479102899539479,0.006479102732784228,1.6675525110060319e-10,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,power_penalty,cost_only,peak_kw,kW,0.6038759388762486,0.6038759110189875,2.7857261053476634e-08,within_reporting_tolerance,1e-05
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,21.686962798545373,21.68696279096942,7.575952309935019e-09,within_reporting_tolerance,1e-06
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.00953458301955834,0.0160504580126144,-0.006515874993056059,timing_observation_only,
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,combined,cost_only,cost_dollars,dollars,0.7765500000000352,0.7765500099952302,-9.995195004997015e-09,within_reporting_tolerance,1e-07
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,combined,cost_only,power_proxy,dimensionless,0.006479102899567576,0.006479102732784228,1.6678334841674358e-10,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,combined,cost_only,peak_kw,kW,0.6038759194046875,0.6038759110189875,8.385700023261222e-09,within_reporting_tolerance,1e-05
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,combined,cost_only,calendar_increment_ppm,ppm of original capacity,21.68696279809364,21.68696279096942,7.124217660248178e-09,within_reporting_tolerance,1e-06
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,combined,cost_only,total_wall_seconds,"seconds, single execution",0.009553542011417449,0.0160504580126144,-0.006496916001196951,timing_observation_only,
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,combined,power_penalty,cost_dollars,dollars,0.7765500000000352,0.7765500000017188,-1.6836532168440499e-12,within_reporting_tolerance,1e-07
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,combined,power_penalty,power_proxy,dimensionless,0.006479102899567576,0.006479102899539479,2.8097316140396345e-14,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,combined,power_penalty,peak_kw,kW,0.6038759194046875,0.6038759388762486,-1.9471561030215412e-08,within_reporting_tolerance,1e-05
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,21.68696279809364,21.686962798545373,-4.517346496868413e-10,within_reporting_tolerance,1e-06
+clean,30.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc30,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.009553542011417449,0.00953458301955834,1.895899185910821e-05,timing_observation_only,
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,immediate,cost_only,cost_dollars,dollars,0.7765500000000004,0.7765500098854522,-9.88545179048117e-09,within_reporting_tolerance,1e-07
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,immediate,cost_only,power_proxy,dimensionless,0.07566250270564742,0.006479102734617535,0.06918339997102989,higher,1e-08
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,immediate,cost_only,peak_kw,kW,7.2,0.603875911077212,6.596124088922788,higher,1e-05
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,23.752019105976856,23.251215485845897,0.5008036201309594,higher,1e-06
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00019808299839496613,0.016590083949267864,-0.016392000950872898,timing_observation_only,
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,power_penalty,cost_only,cost_dollars,dollars,0.7765500000000559,0.7765500098854522,-9.885396279329939e-09,within_reporting_tolerance,1e-07
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,power_penalty,cost_only,power_proxy,dimensionless,0.006479102899567252,0.006479102734617535,1.6494971707969874e-10,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,power_penalty,cost_only,peak_kw,kW,0.6038759190009156,0.603875911077212,7.923703693180073e-09,within_reporting_tolerance,1e-05
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,23.25121549363497,23.251215485845897,7.789072498098903e-09,within_reporting_tolerance,1e-06
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.009047499974258244,0.016590083949267864,-0.00754258397500962,timing_observation_only,
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,combined,cost_only,cost_dollars,dollars,0.7765500000000232,0.7765500098854522,-9.885429030909165e-09,within_reporting_tolerance,1e-07
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,combined,cost_only,power_proxy,dimensionless,0.006479102899567806,0.006479102734617535,1.6495027132384932e-10,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,combined,cost_only,peak_kw,kW,0.603875919285702,0.603875911077212,8.208489998828838e-09,within_reporting_tolerance,1e-05
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,combined,cost_only,calendar_increment_ppm,ppm of original capacity,23.251215493802317,23.251215485845897,7.956419523225122e-09,within_reporting_tolerance,1e-06
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,combined,cost_only,total_wall_seconds,"seconds, single execution",0.00945008301641792,0.016590083949267864,-0.007140000932849944,timing_observation_only,
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,combined,power_penalty,cost_dollars,dollars,0.7765500000000232,0.7765500000000559,-3.275157922644212e-14,within_reporting_tolerance,1e-07
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,combined,power_penalty,power_proxy,dimensionless,0.006479102899567806,0.006479102899567252,5.542441505745899e-16,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,combined,power_penalty,peak_kw,kW,0.603875919285702,0.6038759190009156,2.847863056487654e-10,within_reporting_tolerance,1e-05
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,23.251215493802317,23.25121549363497,1.673470251262188e-10,within_reporting_tolerance,1e-06
+clean,60.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc60,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.00945008301641792,0.009047499974258244,0.00040258304215967655,timing_observation_only,
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,immediate,cost_only,cost_dollars,dollars,0.7765500000000004,0.7765500098369567,-9.836956249564821e-09,within_reporting_tolerance,1e-07
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,immediate,cost_only,power_proxy,dimensionless,0.07566250270564742,0.006479102735427581,0.06918339997021984,higher,1e-08
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,immediate,cost_only,high_soc_proxy,dimensionless,0.17634030912418416,0.10221162194045005,0.07412868718373411,higher,1e-08
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,immediate,cost_only,peak_kw,kW,7.2,0.603875911142959,6.596124088857041,higher,1e-05
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,30.54345571184142,28.36195954072467,2.181496171116752,higher,1e-06
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00019691698253154755,0.01673420798033476,-0.01653729099780321,timing_observation_only,
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,power_penalty,cost_only,cost_dollars,dollars,0.776550000000012,0.7765500098369567,-9.836944703245365e-09,within_reporting_tolerance,1e-07
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,power_penalty,cost_only,power_proxy,dimensionless,0.0064791028995679996,0.006479102735427581,1.6414041827117476e-10,within_reporting_tolerance,1e-08
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,power_penalty,cost_only,high_soc_proxy,dimensionless,0.10221162307651618,0.10221162194045005,1.1360661300585662e-09,within_reporting_tolerance,1e-08
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,power_penalty,cost_only,peak_kw,kW,0.6038759187651186,0.603875911142959,7.622159570175313e-09,within_reporting_tolerance,1e-05
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,28.36195957407308,28.36195954072467,3.334841025548485e-08,within_reporting_tolerance,1e-06
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.009509499999694526,0.01673420798033476,-0.0072247079806402326,timing_observation_only,
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,combined,cost_only,cost_dollars,dollars,0.7765500000002206,0.7765500098369567,-9.836736092339038e-09,within_reporting_tolerance,1e-07
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,combined,cost_only,power_proxy,dimensionless,0.055104445204608755,0.006479102735427581,0.048625342469181175,higher,1e-08
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,combined,cost_only,high_soc_proxy,dimensionless,0.04809473501095504,0.10221162194045005,-0.05411688692949501,lower,1e-08
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,combined,cost_only,peak_kw,kW,7.1999999947593505,0.603875911142959,6.596124083616392,higher,1e-05
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,combined,cost_only,calendar_increment_ppm,ppm of original capacity,26.622787784090367,28.36195954072467,-1.7391717566343026,lower,1e-06
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,combined,cost_only,total_wall_seconds,"seconds, single execution",0.009704749973025173,0.01673420798033476,-0.007029458007309586,timing_observation_only,
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,combined,power_penalty,cost_dollars,dollars,0.7765500000002206,0.776550000000012,2.0861090632706691e-13,within_reporting_tolerance,1e-07
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,combined,power_penalty,power_proxy,dimensionless,0.055104445204608755,0.0064791028995679996,0.04862534230504076,higher,1e-08
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,combined,power_penalty,high_soc_proxy,dimensionless,0.04809473501095504,0.10221162307651618,-0.05411688806556114,lower,1e-08
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,combined,power_penalty,peak_kw,kW,7.1999999947593505,0.6038759187651186,6.596124075994232,higher,1e-05
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,26.622787784090367,28.36195957407308,-1.7391717899827128,lower,1e-06
+clean,75.0,2_39_79_379_2018-04-25 14:37:06.460772,real_3_soc75,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.009704749973025173,0.009509499999694526,0.00019524997333064675,timing_observation_only,
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,immediate,cost_only,cost_dollars,dollars,1.5178500000000001,1.5178500000000807,-8.060219158778636e-14,within_reporting_tolerance,1e-07
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,immediate,cost_only,power_proxy,dimensionless,0.161638192554164,0.02814557508011877,0.13349261747404523,higher,1e-08
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,immediate,cost_only,peak_kw,kW,7.2,1.2079182969835764,5.9920817030164235,higher,1e-05
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,20.221977676851317,19.823224537622732,0.39875313922858524,higher,1e-06
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.0002693329588510096,0.016085084003861994,-0.015815751045010984,timing_observation_only,
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,power_penalty,cost_only,cost_dollars,dollars,1.5178499999999995,1.5178500000000807,-8.126832540256146e-14,within_reporting_tolerance,1e-07
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,power_penalty,cost_only,power_proxy,dimensionless,0.028145575080115757,0.02814557508011877,-3.011479954295737e-15,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,power_penalty,cost_only,peak_kw,kW,1.207918297129345,1.2079182969835764,1.4576850837499933e-10,within_reporting_tolerance,1e-05
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,19.82322453762639,19.823224537622732,3.659295089164516e-12,within_reporting_tolerance,1e-06
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.008665166038554162,0.016085084003861994,-0.007419917965307832,timing_observation_only,
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,combined,cost_only,cost_dollars,dollars,1.5178499999999995,1.5178500000000807,-8.126832540256146e-14,within_reporting_tolerance,1e-07
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,combined,cost_only,power_proxy,dimensionless,0.028145575080115753,0.02814557508011877,-3.0149494012476907e-15,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,combined,cost_only,peak_kw,kW,1.2079182971926632,1.2079182969835764,2.0908674791542126e-10,within_reporting_tolerance,1e-05
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,combined,cost_only,calendar_increment_ppm,ppm of original capacity,19.823224537668786,19.823224537622732,4.6053827418290894e-11,within_reporting_tolerance,1e-06
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,combined,cost_only,total_wall_seconds,"seconds, single execution",0.009245082968845963,0.016085084003861994,-0.00684000103501603,timing_observation_only,
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,combined,power_penalty,cost_dollars,dollars,1.5178499999999995,1.5178499999999995,0.0,within_reporting_tolerance,1e-07
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,combined,power_penalty,power_proxy,dimensionless,0.028145575080115753,0.028145575080115757,-3.469446951953614e-18,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,combined,power_penalty,peak_kw,kW,1.2079182971926632,1.207918297129345,6.331823954042193e-11,within_reporting_tolerance,1e-05
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,19.823224537668786,19.82322453762639,4.239453232912638e-11,within_reporting_tolerance,1e-06
+clean,30.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc30,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.009245082968845963,0.008665166038554162,0.0005799169302918017,timing_observation_only,
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,immediate,cost_only,cost_dollars,dollars,1.5178499999999995,1.517850000000643,-6.434852650727407e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,immediate,cost_only,power_proxy,dimensionless,0.1616381925541639,0.028145575080139623,0.13349261747402427,higher,1e-08
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,immediate,cost_only,high_soc_proxy,dimensionless,0.02578518843954244,0.0038394200096343247,0.021945768429908117,higher,1e-08
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,immediate,cost_only,peak_kw,kW,7.2,1.207918296971968,5.992081703028032,higher,1e-05
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,23.192850792242687,21.596309091336362,1.5965417009063252,higher,1e-06
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00019158300710842013,0.015968707972206175,-0.015777124965097755,timing_observation_only,
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,power_penalty,cost_only,cost_dollars,dollars,1.5178499999999995,1.517850000000643,-6.434852650727407e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,power_penalty,cost_only,power_proxy,dimensionless,0.028145575080115764,0.028145575080139623,-2.3859386688585005e-14,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0038394200098285074,0.0038394200096343247,1.9418277749649882e-13,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,power_penalty,cost_only,peak_kw,kW,1.2079182991559145,1.207918296971968,2.1839465791373414e-09,within_reporting_tolerance,1e-05
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,21.59630909144457,21.596309091336362,1.0820855322890566e-10,within_reporting_tolerance,1e-06
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.009289749956224114,0.015968707972206175,-0.006678958015982062,timing_observation_only,
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,combined,cost_only,cost_dollars,dollars,1.517849999999999,1.517850000000643,-6.439293542825908e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,combined,cost_only,power_proxy,dimensionless,0.03373967911252623,0.028145575080139623,0.00559410403238661,higher,1e-08
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,combined,cost_only,high_soc_proxy,dimensionless,0.0018829711825904464,0.0038394200096343247,-0.001956448827043878,lower,1e-08
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,combined,cost_only,peak_kw,kW,3.547858707707562,1.207918296971968,2.3399404107355943,higher,1e-05
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,combined,cost_only,calendar_increment_ppm,ppm of original capacity,21.35729205890243,21.596309091336362,-0.23901703243393158,lower,1e-06
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,combined,cost_only,total_wall_seconds,"seconds, single execution",0.010184249957092106,0.015968707972206175,-0.005784458015114069,timing_observation_only,
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,combined,power_penalty,cost_dollars,dollars,1.517849999999999,1.5178499999999995,-4.440892098500626e-16,within_reporting_tolerance,1e-07
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,combined,power_penalty,power_proxy,dimensionless,0.03373967911252623,0.028145575080115764,0.005594104032410469,higher,1e-08
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,combined,power_penalty,high_soc_proxy,dimensionless,0.0018829711825904464,0.0038394200098285074,-0.001956448827238061,lower,1e-08
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,combined,power_penalty,peak_kw,kW,3.547858707707562,1.2079182991559145,2.3399404085516475,higher,1e-05
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,21.35729205890243,21.59630909144457,-0.23901703254214013,lower,1e-06
+clean,60.0,2_39_79_381_2018-04-25 14:40:33.638896,real_4_soc60,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.010184249957092106,0.009289749956224114,0.0008945000008679926,timing_observation_only,
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,immediate,cost_only,cost_dollars,dollars,0.3260999999999997,0.32610000000023703,-2.373101715136272e-13,within_reporting_tolerance,1e-07
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,immediate,cost_only,power_proxy,dimensionless,0.08268768662653825,0.009600254917194307,0.07308743170934394,higher,1e-08
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,immediate,cost_only,peak_kw,kW,7.2,0.7054624123725072,6.494537587627493,higher,1e-05
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,7.136840572552317,7.041073318040663,0.09576725451165391,higher,1e-06
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00019141699885949492,0.014346124953590333,-0.014154707954730839,timing_observation_only,
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,power_penalty,cost_only,cost_dollars,dollars,0.32609999999999967,0.32610000000023703,-2.3736568266485847e-13,within_reporting_tolerance,1e-07
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,power_penalty,cost_only,power_proxy,dimensionless,0.009600254917180334,0.009600254917194307,-1.3973197598993181e-14,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,power_penalty,cost_only,peak_kw,kW,0.7054624137071965,0.7054624123725072,1.3346893590338027e-09,within_reporting_tolerance,1e-05
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,7.0410733180588885,7.041073318040663,1.822542117224657e-11,within_reporting_tolerance,1e-06
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.00772875000257045,0.014346124953590333,-0.006617374951019883,timing_observation_only,
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,combined,cost_only,cost_dollars,dollars,0.32609999999999967,0.32610000000023703,-2.3736568266485847e-13,within_reporting_tolerance,1e-07
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,combined,cost_only,power_proxy,dimensionless,0.009600254917180334,0.009600254917194307,-1.3973197598993181e-14,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,combined,cost_only,peak_kw,kW,0.7054624121920312,0.7054624123725072,-1.8047596750392358e-10,within_reporting_tolerance,1e-05
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,combined,cost_only,calendar_increment_ppm,ppm of original capacity,7.041073318038366,7.041073318040663,-2.296829393344524e-12,within_reporting_tolerance,1e-06
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,combined,cost_only,total_wall_seconds,"seconds, single execution",0.00914899999042973,0.014346124953590333,-0.005197124963160604,timing_observation_only,
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,combined,power_penalty,cost_dollars,dollars,0.32609999999999967,0.32609999999999967,0.0,within_reporting_tolerance,1e-07
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,combined,power_penalty,power_proxy,dimensionless,0.009600254917180334,0.009600254917180334,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,combined,power_penalty,peak_kw,kW,0.7054624121920312,0.7054624137071965,-1.5151653265377263e-09,within_reporting_tolerance,1e-05
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,7.041073318038366,7.0410733180588885,-2.0522250565591094e-11,within_reporting_tolerance,1e-06
+clean,30.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc30,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.00914899999042973,0.00772875000257045,0.001420249987859279,timing_observation_only,
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,immediate,cost_only,cost_dollars,dollars,0.3261000000000003,0.32610000000023454,-2.3425705819590803e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,immediate,cost_only,power_proxy,dimensionless,0.08268768662653833,0.009600254917194165,0.07308743170934416,higher,1e-08
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,immediate,cost_only,peak_kw,kW,7.2,0.7054624121154218,6.494537587884579,higher,1e-05
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,7.638174322850711,7.591894826552274,0.046279496298437195,higher,1e-06
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00018391699995845556,0.01445733301807195,-0.014273416018113494,timing_observation_only,
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,power_penalty,cost_only,cost_dollars,dollars,0.32610000000000017,0.32610000000023454,-2.3436808049837055e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,power_penalty,cost_only,power_proxy,dimensionless,0.009600254917180364,0.009600254917194165,-1.3801459974871477e-14,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,power_penalty,cost_only,peak_kw,kW,0.7054624134885575,0.7054624121154218,1.373135716242757e-09,within_reporting_tolerance,1e-05
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,7.591894826543818,7.591894826552274,-8.455458555545192e-12,within_reporting_tolerance,1e-06
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.007948832993861288,0.01445733301807195,-0.006508500024210662,timing_observation_only,
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,combined,cost_only,cost_dollars,dollars,0.3261000000000001,0.32610000000023454,-2.344235916496018e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,combined,cost_only,power_proxy,dimensionless,0.009600254917180364,0.009600254917194165,-1.3801459974871477e-14,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,combined,cost_only,peak_kw,kW,0.7054624121865848,0.7054624121154218,7.116296441012082e-11,within_reporting_tolerance,1e-05
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,combined,cost_only,calendar_increment_ppm,ppm of original capacity,7.591894826551291,7.591894826552274,-9.823253321883385e-13,within_reporting_tolerance,1e-06
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,combined,cost_only,total_wall_seconds,"seconds, single execution",0.008887917036190629,0.01445733301807195,-0.0055694159818813205,timing_observation_only,
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,combined,power_penalty,cost_dollars,dollars,0.3261000000000001,0.32610000000000017,-5.551115123125783e-17,within_reporting_tolerance,1e-07
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,combined,power_penalty,power_proxy,dimensionless,0.009600254917180364,0.009600254917180364,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,combined,power_penalty,peak_kw,kW,0.7054624121865848,0.7054624134885575,-1.3019727518326363e-09,within_reporting_tolerance,1e-05
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,7.591894826551291,7.591894826543818,7.473133223356854e-12,within_reporting_tolerance,1e-06
+clean,60.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc60,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.008887917036190629,0.007948832993861288,0.0009390840423293412,timing_observation_only,
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,immediate,cost_only,cost_dollars,dollars,0.3261000000000003,0.32610000000030515,-3.04867242562068e-13,within_reporting_tolerance,1e-07
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,immediate,cost_only,power_proxy,dimensionless,0.08268768662653833,0.009600254917198322,0.07308743170934001,higher,1e-08
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,immediate,cost_only,high_soc_proxy,dimensionless,0.07487909215192443,0.05169269969173296,0.02318639246019147,higher,1e-08
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,immediate,cost_only,peak_kw,kW,7.2,0.7054624126401683,6.494537587359832,higher,1e-05
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,9.133688302751976,8.883776474038193,0.24991182871378292,higher,1e-06
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00019129097927361727,0.013810459000524133,-0.013619168021250516,timing_observation_only,
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,power_penalty,cost_only,cost_dollars,dollars,0.32610000000000006,0.32610000000030515,-3.05089287166993e-13,within_reporting_tolerance,1e-07
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,power_penalty,cost_only,power_proxy,dimensionless,0.00960025491718036,0.009600254917198322,-1.796132687026386e-14,within_reporting_tolerance,1e-08
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,power_penalty,cost_only,high_soc_proxy,dimensionless,0.05169269969132398,0.05169269969173296,-4.0897840669629204e-13,within_reporting_tolerance,1e-08
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,power_penalty,cost_only,peak_kw,kW,0.7054624122814069,0.7054624126401683,-3.5876135395795927e-10,within_reporting_tolerance,1e-05
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,8.883776474033613,8.883776474038193,-4.579447931973846e-12,within_reporting_tolerance,1e-06
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.007978582987561822,0.013810459000524133,-0.0058318760129623115,timing_observation_only,
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,combined,cost_only,cost_dollars,dollars,0.32610000000000017,0.32610000000030515,-3.049782648645305e-13,within_reporting_tolerance,1e-07
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,combined,cost_only,power_proxy,dimensionless,0.0420747811884054,0.009600254917198322,0.03247452627120708,higher,1e-08
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,combined,cost_only,high_soc_proxy,dimensionless,0.03414095159544088,0.05169269969173296,-0.017551748096292077,lower,1e-08
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,combined,cost_only,peak_kw,kW,4.1902988323210915,0.7054624126401683,3.4848364196809234,higher,1e-05
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,combined,cost_only,calendar_increment_ppm,ppm of original capacity,8.679711698246182,8.883776474038193,-0.20406477579201088,lower,1e-06
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,combined,cost_only,total_wall_seconds,"seconds, single execution",0.007766042021103203,0.013810459000524133,-0.00604441697942093,timing_observation_only,
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,combined,power_penalty,cost_dollars,dollars,0.32610000000000017,0.32610000000000006,1.1102230246251565e-16,within_reporting_tolerance,1e-07
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,combined,power_penalty,power_proxy,dimensionless,0.0420747811884054,0.00960025491718036,0.03247452627122504,higher,1e-08
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,combined,power_penalty,high_soc_proxy,dimensionless,0.03414095159544088,0.05169269969132398,-0.0175517480958831,lower,1e-08
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,combined,power_penalty,peak_kw,kW,4.1902988323210915,0.7054624122814069,3.4848364200396844,higher,1e-05
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,8.679711698246182,8.883776474033613,-0.20406477578743143,lower,1e-06
+clean,75.0,2_39_79_382_2018-04-25 15:10:51.871020,real_5_soc75,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.007766042021103203,0.007978582987561822,-0.00021254096645861864,timing_observation_only,
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,immediate,cost_only,cost_dollars,dollars,1.0432500000000002,1.0432500000000786,-7.838174553853605e-14,within_reporting_tolerance,1e-07
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,immediate,cost_only,power_proxy,dimensionless,0.286057233668655,0.08448536187243484,0.20157187179622016,higher,1e-08
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,immediate,cost_only,peak_kw,kW,7.2,2.092778335008114,5.1072216649918865,higher,1e-05
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,7.936516708651209,7.789117802687226,0.14739890596398286,higher,1e-06
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00018525001360103488,0.01401729101780802,-0.013832041004206985,timing_observation_only,
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,power_penalty,cost_only,cost_dollars,dollars,1.0432499999999998,1.0432500000000786,-7.882583474838611e-14,within_reporting_tolerance,1e-07
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,power_penalty,cost_only,power_proxy,dimensionless,0.0844853618724221,0.08448536187243484,-1.2739809207573671e-14,within_reporting_tolerance,1e-08
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,power_penalty,cost_only,peak_kw,kW,2.0927783350411153,2.092778335008114,3.300115736237785e-11,within_reporting_tolerance,1e-05
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,7.789117802687582,7.789117802687226,3.561595462997502e-13,within_reporting_tolerance,1e-06
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.008654333010781556,0.01401729101780802,-0.005362958007026464,timing_observation_only,
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,combined,cost_only,cost_dollars,dollars,1.0432499999999998,1.0432500000000786,-7.882583474838611e-14,within_reporting_tolerance,1e-07
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,combined,cost_only,power_proxy,dimensionless,0.08448536187242209,0.08448536187243484,-1.2753686995381486e-14,within_reporting_tolerance,1e-08
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,combined,cost_only,peak_kw,kW,2.0927783351108666,2.092778335008114,1.0275247319668779e-10,within_reporting_tolerance,1e-05
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,combined,cost_only,calendar_increment_ppm,ppm of original capacity,7.789117802688566,7.789117802687226,1.340261235327489e-12,within_reporting_tolerance,1e-06
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,combined,cost_only,total_wall_seconds,"seconds, single execution",0.009011666988953948,0.01401729101780802,-0.005005624028854072,timing_observation_only,
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,combined,power_penalty,cost_dollars,dollars,1.0432499999999998,1.0432499999999998,0.0,within_reporting_tolerance,1e-07
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,combined,power_penalty,power_proxy,dimensionless,0.08448536187242209,0.0844853618724221,-1.3877787807814457e-17,within_reporting_tolerance,1e-08
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,combined,power_penalty,peak_kw,kW,2.0927783351108666,2.0927783350411153,6.975131583430993e-11,within_reporting_tolerance,1e-05
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,7.789117802688566,7.789117802687582,9.841016890277388e-13,within_reporting_tolerance,1e-06
+clean,30.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc30,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.009011666988953948,0.008654333010781556,0.00035733397817239165,timing_observation_only,
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,immediate,cost_only,cost_dollars,dollars,1.0432500000000002,1.0432500000003253,-3.2507330161024584e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,immediate,cost_only,power_proxy,dimensionless,0.286057233668655,0.08448536187247481,0.2015718717961802,higher,1e-08
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,immediate,cost_only,high_soc_proxy,dimensionless,0.00015361227486232752,1.48457341272076e-05,0.00013876654073511992,higher,1e-08
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,immediate,cost_only,peak_kw,kW,7.2,2.092778335006038,5.107221664993962,higher,1e-05
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,8.624354147672465,8.368881077498608,0.25547307017385634,higher,1e-06
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00018633296713232994,0.014308457961305976,-0.014122124994173646,timing_observation_only,
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,power_penalty,cost_only,cost_dollars,dollars,1.0432499999999998,1.0432500000003253,-3.255173908200959e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,power_penalty,cost_only,power_proxy,dimensionless,0.08448536187242209,0.08448536187247481,-5.272171588188712e-14,within_reporting_tolerance,1e-08
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,power_penalty,cost_only,high_soc_proxy,dimensionless,1.4845734126984283e-05,1.48457341272076e-05,-2.2331684841180727e-16,within_reporting_tolerance,1e-08
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,power_penalty,cost_only,peak_kw,kW,2.092778336332856,2.092778335006038,1.3268177667669079e-09,within_reporting_tolerance,1e-05
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,8.36888107748364,8.368881077498608,-1.496758272878651e-11,within_reporting_tolerance,1e-06
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.008826415985822678,0.014308457961305976,-0.005482041975483298,timing_observation_only,
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,combined,cost_only,cost_dollars,dollars,1.0432499999999998,1.0432500000003253,-3.255173908200959e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,combined,cost_only,power_proxy,dimensionless,0.08448536187242209,0.08448536187247481,-5.272171588188712e-14,within_reporting_tolerance,1e-08
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,combined,cost_only,high_soc_proxy,dimensionless,1.4845734126984283e-05,1.48457341272076e-05,-2.2331684841180727e-16,within_reporting_tolerance,1e-08
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,combined,cost_only,peak_kw,kW,2.0927783352662908,2.092778335006038,2.6025270827290115e-10,within_reporting_tolerance,1e-05
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,combined,cost_only,calendar_increment_ppm,ppm of original capacity,8.368881077493866,8.368881077498608,-4.742872761198669e-12,within_reporting_tolerance,1e-06
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,combined,cost_only,total_wall_seconds,"seconds, single execution",0.008143166021909565,0.014308457961305976,-0.006165291939396411,timing_observation_only,
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,combined,power_penalty,cost_dollars,dollars,1.0432499999999998,1.0432499999999998,0.0,within_reporting_tolerance,1e-07
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,combined,power_penalty,power_proxy,dimensionless,0.08448536187242209,0.08448536187242209,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,combined,power_penalty,high_soc_proxy,dimensionless,1.4845734126984283e-05,1.4845734126984283e-05,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,combined,power_penalty,peak_kw,kW,2.0927783352662908,2.092778336332856,-1.0665650584940067e-09,within_reporting_tolerance,1e-05
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,8.368881077493866,8.36888107748364,1.0224709967587842e-11,within_reporting_tolerance,1e-06
+clean,60.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc60,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.008143166021909565,0.008826415985822678,-0.0006832499639131129,timing_observation_only,
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,immediate,cost_only,cost_dollars,dollars,1.0432500000000002,1.043250000000556,-5.557776461273534e-13,within_reporting_tolerance,1e-07
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,immediate,cost_only,power_proxy,dimensionless,0.286057233668655,0.08448536187251217,0.20157187179614283,higher,1e-08
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,immediate,cost_only,high_soc_proxy,dimensionless,0.23295007295513454,0.13460777538583266,0.09834229756930188,higher,1e-08
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,immediate,cost_only,peak_kw,kW,7.2,2.0927783350300975,5.107221664969902,higher,1e-05
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,11.409042824489664,10.39682211366975,1.0122207108199142,higher,1e-06
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00018533295951783657,0.014833999972324818,-0.014648667012806982,timing_observation_only,
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,power_penalty,cost_only,cost_dollars,dollars,1.0432499999999998,1.043250000000556,-5.562217353372034e-13,within_reporting_tolerance,1e-07
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,power_penalty,cost_only,power_proxy,dimensionless,0.08448536187242209,0.08448536187251217,-9.008072066052364e-14,within_reporting_tolerance,1e-08
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,power_penalty,cost_only,high_soc_proxy,dimensionless,0.13460777538601093,0.13460777538583266,1.782740621791845e-13,within_reporting_tolerance,1e-08
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,power_penalty,cost_only,peak_kw,kW,2.0927783350164386,2.0927783350300975,-1.3658851827358376e-11,within_reporting_tolerance,1e-05
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,10.396822113671744,10.39682211366975,1.9948487306464813e-12,within_reporting_tolerance,1e-06
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.008372000011149794,0.014833999972324818,-0.0064619999611750245,timing_observation_only,
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,combined,cost_only,cost_dollars,dollars,1.0432499999999998,1.043250000000556,-5.562217353372034e-13,within_reporting_tolerance,1e-07
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,combined,cost_only,power_proxy,dimensionless,0.2282211842403161,0.08448536187251217,0.1437358223678039,higher,1e-08
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,combined,cost_only,high_soc_proxy,dimensionless,0.06810562116687614,0.13460777538583266,-0.06650215421895651,lower,1e-08
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,combined,cost_only,peak_kw,kW,7.199999999772056,2.0927783350300975,5.107221664741958,higher,1e-05
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,combined,cost_only,calendar_increment_ppm,ppm of original capacity,9.659203421915235,10.39682211366975,-0.7376186917545144,lower,1e-06
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,combined,cost_only,total_wall_seconds,"seconds, single execution",0.009016541996970773,0.014833999972324818,-0.005817457975354046,timing_observation_only,
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,combined,power_penalty,cost_dollars,dollars,1.0432499999999998,1.0432499999999998,0.0,within_reporting_tolerance,1e-07
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,combined,power_penalty,power_proxy,dimensionless,0.2282211842403161,0.08448536187242209,0.143735822367894,higher,1e-08
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,combined,power_penalty,high_soc_proxy,dimensionless,0.06810562116687614,0.13460777538601093,-0.06650215421913479,lower,1e-08
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,combined,power_penalty,peak_kw,kW,7.199999999772056,2.0927783350164386,5.107221664755618,higher,1e-05
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,9.659203421915235,10.396822113671744,-0.7376186917565093,lower,1e-06
+clean,75.0,2_39_78_366_2018-04-25 15:14:06.329009,real_6_soc75,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.009016541996970773,0.008372000011149794,0.0006445419858209789,timing_observation_only,
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,immediate,cost_only,cost_dollars,dollars,2.2941000000000007,2.294100000000083,-8.215650382226158e-14,within_reporting_tolerance,1e-07
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,immediate,cost_only,power_proxy,dimensionless,0.5645102298213147,0.3351523740162747,0.22935785580504003,higher,1e-08
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,immediate,cost_only,peak_kw,kW,7.2,4.168248921196971,3.031751078803029,higher,1e-05
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,8.819600733670205,8.757403310061802,0.06219742360840286,higher,1e-06
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00018737500067800283,0.03563412500079721,-0.03544675000011921,timing_observation_only,
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,power_penalty,cost_only,cost_dollars,dollars,2.294100000000001,2.294100000000083,-8.171241461241152e-14,within_reporting_tolerance,1e-07
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,power_penalty,cost_only,power_proxy,dimensionless,0.3351523740162506,0.3351523740162747,-2.4091839634365897e-14,within_reporting_tolerance,1e-08
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,power_penalty,cost_only,peak_kw,kW,4.168248921203638,4.168248921196971,6.66666721826914e-12,within_reporting_tolerance,1e-05
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,8.757403310061363,8.757403310061802,-4.3876013933186186e-13,within_reporting_tolerance,1e-06
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.008874000050127506,0.03563412500079721,-0.026760124950669706,timing_observation_only,
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,combined,cost_only,cost_dollars,dollars,2.2941000000000007,2.294100000000083,-8.215650382226158e-14,within_reporting_tolerance,1e-07
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,combined,cost_only,power_proxy,dimensionless,0.33515237401625053,0.3351523740162747,-2.4147350785597155e-14,within_reporting_tolerance,1e-08
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,combined,cost_only,peak_kw,kW,4.1682489212091065,4.168248921196971,1.2135181748362811e-11,within_reporting_tolerance,1e-05
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,combined,cost_only,calendar_increment_ppm,ppm of original capacity,8.75740331006161,8.757403310061802,-1.9184653865522705e-13,within_reporting_tolerance,1e-06
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,combined,cost_only,total_wall_seconds,"seconds, single execution",0.00834070798009634,0.03563412500079721,-0.027293417020700872,timing_observation_only,
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,combined,power_penalty,cost_dollars,dollars,2.2941000000000007,2.294100000000001,-4.440892098500626e-16,within_reporting_tolerance,1e-07
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,combined,power_penalty,power_proxy,dimensionless,0.33515237401625053,0.3351523740162506,-5.551115123125783e-17,within_reporting_tolerance,1e-08
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,combined,power_penalty,peak_kw,kW,4.1682489212091065,4.168248921203638,5.468514530093671e-12,within_reporting_tolerance,1e-05
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,8.75740331006161,8.757403310061363,2.469136006766348e-13,within_reporting_tolerance,1e-06
+clean,30.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc30,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.00834070798009634,0.008874000050127506,-0.0005332920700311661,timing_observation_only,
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,immediate,cost_only,cost_dollars,dollars,2.2941,2.294100000000731,-7.314149286230531e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,immediate,cost_only,power_proxy,dimensionless,0.5645102298213145,0.3351523740164639,0.22935785580485057,higher,1e-08
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,immediate,cost_only,high_soc_proxy,dimensionless,0.10468420315555556,0.041435033306685805,0.06324916984886975,higher,1e-08
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,immediate,cost_only,peak_kw,kW,7.2,4.1682489211988045,3.0317510788011957,higher,1e-05
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,10.928994008872772,10.030263522285656,0.898730486587116,higher,1e-06
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00018745800480246544,0.014062332978937775,-0.01387487497413531,timing_observation_only,
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,power_penalty,cost_only,cost_dollars,dollars,2.2941,2.294100000000731,-7.314149286230531e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,power_penalty,cost_only,power_proxy,dimensionless,0.33515237401625025,0.3351523740164639,-2.1366242108911138e-13,within_reporting_tolerance,1e-08
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,power_penalty,cost_only,high_soc_proxy,dimensionless,0.04143503330897271,0.041435033306685805,2.2869067750619365e-12,within_reporting_tolerance,1e-08
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,power_penalty,cost_only,peak_kw,kW,4.168248921475035,4.1682489211988045,2.7623059395409655e-10,within_reporting_tolerance,1e-05
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,10.030263522328264,10.030263522285656,4.260769514985441e-11,within_reporting_tolerance,1e-06
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.007963625015690923,0.014062332978937775,-0.006098707963246852,timing_observation_only,
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,combined,cost_only,cost_dollars,dollars,2.2941000000000007,2.294100000000731,-7.30526750203353e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,combined,cost_only,power_proxy,dimensionless,0.37224597790994146,0.3351523740164639,0.037093603893477545,higher,1e-08
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,combined,cost_only,high_soc_proxy,dimensionless,0.028298181687407647,0.041435033306685805,-0.013136851619278158,lower,1e-08
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,combined,cost_only,peak_kw,kW,7.199999999989382,4.1682489211988045,3.0317510787905775,higher,1e-05
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,combined,cost_only,calendar_increment_ppm,ppm of original capacity,9.780673115859514,10.030263522285656,-0.24959040642614205,lower,1e-06
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,combined,cost_only,total_wall_seconds,"seconds, single execution",0.008184833044651896,0.014062332978937775,-0.005877499934285879,timing_observation_only,
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,combined,power_penalty,cost_dollars,dollars,2.2941000000000007,2.2941,8.881784197001252e-16,within_reporting_tolerance,1e-07
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,combined,power_penalty,power_proxy,dimensionless,0.37224597790994146,0.33515237401625025,0.03709360389369121,higher,1e-08
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,combined,power_penalty,high_soc_proxy,dimensionless,0.028298181687407647,0.04143503330897271,-0.013136851621565065,lower,1e-08
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,combined,power_penalty,peak_kw,kW,7.199999999989382,4.168248921475035,3.031751078514347,higher,1e-05
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,9.780673115859514,10.030263522328264,-0.24959040646874975,lower,1e-06
+clean,60.0,2_39_91_441_2018-04-25 14:47:41.776352,real_7_soc60,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.008184833044651896,0.007963625015690923,0.00022120802896097302,timing_observation_only,
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,immediate,cost_only,cost_dollars,dollars,0.33105,0.33105000000011664,-1.166289287368727e-13,within_reporting_tolerance,1e-07
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,immediate,cost_only,power_proxy,dimensionless,0.04779505325908106,0.0031101745797750806,0.04468487867930598,higher,1e-08
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,immediate,cost_only,peak_kw,kW,7.2,0.40153636228123185,6.798463637718768,higher,1e-05
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,12.742316935851226,12.560383909069625,0.18193302678160173,higher,1e-06
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00020275003043934703,0.01515245804330334,-0.014949708012863994,timing_observation_only,
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,power_penalty,cost_only,cost_dollars,dollars,0.3310499999999998,0.33105000000011664,-1.1685097334179773e-13,within_reporting_tolerance,1e-07
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,power_penalty,cost_only,power_proxy,dimensionless,0.0031101745797728845,0.0031101745797750806,-2.1961599205866378e-15,within_reporting_tolerance,1e-08
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,power_penalty,cost_only,peak_kw,kW,0.4015363625454453,0.40153636228123185,2.642134289132514e-10,within_reporting_tolerance,1e-05
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,12.560383909076432,12.560383909069625,6.80699940858176e-12,within_reporting_tolerance,1e-06
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.008826458011753857,0.01515245804330334,-0.0063260000315494835,timing_observation_only,
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,combined,cost_only,cost_dollars,dollars,0.33104999999999996,0.33105000000011664,-1.1668443988810395e-13,within_reporting_tolerance,1e-07
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,combined,cost_only,power_proxy,dimensionless,0.0031101745797728867,0.0031101745797750806,-2.1939915162416668e-15,within_reporting_tolerance,1e-08
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,combined,cost_only,peak_kw,kW,0.4015363627525453,0.40153636228123185,4.713134327261059e-10,within_reporting_tolerance,1e-05
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,combined,cost_only,calendar_increment_ppm,ppm of original capacity,12.56038390909428,12.560383909069625,2.4655832930875476e-11,within_reporting_tolerance,1e-06
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,combined,cost_only,total_wall_seconds,"seconds, single execution",0.00880858296295628,0.01515245804330334,-0.006343875080347061,timing_observation_only,
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,combined,power_penalty,cost_dollars,dollars,0.33104999999999996,0.3310499999999998,1.6653345369377348e-16,within_reporting_tolerance,1e-07
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,combined,power_penalty,power_proxy,dimensionless,0.0031101745797728867,0.0031101745797728845,2.168404344971009e-18,within_reporting_tolerance,1e-08
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,combined,power_penalty,peak_kw,kW,0.4015363627525453,0.4015363625454453,2.0710000381285454e-10,within_reporting_tolerance,1e-05
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,12.56038390909428,12.560383909076432,1.7848833522293717e-11,within_reporting_tolerance,1e-06
+clean,30.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc30,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.00880858296295628,0.008826458011753857,-1.787504879757762e-05,timing_observation_only,
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,immediate,cost_only,cost_dollars,dollars,0.3310500000000005,0.3310500000005094,-5.088707233369405e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,immediate,cost_only,power_proxy,dimensionless,0.047795053259081094,0.003110174579782459,0.044684878679298635,higher,1e-08
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,immediate,cost_only,peak_kw,kW,7.2,0.40153636226348843,6.7984636377365115,higher,1e-05
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,13.630044008184779,13.541194033145509,0.08884997503927039,higher,1e-06
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00019554200116544962,0.015228416945319623,-0.015032874944154173,timing_observation_only,
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,power_penalty,cost_only,cost_dollars,dollars,0.33105000000000046,0.3310500000005094,-5.089262344881718e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,power_penalty,cost_only,power_proxy,dimensionless,0.003110174579772896,0.003110174579782459,-9.562663161322149e-15,within_reporting_tolerance,1e-08
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,power_penalty,cost_only,peak_kw,kW,0.4015363623101267,0.40153636226348843,4.6638248818453576e-11,within_reporting_tolerance,1e-05
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,13.541194033142085,13.541194033145509,-3.4230396295242826e-12,within_reporting_tolerance,1e-06
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.00843079196056351,0.015228416945319623,-0.006797624984756112,timing_observation_only,
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,combined,cost_only,cost_dollars,dollars,0.3310500000000003,0.3310500000005094,-5.090927679418655e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,combined,cost_only,power_proxy,dimensionless,0.0031101745797728927,0.003110174579782459,-9.566132608274103e-15,within_reporting_tolerance,1e-08
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,combined,cost_only,peak_kw,kW,0.40153636238208007,0.40153636226348843,1.1859163651095628e-10,within_reporting_tolerance,1e-05
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,combined,cost_only,calendar_increment_ppm,ppm of original capacity,13.541194033136309,13.541194033145509,-9.199752071253897e-12,within_reporting_tolerance,1e-06
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,combined,cost_only,total_wall_seconds,"seconds, single execution",0.009128540987148881,0.015228416945319623,-0.006099875958170742,timing_observation_only,
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,combined,power_penalty,cost_dollars,dollars,0.3310500000000003,0.33105000000000046,-1.6653345369377348e-16,within_reporting_tolerance,1e-07
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,combined,power_penalty,power_proxy,dimensionless,0.0031101745797728927,0.003110174579772896,-3.469446951953614e-18,within_reporting_tolerance,1e-08
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,combined,power_penalty,peak_kw,kW,0.40153636238208007,0.4015363623101267,7.19533876925027e-11,within_reporting_tolerance,1e-05
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,13.541194033136309,13.541194033142085,-5.7767124417296145e-12,within_reporting_tolerance,1e-06
+clean,60.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc60,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.009128540987148881,0.00843079196056351,0.0006977490265853703,timing_observation_only,
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,immediate,cost_only,cost_dollars,dollars,0.3310500000000005,0.3310500000004498,-4.4930725806580085e-13,within_reporting_tolerance,1e-07
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,immediate,cost_only,power_proxy,dimensionless,0.047795053259081094,0.0031101745797813395,0.04468487867929975,higher,1e-08
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,immediate,cost_only,high_soc_proxy,dimensionless,0.0762431978986144,0.05134541613431576,0.024897781764298646,higher,1e-08
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,immediate,cost_only,peak_kw,kW,7.2,0.4015363622627594,6.798463637737241,higher,1e-05
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,16.329444995962824,15.851219002544388,0.47822599341843564,higher,1e-06
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00026941695250570774,0.015084541984833777,-0.01481512503232807,timing_observation_only,
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,power_penalty,cost_only,cost_dollars,dollars,0.3310500000000004,0.3310500000004498,-4.4941828036826337e-13,within_reporting_tolerance,1e-07
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,power_penalty,cost_only,power_proxy,dimensionless,0.0031101745797728953,0.0031101745797813395,-8.444200200186103e-15,within_reporting_tolerance,1e-08
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,power_penalty,cost_only,high_soc_proxy,dimensionless,0.05134541611436509,0.05134541613431576,-1.995066611915064e-11,within_reporting_tolerance,1e-08
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,power_penalty,cost_only,peak_kw,kW,0.4015363687778073,0.4015363622627594,6.515047890065517e-09,within_reporting_tolerance,1e-05
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,15.851219002159104,15.851219002544388,-3.852846930385567e-10,within_reporting_tolerance,1e-06
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.008970708993729204,0.015084541984833777,-0.006113832991104573,timing_observation_only,
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,combined,cost_only,cost_dollars,dollars,0.33105000000000046,0.3310500000004498,-4.493627692170321e-13,within_reporting_tolerance,1e-07
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,combined,cost_only,power_proxy,dimensionless,0.02412550275687181,0.0031101745797813395,0.021015328177090467,higher,1e-08
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,combined,cost_only,high_soc_proxy,dimensionless,0.031495429467904616,0.05134541613431576,-0.01984998666641114,lower,1e-08
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,combined,cost_only,peak_kw,kW,4.193768665133275,0.4015363622627594,3.7922323028705156,higher,1e-05
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,combined,cost_only,calendar_increment_ppm,ppm of original capacity,15.440042160404237,15.851219002544388,-0.4111768421401507,lower,1e-06
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,combined,cost_only,total_wall_seconds,"seconds, single execution",0.008795291010756046,0.015084541984833777,-0.006289250974077731,timing_observation_only,
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,combined,power_penalty,cost_dollars,dollars,0.33105000000000046,0.3310500000000004,5.551115123125783e-17,within_reporting_tolerance,1e-07
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,combined,power_penalty,power_proxy,dimensionless,0.02412550275687181,0.0031101745797728953,0.02101532817709891,higher,1e-08
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,combined,power_penalty,high_soc_proxy,dimensionless,0.031495429467904616,0.05134541611436509,-0.019849986646460475,lower,1e-08
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,combined,power_penalty,peak_kw,kW,4.193768665133275,0.4015363687778073,3.7922322963554675,higher,1e-05
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,15.440042160404237,15.851219002159104,-0.411176841754866,lower,1e-06
+clean,75.0,2_39_90_440_2018-04-25 16:02:03.486354,real_8_soc75,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.008795291010756046,0.008970708993729204,-0.00017541798297315836,timing_observation_only,
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,immediate,cost_only,cost_dollars,dollars,1.0429500000000003,1.0429500000000802,-7.993605777301127e-14,within_reporting_tolerance,1e-07
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,immediate,cost_only,power_proxy,dimensionless,0.23190217113965222,0.0545563296317729,0.17734584150787933,higher,1e-08
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,immediate,cost_only,peak_kw,kW,7.2,1.6817253426579808,5.518274657342019,higher,1e-05
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,9.888103072671306,9.689881963071658,0.19822110959964867,higher,1e-06
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00019508297555148602,0.014119500003289431,-0.013924417027737945,timing_observation_only,
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,power_penalty,cost_only,cost_dollars,dollars,1.0429500000000003,1.0429500000000802,-7.993605777301127e-14,within_reporting_tolerance,1e-07
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,power_penalty,cost_only,power_proxy,dimensionless,0.054556329631764544,0.0545563296317729,-8.354428260304303e-15,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,power_penalty,cost_only,peak_kw,kW,1.6817253427340944,1.6817253426579808,7.611355989922686e-11,within_reporting_tolerance,1e-05
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,9.68988196307273,9.689881963071658,1.0729195309977513e-12,within_reporting_tolerance,1e-06
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.008534541993867606,0.014119500003289431,-0.005584958009421825,timing_observation_only,
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,combined,cost_only,cost_dollars,dollars,1.0429499999999998,1.0429500000000802,-8.038014698286133e-14,within_reporting_tolerance,1e-07
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,combined,cost_only,power_proxy,dimensionless,0.054556329631764516,0.0545563296317729,-8.382183835919932e-15,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,combined,cost_only,peak_kw,kW,1.681725342826559,1.6817253426579808,1.685782624605281e-10,within_reporting_tolerance,1e-05
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,combined,cost_only,calendar_increment_ppm,ppm of original capacity,9.689881963074892,9.689881963071658,3.234745804547856e-12,within_reporting_tolerance,1e-06
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,combined,cost_only,total_wall_seconds,"seconds, single execution",0.008411207993049175,0.014119500003289431,-0.005708292010240257,timing_observation_only,
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,combined,power_penalty,cost_dollars,dollars,1.0429499999999998,1.0429500000000003,-4.440892098500626e-16,within_reporting_tolerance,1e-07
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,combined,power_penalty,power_proxy,dimensionless,0.054556329631764516,0.054556329631764544,-2.7755575615628914e-17,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,combined,power_penalty,peak_kw,kW,1.681725342826559,1.6817253427340944,9.246470256130124e-11,within_reporting_tolerance,1e-05
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,9.689881963074892,9.68988196307273,2.161826273550105e-12,within_reporting_tolerance,1e-06
+clean,30.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc30,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.008411207993049175,0.008534541993867606,-0.00012333400081843138,timing_observation_only,
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,immediate,cost_only,cost_dollars,dollars,1.0429500000000003,1.042950000000257,-2.566835632933362e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,immediate,cost_only,power_proxy,dimensionless,0.23190217113965222,0.05455632963179141,0.1773458415078608,higher,1e-08
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,immediate,cost_only,high_soc_proxy,dimensionless,0.00016879630718954626,1.2056879085111577e-05,0.0001567394281044347,higher,1e-08
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,immediate,cost_only,peak_kw,kW,7.2,1.6817253426779482,5.518274657322052,higher,1e-05
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,10.754797042655698,10.411057320654727,0.34373972200097036,higher,1e-06
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00018091598758473992,0.014047624950762838,-0.013866708963178098,timing_observation_only,
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,power_penalty,cost_only,cost_dollars,dollars,1.04295,1.042950000000257,-2.569056078982612e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,power_penalty,cost_only,power_proxy,dimensionless,0.05455632963176454,0.05455632963179141,-2.6874336089832696e-14,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,power_penalty,cost_only,high_soc_proxy,dimensionless,1.205687908496759e-05,1.2056879085111577e-05,-1.4398713070375851e-16,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,power_penalty,cost_only,peak_kw,kW,1.6817253427147891,1.6817253426779482,3.684097471534642e-11,within_reporting_tolerance,1e-05
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,10.411057320655443,10.411057320654727,7.158718062783009e-13,within_reporting_tolerance,1e-06
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.007823291001841426,0.014047624950762838,-0.006224333948921412,timing_observation_only,
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,combined,cost_only,cost_dollars,dollars,1.04295,1.042950000000257,-2.569056078982612e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,combined,cost_only,power_proxy,dimensionless,0.05455632963176454,0.05455632963179141,-2.6874336089832696e-14,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,combined,cost_only,high_soc_proxy,dimensionless,1.205687908496759e-05,1.2056879085111577e-05,-1.4398713070375851e-16,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,combined,cost_only,peak_kw,kW,1.681725343231654,1.6817253426779482,5.537057479187979e-10,within_reporting_tolerance,1e-05
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,combined,cost_only,calendar_increment_ppm,ppm of original capacity,10.411057320642037,10.411057320654727,-1.269029326067539e-11,within_reporting_tolerance,1e-06
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,combined,cost_only,total_wall_seconds,"seconds, single execution",0.009064042009413242,0.014047624950762838,-0.004983582941349596,timing_observation_only,
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,combined,power_penalty,cost_dollars,dollars,1.04295,1.04295,0.0,within_reporting_tolerance,1e-07
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,combined,power_penalty,power_proxy,dimensionless,0.05455632963176454,0.05455632963176454,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,combined,power_penalty,high_soc_proxy,dimensionless,1.205687908496759e-05,1.205687908496759e-05,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,combined,power_penalty,peak_kw,kW,1.681725343231654,1.6817253427147891,5.168647732034515e-10,within_reporting_tolerance,1e-05
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,10.411057320642037,10.411057320655443,-1.340616506695369e-11,within_reporting_tolerance,1e-06
+clean,60.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc60,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.009064042009413242,0.007823291001841426,0.0012407510075718164,timing_observation_only,
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,immediate,cost_only,cost_dollars,dollars,1.0429500000000003,1.042950000001001,-1.0007550343971161e-12,within_reporting_tolerance,1e-07
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,immediate,cost_only,power_proxy,dimensionless,0.23190217113965222,0.054556329631869245,0.177345841507783,higher,1e-08
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,immediate,cost_only,high_soc_proxy,dimensionless,0.23935643125664352,0.13303904027743135,0.10631739097921217,higher,1e-08
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,immediate,cost_only,peak_kw,kW,7.2,1.6817253426745955,5.518274657325405,higher,1e-05
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,14.295219892640805,12.933430669945068,1.3617892226957373,higher,1e-06
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.0001870420528575778,0.014992374985013157,-0.01480533293215558,timing_observation_only,
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,power_penalty,cost_only,cost_dollars,dollars,1.04295,1.042950000001001,-1.0009770790020411e-12,within_reporting_tolerance,1e-07
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,power_penalty,cost_only,power_proxy,dimensionless,0.05455632963176451,0.054556329631869245,-1.047356645855757e-13,within_reporting_tolerance,1e-08
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,power_penalty,cost_only,high_soc_proxy,dimensionless,0.13303904028226682,0.13303904027743135,4.835465361452407e-12,within_reporting_tolerance,1e-08
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,power_penalty,cost_only,peak_kw,kW,1.6817253436017305,1.6817253426745955,9.271350354111974e-10,within_reporting_tolerance,1e-05
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,12.933430670009935,12.933430669945068,6.486722270437895e-11,within_reporting_tolerance,1e-06
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.008287665958050638,0.014992374985013157,-0.006704709026962519,timing_observation_only,
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,combined,cost_only,cost_dollars,dollars,1.0429500000000003,1.042950000001001,-1.0007550343971161e-12,within_reporting_tolerance,1e-07
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,combined,cost_only,power_proxy,dimensionless,0.18357700405890498,0.054556329631869245,0.12902067442703574,higher,1e-08
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,combined,cost_only,high_soc_proxy,dimensionless,0.060338190723027346,0.13303904027743135,-0.072700849554404,lower,1e-08
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,combined,cost_only,peak_kw,kW,7.199999999994765,1.6817253426745955,5.51827465732017,higher,1e-05
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,combined,cost_only,calendar_increment_ppm,ppm of original capacity,11.929200763717123,12.933430669945068,-1.0042299062279447,lower,1e-06
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,combined,cost_only,total_wall_seconds,"seconds, single execution",0.008805292018223554,0.014992374985013157,-0.006187082966789603,timing_observation_only,
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,combined,power_penalty,cost_dollars,dollars,1.0429500000000003,1.04295,2.220446049250313e-16,within_reporting_tolerance,1e-07
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,combined,power_penalty,power_proxy,dimensionless,0.18357700405890498,0.05455632963176451,0.12902067442714046,higher,1e-08
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,combined,power_penalty,high_soc_proxy,dimensionless,0.060338190723027346,0.13303904028226682,-0.07270084955923947,lower,1e-08
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,combined,power_penalty,peak_kw,kW,7.199999999994765,1.6817253436017305,5.518274656393035,higher,1e-05
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,11.929200763717123,12.933430670009935,-1.004229906292812,lower,1e-06
+clean,75.0,2_39_79_377_2018-04-25 14:58:25.255583,real_9_soc75,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.008805292018223554,0.008287665958050638,0.0005176260601729155,timing_observation_only,
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,immediate,cost_only,cost_dollars,dollars,2.6169000000000002,2.6169000099802986,-9.980298365519502e-09,within_reporting_tolerance,1e-07
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,immediate,cost_only,power_proxy,dimensionless,0.3027841905419859,0.10412844599362309,0.19865574454836282,higher,1e-08
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,immediate,cost_only,peak_kw,kW,7.2,2.440580742718349,4.759419257281651,higher,1e-05
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,19.082850169933806,18.8944561172083,0.18839405272550636,higher,1e-06
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00020304200006648898,0.015411000000312924,-0.015207958000246435,timing_observation_only,
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,power_penalty,cost_only,cost_dollars,dollars,2.6169000000004945,2.6169000099802986,-9.979804094228939e-09,within_reporting_tolerance,1e-07
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,power_penalty,cost_only,power_proxy,dimensionless,0.10412844678779165,0.10412844599362309,7.941685642443019e-10,within_reporting_tolerance,1e-08
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,power_penalty,cost_only,peak_kw,kW,2.440580752518484,2.440580742718349,9.80013536988622e-09,within_reporting_tolerance,1e-05
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,18.89445611839742,18.8944561172083,1.189121690003958e-09,within_reporting_tolerance,1e-06
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.009169834025669843,0.015411000000312924,-0.006241165974643081,timing_observation_only,
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,combined,cost_only,cost_dollars,dollars,2.6169000000000433,2.6169000099802986,-9.980255288866147e-09,within_reporting_tolerance,1e-07
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,combined,cost_only,power_proxy,dimensionless,0.10412844678782744,0.10412844599362309,7.942043550590583e-10,within_reporting_tolerance,1e-08
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,combined,cost_only,peak_kw,kW,2.4405807522063845,2.440580742718349,9.488035690452534e-09,within_reporting_tolerance,1e-05
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,combined,cost_only,calendar_increment_ppm,ppm of original capacity,18.894456118405802,18.8944561172083,1.1975025415722484e-09,within_reporting_tolerance,1e-06
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,combined,cost_only,total_wall_seconds,"seconds, single execution",0.009684375021606684,0.015411000000312924,-0.005726624978706241,timing_observation_only,
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,combined,power_penalty,cost_dollars,dollars,2.6169000000000433,2.6169000000004945,-4.511946372076636e-13,within_reporting_tolerance,1e-07
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,combined,power_penalty,power_proxy,dimensionless,0.10412844678782744,0.10412844678779165,3.5790814756353484e-14,within_reporting_tolerance,1e-08
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,combined,power_penalty,peak_kw,kW,2.4405807522063845,2.440580752518484,-3.120996794336861e-10,within_reporting_tolerance,1e-05
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,18.894456118405802,18.89445611839742,8.380851568290382e-12,within_reporting_tolerance,1e-06
+clean,30.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc30,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.009684375021606684,0.009169834025669843,0.0005145409959368408,timing_observation_only,
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,immediate,cost_only,cost_dollars,dollars,2.616900000000001,2.616900009995841,-9.995839711507415e-09,within_reporting_tolerance,1e-07
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,immediate,cost_only,power_proxy,dimensionless,0.30278419054198596,0.10412844599235624,0.19865574454962973,higher,1e-08
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,immediate,cost_only,high_soc_proxy,dimensionless,0.224206107004666,0.0860749248355431,0.1381311821691229,higher,1e-08
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,immediate,cost_only,peak_kw,kW,7.2,2.4405807427082484,4.759419257291752,higher,1e-05
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,26.716144459855045,22.879425999361015,3.83671846049403,higher,1e-06
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.0001955829793587327,0.01662874995963648,-0.016433166980277747,timing_observation_only,
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,power_penalty,cost_only,cost_dollars,dollars,2.6169000000001055,2.616900009995841,-9.9957353505431e-09,within_reporting_tolerance,1e-07
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,power_penalty,cost_only,power_proxy,dimensionless,0.1041284467878227,0.10412844599235624,7.954664565934522e-10,within_reporting_tolerance,1e-08
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,power_penalty,cost_only,high_soc_proxy,dimensionless,0.08607492580273296,0.0860749248355431,9.67189855982653e-10,within_reporting_tolerance,1e-08
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,power_penalty,cost_only,peak_kw,kW,2.4405807520527074,2.4405807427082484,9.34445898437275e-09,within_reporting_tolerance,1e-05
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,22.879426025636796,22.879425999361015,2.6275781550566535e-08,within_reporting_tolerance,1e-06
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.008719334029592574,0.01662874995963648,-0.007909415930043906,timing_observation_only,
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,combined,cost_only,cost_dollars,dollars,2.9425950034708026,2.616900009995841,0.3256949934749618,higher,1e-07
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,combined,cost_only,power_proxy,dimensionless,0.1500475716933225,0.10412844599235624,0.04591912570096626,higher,1e-08
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,combined,cost_only,high_soc_proxy,dimensionless,0.035616304545828856,0.0860749248355431,-0.05045862028971425,lower,1e-08
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,combined,cost_only,peak_kw,kW,7.199999999972344,2.4405807427082484,4.759419257264096,higher,1e-05
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,combined,cost_only,calendar_increment_ppm,ppm of original capacity,21.163487221373995,22.879425999361015,-1.71593877798702,lower,1e-06
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,combined,cost_only,total_wall_seconds,"seconds, single execution",0.00900541601004079,0.01662874995963648,-0.00762333394959569,timing_observation_only,
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,combined,power_penalty,cost_dollars,dollars,2.9425950034708026,2.6169000000001055,0.32569500347069713,higher,1e-07
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,combined,power_penalty,power_proxy,dimensionless,0.1500475716933225,0.1041284467878227,0.045919124905499806,higher,1e-08
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,combined,power_penalty,high_soc_proxy,dimensionless,0.035616304545828856,0.08607492580273296,-0.050458621256904104,lower,1e-08
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,combined,power_penalty,peak_kw,kW,7.199999999972344,2.4405807520527074,4.759419247919636,higher,1e-05
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,21.163487221373995,22.879426025636796,-1.7159388042628017,lower,1e-06
+clean,60.0,2_39_88_24_2018-04-25 16:03:58.630483,real_10_soc60,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.00900541601004079,0.008719334029592574,0.0002860819804482162,timing_observation_only,
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,immediate,cost_only,cost_dollars,dollars,0.4873500000000003,0.48735000816819934,-8.16819906157562e-09,within_reporting_tolerance,1e-07
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,immediate,cost_only,power_proxy,dimensionless,0.03697438928387513,0.002287072342538968,0.03468731694133616,higher,1e-08
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,immediate,cost_only,peak_kw,kW,7.2,0.408322879498424,6.791677120501576,higher,1e-05
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,26.23903498392498,25.892199460762697,0.3468355231622837,higher,1e-06
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00020766601664945483,0.017096417024731636,-0.01688875100808218,timing_observation_only,
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,power_penalty,cost_only,cost_dollars,dollars,0.4873500000010521,0.48735000816819934,-8.16714723628209e-09,within_reporting_tolerance,1e-07
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,power_penalty,cost_only,power_proxy,dimensionless,0.0022870724191397674,0.002287072342538968,7.66007994881801e-11,within_reporting_tolerance,1e-08
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,power_penalty,cost_only,peak_kw,kW,0.4083228955367645,0.408322879498424,1.6038340489021863e-08,within_reporting_tolerance,1e-05
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,25.892199469394388,25.892199460762697,8.631690917582091e-09,within_reporting_tolerance,1e-06
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.009271666000131518,0.017096417024731636,-0.007824751024600118,timing_observation_only,
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,combined,cost_only,cost_dollars,dollars,0.48735000000098133,0.48735000816819934,-8.16721801299991e-09,within_reporting_tolerance,1e-07
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,combined,cost_only,power_proxy,dimensionless,0.0022870724191404266,0.002287072342538968,7.660145868310098e-11,within_reporting_tolerance,1e-08
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,combined,cost_only,peak_kw,kW,0.408322887477071,0.408322879498424,7.978647020845386e-09,within_reporting_tolerance,1e-05
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,combined,cost_only,calendar_increment_ppm,ppm of original capacity,25.892199469459584,25.892199460762697,8.696886766301759e-09,within_reporting_tolerance,1e-06
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,combined,cost_only,total_wall_seconds,"seconds, single execution",0.010949874995276332,0.017096417024731636,-0.006146542029455304,timing_observation_only,
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,combined,power_penalty,cost_dollars,dollars,0.48735000000098133,0.4873500000010521,-7.077671781985373e-14,within_reporting_tolerance,1e-07
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,combined,power_penalty,power_proxy,dimensionless,0.0022870724191404266,0.0022870724191397674,6.591949208711867e-16,within_reporting_tolerance,1e-08
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,combined,power_penalty,peak_kw,kW,0.408322887477071,0.4083228955367645,-8.059693468176476e-09,within_reporting_tolerance,1e-05
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,25.892199469459584,25.892199469394388,6.519584871966799e-11,within_reporting_tolerance,1e-06
+clean,30.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc30,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.010949874995276332,0.009271666000131518,0.0016782089951448143,timing_observation_only,
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,immediate,cost_only,cost_dollars,dollars,0.4873499999999996,0.4873500098058756,-9.80587600007965e-09,within_reporting_tolerance,1e-07
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,immediate,cost_only,power_proxy,dimensionless,0.036974389283875045,0.0022870723271174354,0.034687316956757606,higher,1e-08
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,immediate,cost_only,peak_kw,kW,7.2,0.40832287794616245,6.791677122053838,higher,1e-05
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,27.984337344816176,27.75910949032606,0.2252278544901145,higher,1e-06
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00021116697462275624,0.016462917032185942,-0.016251750057563186,timing_observation_only,
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,power_penalty,cost_only,cost_dollars,dollars,0.4873500000000881,0.4873500098058756,-9.805787515304587e-09,within_reporting_tolerance,1e-07
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,power_penalty,cost_only,power_proxy,dimensionless,0.002287072419148803,0.0022870723271174354,9.203136776964049e-11,within_reporting_tolerance,1e-08
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,power_penalty,cost_only,peak_kw,kW,0.40832288616585044,0.40832287794616245,8.219687985810964e-09,within_reporting_tolerance,1e-05
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,27.759109497666625,27.75910949032606,7.340563712432413e-09,within_reporting_tolerance,1e-06
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.009940584015566856,0.016462917032185942,-0.006522333016619086,timing_observation_only,
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,combined,cost_only,cost_dollars,dollars,0.487350000000234,0.4873500098058756,-9.805641631999151e-09,within_reporting_tolerance,1e-07
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,combined,cost_only,power_proxy,dimensionless,0.0022870724191474327,0.0022870723271174354,9.202999733809447e-11,within_reporting_tolerance,1e-08
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,combined,cost_only,peak_kw,kW,0.4083228868478274,0.40832287794616245,8.901664960703215e-09,within_reporting_tolerance,1e-05
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,combined,cost_only,calendar_increment_ppm,ppm of original capacity,27.759109497822763,27.75910949032606,7.496701925902016e-09,within_reporting_tolerance,1e-06
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,combined,cost_only,total_wall_seconds,"seconds, single execution",0.009785958041902632,0.016462917032185942,-0.00667695899028331,timing_observation_only,
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,combined,power_penalty,cost_dollars,dollars,0.487350000000234,0.4873500000000881,1.4588330543574557e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,combined,power_penalty,power_proxy,dimensionless,0.0022870724191474327,0.002287072419148803,-1.3704315460216776e-15,within_reporting_tolerance,1e-08
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,combined,power_penalty,peak_kw,kW,0.4083228868478274,0.40832288616585044,6.819769748922511e-10,within_reporting_tolerance,1e-05
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,27.759109497822763,27.759109497666625,1.5613821346960322e-10,within_reporting_tolerance,1e-06
+clean,60.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc60,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.009785958041902632,0.009940584015566856,-0.00015462597366422415,timing_observation_only,
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,immediate,cost_only,cost_dollars,dollars,0.4873499999999996,0.4873500099387519,-9.938752265625794e-09,within_reporting_tolerance,1e-07
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,immediate,cost_only,power_proxy,dimensionless,0.036974389283875045,0.0022870723258704216,0.03468731695800462,higher,1e-08
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,immediate,cost_only,high_soc_proxy,dimensionless,0.10736914807122086,0.07745157329606814,0.029917574775152722,higher,1e-08
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,immediate,cost_only,peak_kw,kW,7.2,0.4083228778702008,6.7916771221298,higher,1e-05
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,34.37282228549033,33.25746976593308,1.1153525195572485,higher,1e-06
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00020425004186108708,0.016685625014360994,-0.016481374972499907,timing_observation_only,
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,power_penalty,cost_only,cost_dollars,dollars,0.48735000000081896,0.4873500099387519,-9.937932921033621e-09,within_reporting_tolerance,1e-07
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,power_penalty,cost_only,power_proxy,dimensionless,0.0022870724191419458,0.0022870723258704216,9.327152418470153e-11,within_reporting_tolerance,1e-08
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,power_penalty,cost_only,high_soc_proxy,dimensionless,0.07745157424163031,0.07745157329606814,9.455621702292305e-10,within_reporting_tolerance,1e-08
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,power_penalty,cost_only,peak_kw,kW,0.4083228886123894,0.4083228778702008,1.074218863861276e-08,within_reporting_tolerance,1e-05
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,33.25746980061041,33.25746976593308,3.467732767603593e-08,within_reporting_tolerance,1e-06
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.009554124961141497,0.016685625014360994,-0.007131500053219497,timing_observation_only,
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,combined,cost_only,cost_dollars,dollars,0.4873500000046314,0.4873500099387519,-9.93412047067821e-09,within_reporting_tolerance,1e-07
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,combined,cost_only,power_proxy,dimensionless,0.02219531792067327,0.0022870723258704216,0.019908245594802847,higher,1e-08
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,combined,cost_only,high_soc_proxy,dimensionless,0.05427728770673635,0.07745157329606814,-0.023174285589331788,lower,1e-08
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,combined,cost_only,peak_kw,kW,5.477082067255951,0.4083228778702008,5.068759189385751,higher,1e-05
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,combined,cost_only,calendar_increment_ppm,ppm of original capacity,32.315329526189316,33.25746976593308,-0.9421402397437646,lower,1e-06
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,combined,cost_only,total_wall_seconds,"seconds, single execution",0.010025625000707805,0.016685625014360994,-0.006660000013653189,timing_observation_only,
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,combined,power_penalty,cost_dollars,dollars,0.4873500000046314,0.48735000000081896,3.812450355411556e-12,within_reporting_tolerance,1e-07
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,combined,power_penalty,power_proxy,dimensionless,0.02219531792067327,0.0022870724191419458,0.019908245501531325,higher,1e-08
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,combined,power_penalty,high_soc_proxy,dimensionless,0.05427728770673635,0.07745157424163031,-0.023174286534893958,lower,1e-08
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,combined,power_penalty,peak_kw,kW,5.477082067255951,0.4083228886123894,5.068759178643562,higher,1e-05
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,32.315329526189316,33.25746980061041,-0.9421402744210923,lower,1e-06
+clean,75.0,2_39_91_437_2018-04-25 15:14:41.260754,real_11_soc75,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.010025625000707805,0.009554124961141497,0.00047150003956630826,timing_observation_only,
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,immediate,cost_only,cost_dollars,dollars,1.1864999999999999,1.186500009997038,-9.997038086240195e-09,within_reporting_tolerance,1e-07
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,immediate,cost_only,power_proxy,dimensionless,0.09822714696205036,0.013685424775805944,0.08454172218624441,higher,1e-08
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,immediate,cost_only,peak_kw,kW,7.2,0.9472320989751247,6.252767901024876,higher,1e-05
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,25.42143287048177,24.9704071204915,0.45102574999026857,higher,1e-06
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00020524999126791954,0.016077290987595916,-0.015872040996327996,timing_observation_only,
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,power_penalty,cost_only,cost_dollars,dollars,1.1865000000008186,1.186500009997038,-9.996219407781837e-09,within_reporting_tolerance,1e-07
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,power_penalty,cost_only,power_proxy,dimensionless,0.013685425006374465,0.013685424775805944,2.3056852087310897e-10,within_reporting_tolerance,1e-08
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,power_penalty,cost_only,peak_kw,kW,0.9472321113415494,0.9472320989751247,1.2366424662069164e-08,within_reporting_tolerance,1e-05
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,24.970407125493022,24.9704071204915,5.001520975156382e-09,within_reporting_tolerance,1e-06
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.00869695795699954,0.016077290987595916,-0.0073803330305963755,timing_observation_only,
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,combined,cost_only,cost_dollars,dollars,1.1865000000000399,1.186500009997038,-9.996998118211309e-09,within_reporting_tolerance,1e-07
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,combined,cost_only,power_proxy,dimensionless,0.013685425006392435,0.013685424775805944,2.3058649087359662e-10,within_reporting_tolerance,1e-08
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,combined,cost_only,peak_kw,kW,0.9472321073691007,0.9472320989751247,8.393975958753686e-09,within_reporting_tolerance,1e-05
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,combined,cost_only,calendar_increment_ppm,ppm of original capacity,24.970407125495942,24.9704071204915,5.004441305800356e-09,within_reporting_tolerance,1e-06
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,combined,cost_only,total_wall_seconds,"seconds, single execution",0.00956487498478964,0.016077290987595916,-0.006512416002806276,timing_observation_only,
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,combined,power_penalty,cost_dollars,dollars,1.1865000000000399,1.1865000000008186,-7.787104294720848e-13,within_reporting_tolerance,1e-07
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,combined,power_penalty,power_proxy,dimensionless,0.013685425006392435,0.013685425006374465,1.7970000487643745e-14,within_reporting_tolerance,1e-08
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,combined,power_penalty,peak_kw,kW,0.9472321073691007,0.9472321113415494,-3.972448703315479e-09,within_reporting_tolerance,1e-05
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,24.970407125495942,24.970407125493022,2.9203306439740118e-12,within_reporting_tolerance,1e-06
+clean,30.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc30,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.00956487498478964,0.00869695795699954,0.0008679170277900994,timing_observation_only,
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,immediate,cost_only,cost_dollars,dollars,1.1865000000000006,1.1865000099819347,-9.981934168123985e-09,within_reporting_tolerance,1e-07
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,immediate,cost_only,power_proxy,dimensionless,0.0982271469620504,0.013685424776128559,0.08454172218592185,higher,1e-08
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,immediate,cost_only,high_soc_proxy,dimensionless,0.0035148103042639336,0.001016702683735992,0.002498107620527942,higher,1e-08
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,immediate,cost_only,peak_kw,kW,7.2,0.9472320989761588,6.252767901023842,higher,1e-05
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,28.069143126926043,27.063931221640225,1.0052119052858188,higher,1e-06
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.0001901250216178596,0.017989250016398728,-0.01779912499478087,timing_observation_only,
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,power_penalty,cost_only,cost_dollars,dollars,1.1865000000000472,1.1865000099819347,-9.98188753875695e-09,within_reporting_tolerance,1e-07
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,power_penalty,cost_only,power_proxy,dimensionless,0.013685425006392301,0.013685424776128559,2.3026374210144418e-10,within_reporting_tolerance,1e-08
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0010167027524053097,0.001016702683735992,6.866931762800066e-11,within_reporting_tolerance,1e-08
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,power_penalty,cost_only,peak_kw,kW,0.9472321069530154,0.9472320989761588,7.976856619684725e-09,within_reporting_tolerance,1e-05
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,27.063931235293136,27.063931221640225,1.3652911690087421e-08,within_reporting_tolerance,1e-06
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.009856000018771738,0.017989250016398728,-0.00813324999762699,timing_observation_only,
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,combined,cost_only,cost_dollars,dollars,1.1865000000003636,1.1865000099819347,-9.981571125194932e-09,within_reporting_tolerance,1e-07
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,combined,cost_only,power_proxy,dimensionless,0.013876668882909107,0.013685424776128559,0.00019124410678054808,higher,1e-08
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,combined,cost_only,high_soc_proxy,dimensionless,0.000968464629461489,0.001016702683735992,-4.8238054274503004e-05,lower,1e-08
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,combined,cost_only,peak_kw,kW,1.5043457003781138,0.9472320989761588,0.557113601401955,higher,1e-05
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,combined,cost_only,calendar_increment_ppm,ppm of original capacity,27.030063161114974,27.063931221640225,-0.0338680605252506,lower,1e-06
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,combined,cost_only,total_wall_seconds,"seconds, single execution",0.010289707977790385,0.017989250016398728,-0.007699542038608342,timing_observation_only,
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,combined,power_penalty,cost_dollars,dollars,1.1865000000003636,1.1865000000000472,3.164135620181696e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,combined,power_penalty,power_proxy,dimensionless,0.013876668882909107,0.013685425006392301,0.00019124387651680598,higher,1e-08
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,combined,power_penalty,high_soc_proxy,dimensionless,0.000968464629461489,0.0010167027524053097,-4.823812294382063e-05,lower,1e-08
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,combined,power_penalty,peak_kw,kW,1.5043457003781138,0.9472321069530154,0.5571135934250984,higher,1e-05
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,27.030063161114974,27.063931235293136,-0.03386807417816229,lower,1e-06
+clean,60.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc60,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.010289707977790385,0.009856000018771738,0.00043370795901864767,timing_observation_only,
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,immediate,cost_only,cost_dollars,dollars,1.1865000000000006,1.1865000099643568,-9.9643562290197e-09,within_reporting_tolerance,1e-07
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,immediate,cost_only,power_proxy,dimensionless,0.0982271469620504,0.013685424776535088,0.08454172218551531,higher,1e-08
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,immediate,cost_only,high_soc_proxy,dimensionless,0.30152554339694776,0.18482673689853726,0.1166988064984105,higher,1e-08
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,immediate,cost_only,peak_kw,kW,7.2,0.9472320989890457,6.252767901010954,higher,1e-05
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,38.65522678785341,34.84321327183467,3.8120135160187374,higher,1e-06
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.0001909160055220127,0.018183917040005326,-0.017993001034483314,timing_observation_only,
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,power_penalty,cost_only,cost_dollars,dollars,1.1865000000001116,1.1865000099643568,-9.964245206717237e-09,within_reporting_tolerance,1e-07
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,power_penalty,cost_only,power_proxy,dimensionless,0.013685425006390804,0.013685424776535088,2.298557160579362e-10,within_reporting_tolerance,1e-08
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,power_penalty,cost_only,high_soc_proxy,dimensionless,0.1848267384167825,0.18482673689853726,1.5182452239859145e-09,within_reporting_tolerance,1e-08
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,power_penalty,cost_only,peak_kw,kW,0.9472321071777151,0.9472320989890457,8.18866940921481e-09,within_reporting_tolerance,1e-05
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,34.843213321475865,34.84321327183467,4.9641194266314415e-08,within_reporting_tolerance,1e-06
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.009898208023514599,0.018183917040005326,-0.008285709016490728,timing_observation_only,
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,combined,cost_only,cost_dollars,dollars,1.3725295555945498,1.1865000099643568,0.18602954563019303,higher,1e-07
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,combined,cost_only,power_proxy,dimensionless,0.07680402785648065,0.013685424776535088,0.06311860307994556,higher,1e-08
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,combined,cost_only,high_soc_proxy,dimensionless,0.08780743194978201,0.18482673689853726,-0.09701930494875526,lower,1e-08
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,combined,cost_only,peak_kw,kW,7.199999999972319,0.9472320989890457,6.252767900983273,higher,1e-05
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,combined,cost_only,calendar_increment_ppm,ppm of original capacity,31.49536110100035,34.84321327183467,-3.3478521708343223,lower,1e-06
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,combined,cost_only,total_wall_seconds,"seconds, single execution",0.009760708024259657,0.018183917040005326,-0.00842320901574567,timing_observation_only,
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,combined,power_penalty,cost_dollars,dollars,1.3725295555945498,1.1865000000001116,0.18602955559443823,higher,1e-07
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,combined,power_penalty,power_proxy,dimensionless,0.07680402785648065,0.013685425006390804,0.06311860285008984,higher,1e-08
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,combined,power_penalty,high_soc_proxy,dimensionless,0.08780743194978201,0.1848267384167825,-0.09701930646700048,lower,1e-08
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,combined,power_penalty,peak_kw,kW,7.199999999972319,0.9472321071777151,6.252767892794604,higher,1e-05
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,31.49536110100035,34.843213321475865,-3.3478522204755166,lower,1e-06
+clean,75.0,2_39_139_28_2018-04-25 14:43:49.647430,real_12_soc75,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.009760708024259657,0.009898208023514599,-0.00013749999925494194,timing_observation_only,
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,immediate,cost_only,cost_dollars,dollars,2.2039499999999994,2.2039500099903457,-9.99034632798157e-09,within_reporting_tolerance,1e-07
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,immediate,cost_only,power_proxy,dimensionless,0.23259976252116346,0.06911212674075809,0.16348763578040537,higher,1e-08
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,immediate,cost_only,peak_kw,kW,7.2,2.0794316428282587,5.1205683571717415,higher,1e-05
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,20.606249934833393,20.397662572731434,0.20858736210195872,higher,1e-06
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00020587496692314744,0.01595841598464176,-0.015752541017718613,timing_observation_only,
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,power_penalty,cost_only,cost_dollars,dollars,2.203950000000354,2.2039500099903457,-9.98999194479211e-09,within_reporting_tolerance,1e-07
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,power_penalty,cost_only,power_proxy,dimensionless,0.06911212736728545,0.06911212674075809,6.265273577721331e-10,within_reporting_tolerance,1e-08
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,power_penalty,cost_only,peak_kw,kW,2.0794316526661594,2.0794316428282587,9.83790071629187e-09,within_reporting_tolerance,1e-05
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,20.397662574087548,20.397662572731434,1.3561134437622968e-09,within_reporting_tolerance,1e-06
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.009453540958929807,0.01595841598464176,-0.006504875025711954,timing_observation_only,
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,combined,cost_only,cost_dollars,dollars,2.2039500000001717,2.2039500099903457,-9.990174021368148e-09,within_reporting_tolerance,1e-07
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,combined,cost_only,power_proxy,dimensionless,0.0691121273672967,0.06911212674075809,6.265386126580452e-10,within_reporting_tolerance,1e-08
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,combined,cost_only,peak_kw,kW,2.079431652510873,2.0794316428282587,9.682614265926759e-09,within_reporting_tolerance,1e-05
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,combined,cost_only,calendar_increment_ppm,ppm of original capacity,20.39766257410861,20.397662572731434,1.377177483163905e-09,within_reporting_tolerance,1e-06
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,combined,cost_only,total_wall_seconds,"seconds, single execution",0.00951591698685661,0.01595841598464176,-0.006442498997785151,timing_observation_only,
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,combined,power_penalty,cost_dollars,dollars,2.2039500000001717,2.203950000000354,-1.8207657603852567e-13,within_reporting_tolerance,1e-07
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,combined,power_penalty,power_proxy,dimensionless,0.0691121273672967,0.06911212736728545,1.1254885912137524e-14,within_reporting_tolerance,1e-08
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,combined,power_penalty,peak_kw,kW,2.079431652510873,2.0794316526661594,-1.552864503651108e-10,within_reporting_tolerance,1e-05
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,20.39766257410861,20.397662574087548,2.106403940160817e-11,within_reporting_tolerance,1e-06
+clean,30.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc30,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.00951591698685661,0.009453540958929807,6.237602792680264e-05,timing_observation_only,
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,immediate,cost_only,cost_dollars,dollars,2.2039500000000003,2.2039500099880476,-9.988047278142176e-09,within_reporting_tolerance,1e-07
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,immediate,cost_only,power_proxy,dimensionless,0.23259976252116354,0.06911212674091363,0.1634876357802499,higher,1e-08
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,immediate,cost_only,high_soc_proxy,dimensionless,0.1317593678074183,0.0542579944487858,0.0775013733586325,higher,1e-08
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,immediate,cost_only,peak_kw,kW,7.2,2.0794316428321507,5.1205683571678495,higher,1e-05
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,26.557982612619494,23.89439339491685,2.6635892177026435,higher,1e-06
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00019454100402072072,0.01590875000692904,-0.01571420900290832,timing_observation_only,
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,power_penalty,cost_only,cost_dollars,dollars,2.2039500000023566,2.2039500099880476,-9.985690940794711e-09,within_reporting_tolerance,1e-07
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,power_penalty,cost_only,power_proxy,dimensionless,0.06911212736715992,0.06911212674091363,6.262462909356614e-10,within_reporting_tolerance,1e-08
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0542579951696913,0.0542579944487858,7.209055019608002e-10,within_reporting_tolerance,1e-08
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,power_penalty,cost_only,peak_kw,kW,2.0794316526412127,2.0794316428321507,9.809062007093416e-09,within_reporting_tolerance,1e-05
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,23.89439341777053,23.89439339491685,2.2853679837453456e-08,within_reporting_tolerance,1e-06
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.008855583029799163,0.01590875000692904,-0.007053166977129877,timing_observation_only,
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,combined,cost_only,cost_dollars,dollars,2.42513704721885,2.2039500099880476,0.22118703723080246,higher,1e-07
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,combined,cost_only,power_proxy,dimensionless,0.09179365342181114,0.06911212674091363,0.022681526680897512,higher,1e-08
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,combined,cost_only,high_soc_proxy,dimensionless,0.027259031841593197,0.0542579944487858,-0.0269989626071926,lower,1e-08
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,combined,cost_only,peak_kw,kW,6.617423822896837,2.0794316428321507,4.537992180064687,higher,1e-05
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,combined,cost_only,calendar_increment_ppm,ppm of original capacity,22.78006555540671,23.89439339491685,-1.114327839510139,lower,1e-06
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,combined,cost_only,total_wall_seconds,"seconds, single execution",0.009741124988067895,0.01590875000692904,-0.006167625018861145,timing_observation_only,
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,combined,power_penalty,cost_dollars,dollars,2.42513704721885,2.2039500000023566,0.2211870472164934,higher,1e-07
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,combined,power_penalty,power_proxy,dimensionless,0.09179365342181114,0.06911212736715992,0.02268152605465122,higher,1e-08
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,combined,power_penalty,high_soc_proxy,dimensionless,0.027259031841593197,0.0542579951696913,-0.0269989633280981,lower,1e-08
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,combined,power_penalty,peak_kw,kW,6.617423822896837,2.0794316526412127,4.537992170255625,higher,1e-05
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,22.78006555540671,23.89439341777053,-1.1143278623638189,lower,1e-06
+clean,60.0,2_39_123_23_2018-04-25 16:01:25.950919,real_13_soc60,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.009741124988067895,0.008855583029799163,0.0008855419582687318,timing_observation_only,
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,immediate,cost_only,cost_dollars,dollars,0.35625000000000023,0.35625000000090534,-9.051093208256589e-13,within_reporting_tolerance,1e-07
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,immediate,cost_only,power_proxy,dimensionless,0.3404455940078819,0.16029683343198267,0.1801487605758992,higher,1e-08
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,immediate,cost_only,peak_kw,kW,7.2,2.882670263011327,4.317329736988674,higher,1e-05
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,1.902553656533229,1.885185857147202,0.01736779938602706,higher,1e-06
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00018283299868926406,0.013798207975924015,-0.013615374977234751,timing_observation_only,
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,power_penalty,cost_only,cost_dollars,dollars,0.35625,0.35625000000090534,-9.053313654305839e-13,within_reporting_tolerance,1e-07
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,power_penalty,cost_only,power_proxy,dimensionless,0.160296833431168,0.16029683343198267,-8.146816554699399e-13,within_reporting_tolerance,1e-08
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,power_penalty,cost_only,peak_kw,kW,2.882670263048478,2.882670263011327,3.715117102842669e-11,within_reporting_tolerance,1e-05
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,1.8851858571472508,1.885185857147202,4.884981308350689e-14,within_reporting_tolerance,1e-06
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.0077314579975791276,0.013798207975924015,-0.0060667499783448875,timing_observation_only,
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,combined,cost_only,cost_dollars,dollars,0.35625,0.35625000000090534,-9.053313654305839e-13,within_reporting_tolerance,1e-07
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,combined,cost_only,power_proxy,dimensionless,0.16029683343116802,0.16029683343198267,-8.146538998943242e-13,within_reporting_tolerance,1e-08
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,combined,cost_only,peak_kw,kW,2.882670263002849,2.882670263011327,-8.478107105247545e-12,within_reporting_tolerance,1e-05
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,combined,cost_only,calendar_increment_ppm,ppm of original capacity,1.8851858571471005,1.885185857147202,-1.0147438445073931e-13,within_reporting_tolerance,1e-06
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,combined,cost_only,total_wall_seconds,"seconds, single execution",0.007688333047553897,0.013798207975924015,-0.006109874928370118,timing_observation_only,
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,combined,power_penalty,cost_dollars,dollars,0.35625,0.35625,0.0,within_reporting_tolerance,1e-07
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,combined,power_penalty,power_proxy,dimensionless,0.16029683343116802,0.160296833431168,2.7755575615628914e-17,within_reporting_tolerance,1e-08
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,combined,power_penalty,peak_kw,kW,2.882670263002849,2.882670263048478,-4.5629278133674234e-11,within_reporting_tolerance,1e-05
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,1.8851858571471005,1.8851858571472508,-1.503241975342462e-13,within_reporting_tolerance,1e-06
+clean,30.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc30,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.007688333047553897,0.0077314579975791276,-4.3124950025230646e-05,timing_observation_only,
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,immediate,cost_only,cost_dollars,dollars,0.35625000000000023,0.35625000000027884,-2.7861046802968303e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,immediate,cost_only,power_proxy,dimensionless,0.3404455940078819,0.16029683343141893,0.18014876057646295,higher,1e-08
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,immediate,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,immediate,cost_only,peak_kw,kW,7.2,2.882670262982935,4.317329737017065,higher,1e-05
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,2.039928656890069,2.0311489887103837,0.008779668179685451,higher,1e-06
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00017770897829905152,0.012934207974467427,-0.012756498996168375,timing_observation_only,
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,power_penalty,cost_only,cost_dollars,dollars,0.3562500000000001,0.35625000000027884,-2.7872149033214555e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,power_penalty,cost_only,power_proxy,dimensionless,0.16029683343116807,0.16029683343141893,-2.508548924140541e-13,within_reporting_tolerance,1e-08
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,power_penalty,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,power_penalty,cost_only,peak_kw,kW,2.882670263000347,2.882670262982935,1.7411849739801255e-11,within_reporting_tolerance,1e-05
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,2.031148988710391,2.0311489887103837,7.105427357601002e-15,within_reporting_tolerance,1e-06
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.007335916976444423,0.012934207974467427,-0.005598290998023003,timing_observation_only,
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,combined,cost_only,cost_dollars,dollars,0.35624999999999996,0.35625000000027884,-2.788880237858393e-13,within_reporting_tolerance,1e-07
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,combined,cost_only,power_proxy,dimensionless,0.160296833431168,0.16029683343141893,-2.50938159140901e-13,within_reporting_tolerance,1e-08
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,combined,cost_only,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,combined,cost_only,peak_kw,kW,2.8826702630808656,2.882670262982935,9.793055255613581e-11,within_reporting_tolerance,1e-05
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,combined,cost_only,calendar_increment_ppm,ppm of original capacity,2.0311489887104672,2.0311489887103837,8.348877145181177e-14,within_reporting_tolerance,1e-06
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,combined,cost_only,total_wall_seconds,"seconds, single execution",0.007795749988872558,0.012934207974467427,-0.005138457985594869,timing_observation_only,
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,combined,power_penalty,cost_dollars,dollars,0.35624999999999996,0.3562500000000001,-1.6653345369377348e-16,within_reporting_tolerance,1e-07
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,combined,power_penalty,power_proxy,dimensionless,0.160296833431168,0.16029683343116807,-8.326672684688674e-17,within_reporting_tolerance,1e-08
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,combined,power_penalty,high_soc_proxy,dimensionless,0.0,0.0,0.0,within_reporting_tolerance,1e-08
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,combined,power_penalty,peak_kw,kW,2.8826702630808656,2.882670263000347,8.051870281633455e-11,within_reporting_tolerance,1e-05
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,2.0311489887104672,2.031148988710391,7.638334409421077e-14,within_reporting_tolerance,1e-06
+clean,60.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc60,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.007795749988872558,0.007335916976444423,0.0004598330124281347,timing_observation_only,
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,immediate,cost_only,cost_dollars,dollars,0.35625000000000023,0.35625000000005924,-5.900835375882707e-14,within_reporting_tolerance,1e-07
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,immediate,cost_only,power_proxy,dimensionless,0.3404455940078819,0.1602968334312213,0.18014876057666057,higher,1e-08
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,immediate,cost_only,high_soc_proxy,dimensionless,0.07559517194444451,0.05912746853297485,0.016467703411469664,higher,1e-08
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,immediate,cost_only,peak_kw,kW,7.2,2.8826702629870344,4.317329737012965,higher,1e-05
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,immediate,cost_only,calendar_increment_ppm,ppm of original capacity,2.429039720855812,2.3822825392287794,0.04675718162703246,higher,1e-06
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,immediate,cost_only,total_wall_seconds,"seconds, single execution",0.00017704104539006948,0.01310529198963195,-0.012928250944241881,timing_observation_only,
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,power_penalty,cost_only,cost_dollars,dollars,0.35624999999999996,0.35625000000005924,-5.928590951498336e-14,within_reporting_tolerance,1e-07
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,power_penalty,cost_only,power_proxy,dimensionless,0.16029683343116796,0.1602968334312213,-5.334621633323877e-14,within_reporting_tolerance,1e-08
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,power_penalty,cost_only,high_soc_proxy,dimensionless,0.059127468533570024,0.05912746853297485,5.951766857137386e-13,within_reporting_tolerance,1e-08
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,power_penalty,cost_only,peak_kw,kW,2.8826702632545076,2.8826702629870344,2.674731547358533e-10,within_reporting_tolerance,1e-05
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,power_penalty,cost_only,calendar_increment_ppm,ppm of original capacity,2.3822825392305833,2.3822825392287794,1.8038903704109543e-12,within_reporting_tolerance,1e-06
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,power_penalty,cost_only,total_wall_seconds,"seconds, single execution",0.007598583004437387,0.01310529198963195,-0.005506708985194564,timing_observation_only,
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,combined,cost_only,cost_dollars,dollars,0.35625,0.35625000000005924,-5.92303983637521e-14,within_reporting_tolerance,1e-07
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,combined,cost_only,power_proxy,dimensionless,0.1897834864948515,0.1602968334312213,0.029486653063630186,higher,1e-08
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,combined,cost_only,high_soc_proxy,dimensionless,0.05295546523487039,0.05912746853297485,-0.00617200329810446,lower,1e-08
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,combined,cost_only,peak_kw,kW,4.61827976853797,2.8826702629870344,1.735609505550936,higher,1e-05
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,combined,cost_only,calendar_increment_ppm,ppm of original capacity,2.363643410025019,2.3822825392287794,-0.01863912920376043,lower,1e-06
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,combined,cost_only,total_wall_seconds,"seconds, single execution",0.008292624959722161,0.01310529198963195,-0.0048126670299097896,timing_observation_only,
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,combined,power_penalty,cost_dollars,dollars,0.35625,0.35624999999999996,5.551115123125783e-17,within_reporting_tolerance,1e-07
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,combined,power_penalty,power_proxy,dimensionless,0.1897834864948515,0.16029683343116796,0.029486653063683532,higher,1e-08
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,combined,power_penalty,high_soc_proxy,dimensionless,0.05295546523487039,0.059127468533570024,-0.006172003298699637,lower,1e-08
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,combined,power_penalty,peak_kw,kW,4.61827976853797,2.8826702632545076,1.7356095052834628,higher,1e-05
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,combined,power_penalty,calendar_increment_ppm,ppm of original capacity,2.363643410025019,2.3822825392305833,-0.01863912920556432,lower,1e-06
+clean,75.0,2_39_78_366_2018-04-25 18:47:11.743708,real_14_soc75,combined,power_penalty,total_wall_seconds,"seconds, single execution",0.008292624959722161,0.007598583004437387,0.0006940419552847743,timing_observation_only,

@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "candidate_totals_reconcile": true,
+  "cohort_totals_reconcile": true,
+  "all_45_session_SOC_scenarios_accounted_for": true,
+  "real_schedule_count": 160,
+  "five_exclusions_explained_by_SOC_cap": true,
+  "reason_overlap_records": 1,
+  "matches_task1_timing_flag_count": true,
+  "scope": "Export and aggregate consistency; no new simulation or human review"
+}

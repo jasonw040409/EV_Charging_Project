@@ -1,0 +1,16 @@
+stage,measure,count,unit,denominator,explanation
+candidate_screening,candidate_ledger_rows,100,candidate records,100,Frozen screening ledger; not selected evaluation cohort
+candidate_screening,eligible_additions,91,candidate records,100,No logged screening reasons
+candidate_screening,selected_additions,10,unique sessions,91,Selected by duration/energy-bin rule before optimization
+candidate_screening,eligible_not_selected,81,candidate records,91,Valid candidates left unused by sampling; not failures
+candidate_screening,not_eligible_as_additions,9,candidate records,100,"Includes already-retained controls/duplicates, not just bad data"
+selected_cohort,sessions,15,unique sessions,15,Original controls plus selected additions
+selected_cohort,retained_original_controls,5,unique sessions,15,"Kept as reference cases, including flagged diagnostic control"
+selected_cohort,timing_flagged,1,unique sessions,15,Charging-stop timestamp outside connection window
+selected_cohort,without_this_timing_flag,14,unique sessions,15,No detected stop-order flag; not a guarantee of overall data quality
+selected_cohort,missing_user_inputs,15,unique sessions,15,No user-requested energy/departure inferred
+selected_cohort,missing_user_id,15,unique sessions,15,Cannot establish unique driver/vehicle identity
+scenario_evaluation,completed_four_method_cases,40,session/SOC scenarios,,Same recorded session can have several assumed arrival SOCs
+scenario_evaluation,analytically_infeasible_cases,5,session/SOC scenarios,,Impossible under the assumptions; recorded energy not reduced
+scenario_evaluation,numerical_or_evaluation_failures,0,logged failure entries,,Distinct from analytical infeasibility; a case may have method-level entries
+scenario_evaluation,successful_real_schedules,160,simulated schedules,,"Four methods per completed scenario, not independent real observations"

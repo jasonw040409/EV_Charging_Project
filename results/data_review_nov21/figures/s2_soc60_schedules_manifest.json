@@ -1,0 +1,19 @@
+{
+  "case": "real_1_soc60",
+  "session_id": "2_39_95_27_2018-04-25 13:45:09.617470",
+  "study_directory": "/Users/tongyangwang/Desktop/FL2026/CSE 543/EV_Charging_Project/results/nov18",
+  "input_sha256": {
+    "trajectories.json": "f49af29e236024cada4d27d8258e69f2c4538778591486a5b3498f8845568f9f",
+    "metrics.json": "f601e006d6feef4b6885f107e6f81f6acf983fbe9e15c09e78d905ca033bb011",
+    "cohort.json": "c268318dc654bbf964fee069228ef14db29701a84d34bfb40ceb61b88bdf860e"
+  },
+  "outputs": {
+    "png": "/Users/tongyangwang/Desktop/FL2026/CSE 543/EV_Charging_Project/results/data_review_nov21/figures/s2_soc60_schedules.png",
+    "pdf": "/Users/tongyangwang/Desktop/FL2026/CSE 543/EV_Charging_Project/output/pdf/data_review_nov21/s2_soc60_schedules.pdf"
+  },
+  "checks": "PASS: common settings/prices, saved dynamics, energy, target and exact window",
+  "optimizer_executed": false,
+  "original_inputs_unchanged": true,
+  "visual_review": "Must inspect exported PNG and rendered PDF after generation",
+  "caption": "For session 2_39_95_27_2018-04-25 13:45:09.617470, all four simulated methods deliver the recorded 10.013 grid kWh within its original connection window. Starting SOC is assumed to be 60%, with a derived target of 75.0195%. Combined optimization reduces the high-SOC score from 0.007308 to 0.005699 relative to power-only, while increasing peak grid power from 1.060 to 3.411 kW. Both cost approximately $1.50195 under synthetic prices. The 70% threshold is illustrative; these results do not establish measured battery-health improvement. Scientific interpretation remains pending independent review."
+}

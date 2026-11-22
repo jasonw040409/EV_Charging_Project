@@ -1,0 +1,4 @@
+assumed_initial_soc_pct,cohort_sessions,completed_cases,clean_paired_cases,flagged_diagnostic_cases,analytically_infeasible_cases,unaccounted_or_failed_cases
+30.0,15,15,14,1,0,0
+60.0,15,15,14,1,0,0
+75.0,15,10,9,1,5,0
