@@ -1,0 +1,13 @@
+{
+  "scipy": "1.18.1",
+  "paths": 532,
+  "exclusions": 17,
+  "lp_certificates": 399,
+  "maximum_errors": {
+    "energy_kwh": 4.707345624410664e-14,
+    "calendar_ppm": 4.973799150320701e-14,
+    "cost_only_gap_dollars": 2.220446049250313e-15,
+    "weighted_gap_dimensionless": 4.6794101926650455e-09
+  },
+  "calendar_evaluator": "original src/aging.py evaluated on reconstructed SOC"
+}
