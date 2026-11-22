@@ -1,0 +1,158 @@
+{
+  "status": "PASS",
+  "baseline_metric_rows_compared": 236,
+  "max_absolute_metric_differences": {
+    "cost_dollars": 0.0,
+    "power_proxy": 0.0,
+    "high_soc_proxy": 0.0,
+    "grid_kwh": 0.0,
+    "battery_kwh": 0.0,
+    "peak_kw": 0.0,
+    "departure_soc": 0.0,
+    "calendar_increment_ppm": 0.0
+  },
+  "trajectories_checked": 236,
+  "max_soc_dynamics_error": 8.881784197001252e-16,
+  "aging_sensitivity_compared": 36,
+  "smoke_cases": {
+    "real_1_soc60": [
+      {
+        "method": "immediate",
+        "intervals": 45,
+        "soc_boundaries": 46,
+        "initial": 0.6,
+        "target": 0.750195,
+        "grid_kwh": 10.012999999999996,
+        "max_residual": 0.0
+      },
+      {
+        "method": "cost_only",
+        "intervals": 45,
+        "soc_boundaries": 46,
+        "initial": 0.6,
+        "target": 0.750195,
+        "grid_kwh": 10.013000000001131,
+        "max_residual": 1.13509202037676e-12
+      },
+      {
+        "method": "power_penalty",
+        "intervals": 45,
+        "soc_boundaries": 46,
+        "initial": 0.6,
+        "target": 0.750195,
+        "grid_kwh": 10.012999999999995,
+        "max_residual": 1.7763568394002505e-15
+      },
+      {
+        "method": "combined",
+        "intervals": 45,
+        "soc_boundaries": 46,
+        "initial": 0.6,
+        "target": 0.750195,
+        "grid_kwh": 10.012999999999993,
+        "max_residual": 3.552713678800501e-15
+      }
+    ],
+    "real_2_soc60": [
+      {
+        "method": "immediate",
+        "intervals": 38,
+        "soc_boundaries": 39,
+        "initial": 0.6,
+        "target": 0.678855,
+        "grid_kwh": 5.257000000000001,
+        "max_residual": 0.0
+      },
+      {
+        "method": "cost_only",
+        "intervals": 38,
+        "soc_boundaries": 39,
+        "initial": 0.6,
+        "target": 0.678855,
+        "grid_kwh": 5.25700000000113,
+        "max_residual": 1.1297629498585593e-12
+      },
+      {
+        "method": "power_penalty",
+        "intervals": 38,
+        "soc_boundaries": 39,
+        "initial": 0.6,
+        "target": 0.678855,
+        "grid_kwh": 5.257000000000001,
+        "max_residual": 0.0
+      },
+      {
+        "method": "combined",
+        "intervals": 38,
+        "soc_boundaries": 39,
+        "initial": 0.6,
+        "target": 0.678855,
+        "grid_kwh": 5.257000000000002,
+        "max_residual": 1.7763568394002505e-15
+      }
+    ],
+    "flat": [
+      {
+        "method": "immediate",
+        "intervals": 48,
+        "soc_boundaries": 49,
+        "initial": 0.3,
+        "target": 0.8,
+        "grid_kwh": 33.33333333333334,
+        "max_residual": 7.105427357601002e-15
+      },
+      {
+        "method": "cost_only",
+        "intervals": 48,
+        "soc_boundaries": 49,
+        "initial": 0.3,
+        "target": 0.8,
+        "grid_kwh": 33.33333333333773,
+        "max_residual": 4.391154106997419e-12
+      },
+      {
+        "method": "power_penalty",
+        "intervals": 48,
+        "soc_boundaries": 49,
+        "initial": 0.3,
+        "target": 0.8,
+        "grid_kwh": 33.33333333333334,
+        "max_residual": 7.105427357601002e-15
+      },
+      {
+        "method": "combined",
+        "intervals": 48,
+        "soc_boundaries": 49,
+        "initial": 0.3,
+        "target": 0.8,
+        "grid_kwh": 33.333333333333336,
+        "max_residual": 0.0
+      }
+    ]
+  },
+  "active_power_difference_kw": 2.3505108765833276,
+  "inactive_power_difference_kw": 1.3981415358799154e-08,
+  "smoke_infeasible": [
+    {
+      "case": "real_1_soc75",
+      "category": "infeasible_assumed_scenario",
+      "reason": "Invalid physical parameters",
+      "scenario": {
+        "n": 45,
+        "dt": 0.24855555555555556,
+        "capacity": 60.0,
+        "initial": 0.75,
+        "target": 0.900195,
+        "maximum_soc": 0.9,
+        "maximum_power": 7.2,
+        "efficiency": 0.9,
+        "reference_soc": 0.7
+      },
+      "session_id": "2_39_95_27_2018-04-25 13:45:09.617470",
+      "timing_flag": false
+    }
+  ],
+  "preserved_file_count": 109,
+  "changed_preserved_files": [],
+  "independent_human_review": false
+}

@@ -1,0 +1,29 @@
+{
+  "input_sha256": {
+    "experiments/part2/config.json": "bd8db20eb787f513f74adcf69f4a940b4adbff31e7bed4238b3e7d37ccbf00f8",
+    "results/nov18/cohort.json": "c268318dc654bbf964fee069228ef14db29701a84d34bfb40ceb61b88bdf860e",
+    "src/charging.py": "c7efd68863fe7499bfcde903b645283cce665f5dc823a4645b9815b14186e6b1",
+    "src/aging.py": "6a32d1314a2df4d3c121be8bb0e50dbfc8294dabf5fdfa171d43afe23c15a6e4",
+    "experiments/part2/run.py": "f407255ff766440b8baee3d80b60c00cd70e2eaf26f9e7c513130b6304a52a41",
+    "requirements.txt": "b06ddb79e471db98aeae0d7838f0180bcfb451068d80f3e537403fc0f99e7290"
+  },
+  "cohort_count": 15,
+  "attempted_case_count": 73,
+  "successful_schedules": 236,
+  "trajectory_count": 236,
+  "failure_counts": {
+    "infeasible_assumed_scenario": 5
+  },
+  "paired_case_count": 37,
+  "aging_evaluations": 36,
+  "timing_runs": 60,
+  "python": "3.12.8",
+  "platform": "macOS-26.2-arm64-arm-64bit",
+  "processor": "arm",
+  "machine": "arm64",
+  "cpu_count": 8,
+  "numpy": "2.3.5",
+  "cvxpy": "1.9.3",
+  "clarabel": "0.11.1",
+  "independent_human_review": false
+}

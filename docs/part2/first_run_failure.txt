@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/zhy/git/EV_Charging_Project-main/experiments/part2/run.py", line 101, in <module>
+    if __name__=='__main__': main()
+                             ^^^^^^
+  File "/Users/zhy/git/EV_Charging_Project-main/experiments/part2/run.py", line 75, in main
+    for days in [0,365,1095]: aging.append(dict(method=p['method'],temperature_c=temp,prior_days=days,**evaluate(p['soc'],p['dt'],prior_loss(days),temp)))
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: dict() got multiple values for keyword argument 'temperature_c'
