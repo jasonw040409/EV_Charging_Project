@@ -1,0 +1,104 @@
+[
+  {
+    "session_id": "2_39_95_27_2018-04-25 13:45:09.617470",
+    "initial": 0.75,
+    "target": 0.900195,
+    "reason": "target exceeds 0.90"
+  },
+  {
+    "session_id": "2_39_79_381_2018-04-25 14:40:33.638896",
+    "initial": 0.75,
+    "target": 0.9017850000000001,
+    "reason": "target exceeds 0.90"
+  },
+  {
+    "session_id": "2_39_91_441_2018-04-25 14:47:41.776352",
+    "initial": 0.75,
+    "target": 0.97941,
+    "reason": "target exceeds 0.90"
+  },
+  {
+    "session_id": "2_39_88_24_2018-04-25 16:03:58.630483",
+    "initial": 0.75,
+    "target": 1.01169,
+    "reason": "target exceeds 0.90"
+  },
+  {
+    "session_id": "2_39_123_23_2018-04-25 16:01:25.950919",
+    "initial": 0.75,
+    "target": 0.970395,
+    "reason": "target exceeds 0.90"
+  },
+  {
+    "session_id": "2_39_90_440_2018-04-25 22:17:32.279706",
+    "initial": 0.75,
+    "target": 0.94038,
+    "reason": "target exceeds 0.90"
+  },
+  {
+    "session_id": "2_39_88_438_2018-04-25 16:25:51.104829",
+    "initial": 0.6,
+    "target": 1.09062,
+    "reason": "target exceeds 0.90"
+  },
+  {
+    "session_id": "2_39_88_438_2018-04-25 16:25:51.104829",
+    "initial": 0.75,
+    "target": 1.24062,
+    "reason": "target exceeds 0.90"
+  },
+  {
+    "session_id": "2_39_79_378_2018-04-25 16:52:05.160592",
+    "initial": 0.75,
+    "target": 0.913185,
+    "reason": "target exceeds 0.90"
+  },
+  {
+    "session_id": "2_39_79_380_2018-04-26 00:02:15.719927",
+    "initial": 0.75,
+    "target": 0.92199,
+    "reason": "target exceeds 0.90"
+  },
+  {
+    "session_id": "2_39_79_377_2018-04-25 19:41:42.209444",
+    "initial": 0.75,
+    "target": 0.9440999999999999,
+    "reason": "target exceeds 0.90"
+  },
+  {
+    "session_id": "2_39_95_27_2018-04-26 13:25:08.191051",
+    "initial": 0.75,
+    "target": 0.93207,
+    "reason": "target exceeds 0.90"
+  },
+  {
+    "session_id": "2_39_123_23_2018-04-26 02:17:10.267290",
+    "initial": 0.75,
+    "target": 0.95838,
+    "reason": "target exceeds 0.90"
+  },
+  {
+    "session_id": "2_39_78_366_2018-04-25 19:43:13.444818",
+    "initial": 0.75,
+    "target": 0.96492,
+    "reason": "target exceeds 0.90"
+  },
+  {
+    "session_id": "2_39_139_28_2018-04-26 14:47:07.799179",
+    "initial": 0.75,
+    "target": 0.947325,
+    "reason": "target exceeds 0.90"
+  },
+  {
+    "session_id": "2_39_95_27_2018-04-26 02:36:01.816238",
+    "initial": 0.75,
+    "target": 0.928365,
+    "reason": "target exceeds 0.90"
+  },
+  {
+    "session_id": "2_39_79_379_2018-04-26 00:03:03.183150",
+    "initial": 0.75,
+    "target": 0.925425,
+    "reason": "target exceeds 0.90"
+  }
+]

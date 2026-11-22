@@ -1,0 +1,144 @@
+{
+  "trajectories": 224,
+  "max_normalized_gap": 9.007135799838808e-10,
+  "weight_objectives": 12,
+  "temperature_history_checks": 36,
+  "max_absolute_independent_differences": {
+    "grid_kwh": 2.2211565919860732e-11,
+    "cost_dollars": 3.846634433202212e-08,
+    "power_proxy": 3.847999308081995e-09,
+    "high_soc_proxy": 1.5210556425504507e-09,
+    "calendar_increment_ppm": 4.973335876456986e-08,
+    "peak_kw": 2.0186063576232982e-07
+  },
+  "examples": {
+    "real_1_soc60/immediate": {
+      "grid_kwh": 10.012999999999998,
+      "cost_dollars": 1.50195,
+      "power_proxy": 0.11898111160469953,
+      "high_soc_proxy": 0.025186897475555546,
+      "calendar_increment_ppm": 30.999333838949134,
+      "peak_kw": 7.2
+    },
+    "real_1_soc60/cost_only": {
+      "grid_kwh": 10.012999999999996,
+      "cost_dollars": 1.5019499999999995,
+      "power_proxy": 0.01830713481654552,
+      "high_soc_proxy": 0.007307528891975297,
+      "calendar_increment_ppm": 29.19588342196125,
+      "peak_kw": 1.0601251676352257
+    },
+    "real_1_soc60/power_penalty": {
+      "grid_kwh": 10.012999999999996,
+      "cost_dollars": 1.5019499999999995,
+      "power_proxy": 0.01830713481654552,
+      "high_soc_proxy": 0.007307528891975297,
+      "calendar_increment_ppm": 29.19588342196125,
+      "peak_kw": 1.0601251676352257
+    },
+    "real_1_soc60/combined": {
+      "grid_kwh": 10.012999999999975,
+      "cost_dollars": 1.5019499999999961,
+      "power_proxy": 0.022632511913269208,
+      "high_soc_proxy": 0.005699299982355418,
+      "calendar_increment_ppm": 28.918525179261994,
+      "peak_kw": 3.410636017722791
+    },
+    "real_2_soc60/immediate": {
+      "grid_kwh": 5.257,
+      "cost_dollars": 0.78855,
+      "power_proxy": 0.07782642210096337,
+      "high_soc_proxy": 0.0,
+      "calendar_increment_ppm": 23.794670969875327,
+      "peak_kw": 7.2
+    },
+    "real_2_soc60/cost_only": {
+      "grid_kwh": 5.257000000000005,
+      "cost_dollars": 0.7885500000000002,
+      "power_proxy": 0.006143549210295453,
+      "high_soc_proxy": 0.0,
+      "calendar_increment_ppm": 23.23225214374017,
+      "peak_kw": 0.5643417325182645
+    },
+    "real_2_soc60/power_penalty": {
+      "grid_kwh": 5.256999999999978,
+      "cost_dollars": 0.7885499999999973,
+      "power_proxy": 0.006143549210295415,
+      "high_soc_proxy": 0.0,
+      "calendar_increment_ppm": 23.232252143740162,
+      "peak_kw": 0.5643417325182626
+    },
+    "real_2_soc60/combined": {
+      "grid_kwh": 5.256999999999996,
+      "cost_dollars": 0.7885499999999985,
+      "power_proxy": 0.006143549210295438,
+      "high_soc_proxy": 0.0,
+      "calendar_increment_ppm": 23.232252143740162,
+      "peak_kw": 0.5643417325182636
+    },
+    "baseline/immediate": {
+      "grid_kwh": 33.333333333333336,
+      "cost_dollars": 9.093333333333334,
+      "power_proxy": 0.38060128029263823,
+      "high_soc_proxy": 0.07220509259259271,
+      "calendar_increment_ppm": 34.34012097043992,
+      "peak_kw": 7.2
+    },
+    "baseline/cost_only": {
+      "grid_kwh": 33.33333333333334,
+      "cost_dollars": 3.333333333333333,
+      "power_proxy": 0.35722450845907633,
+      "high_soc_proxy": 0.03211805555555575,
+      "calendar_increment_ppm": 30.763356119882026,
+      "peak_kw": 6.666666666666666
+    },
+    "baseline/power_penalty": {
+      "grid_kwh": 33.33333333333336,
+      "cost_dollars": 3.826289345063539,
+      "power_proxy": 0.29238430541172816,
+      "high_soc_proxy": 0.017257535127648604,
+      "calendar_increment_ppm": 30.030118236604125,
+      "peak_kw": 5.962443792766374
+    },
+    "baseline/combined": {
+      "grid_kwh": 33.33333333333332,
+      "cost_dollars": 4.270702379520998,
+      "power_proxy": 0.26919977737701967,
+      "high_soc_proxy": 0.005288806968216694,
+      "calendar_increment_ppm": 29.266043146362016,
+      "peak_kw": 6.605095478367027
+    },
+    "flat/immediate": {
+      "grid_kwh": 33.333333333333336,
+      "cost_dollars": 6.666666666666666,
+      "power_proxy": 0.38060128029263823,
+      "high_soc_proxy": 0.07220509259259271,
+      "calendar_increment_ppm": 34.34012097043992,
+      "peak_kw": 7.2
+    },
+    "flat/cost_only": {
+      "grid_kwh": 33.3333333333333,
+      "cost_dollars": 6.666666666666666,
+      "power_proxy": 0.14884354519128176,
+      "high_soc_proxy": 0.00860520351080236,
+      "calendar_increment_ppm": 30.051213506988688,
+      "peak_kw": 2.7777777777777772
+    },
+    "flat/power_penalty": {
+      "grid_kwh": 33.33333333333327,
+      "cost_dollars": 6.666666666666658,
+      "power_proxy": 0.14884354519128143,
+      "high_soc_proxy": 0.00860520351080226,
+      "calendar_increment_ppm": 30.051213506988677,
+      "peak_kw": 2.777777777777774
+    },
+    "flat/combined": {
+      "grid_kwh": 33.33333333333334,
+      "cost_dollars": 6.666666666666666,
+      "power_proxy": 0.1607209954248077,
+      "high_soc_proxy": 0.004739152048676692,
+      "calendar_increment_ppm": 29.6635642185755,
+      "peak_kw": 7.010449270983018
+    }
+  }
+}
