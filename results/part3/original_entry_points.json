@@ -1,17 +1,17 @@
 {
-  "python": "3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)]",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
   "packages": {
-    "cvxpy": null,
-    "clarabel": null,
-    "numpy": "2.5.4",
+    "cvxpy": "1.9.3",
+    "clarabel": "0.11.1",
+    "numpy": "2.3.5",
     "scipy": "1.18.1",
     "matplotlib": "3.11.2"
   },
   "exit_codes": {
-    "tests": 1,
-    "synthetic": 1,
-    "pilot": 1,
-    "study": 1
+    "tests": 0,
+    "synthetic": 0,
+    "pilot": 0,
+    "study": 0
   },
   "commands": {
     "tests": [
@@ -32,10 +32,5 @@
       "experiments/nov18/run_study.py"
     ]
   },
-  "errors": {
-    "tests": "ModuleNotFoundError: No module named 'cvxpy'",
-    "synthetic": "ModuleNotFoundError: No module named 'cvxpy'",
-    "pilot": "ModuleNotFoundError: No module named 'cvxpy'",
-    "study": "ModuleNotFoundError: No module named 'cvxpy'"
-  }
+  "errors": {}
 }

@@ -1,15 +1,15 @@
 # Member 3 · Implementation and reproduction
 
-**Chengze Wu's project track · November 22, 2026 · baseline commit `469c2b1838fbc5e2f2ebd3b2d12b05cf4f7b6af4`.** Automated execution on Windows with Python 3.14 and NumPy 2.5.4. The scheduled energy, expenses, and SOC paths agree with an independent implementation. Exact-environment replay of the original CVXPY/CLARABEL runner remains open.
+**Chengze Wu's project track · November 22, 2026 · baseline commit `469c2b1838fbc5e2f2ebd3b2d12b05cf4f7b6af4`.** Original runner reproduced on Windows with Python 3.12.14 and all five pinned packages. Independent experiment performed with Python 3.14 and NumPy 2.5.4.
 
 ## Reproducibility checklist
 
 | Check | Local result | Evidence |
 |---|---|---|
-| Install the original pins | Recovered SciPy 1.18.1 and Matplotlib 3.11.2 from local wheels. CVXPY 1.9.3 and CLARABEL 0.11.1 were unavailable in the inspected caches. pip could not resolve PyPI. | `results/part3/original_entry_points.json` records versions, commands, exit codes and import errors from the latest replay. |
-| Run original seven tests | Discovery stopped importing CVXPY. No test body ran. | `replay_original.py` retains the tests log and exit code. |
+| Install the original pins | All five pins loaded, including CVXPY and CLARABEL. | `original_entry_points.json` |
+| Run original seven tests | All seven passed on unmodified source. | `results/part3/original_tests.txt` |
 | Isolate the solver-independent tests | All four original physics/calendar test bodies passed. Only the eager CVXPY import was moved inside `optimize` in a temporary copy. These results are separate from unmodified test discovery. | `experiments/part3/physics_tests.py`, `results/part3/physics_tests.json` |
-| Run original synthetic, five-session and November 18 studies | All three exited during import. No fresh CLARABEL results were generated. | Replay helper runs all four commands independently, each with a separate log. |
+| Run original synthetic, pilot and November 18 studies | Matched 4 synthetic rows, 20 pilot rows, 12 weight objectives and 236 study rows. Five exclusions matched exactly. | `original_entry_points.json`, `replay_original.py` |
 | Run the existing November 18 summarizer on copied artifacts | Passed its trajectory, flat-price and inactive-penalty checks for 224 trajectories. | `experiments/nov18/summarize_study.py` |
 | Rerun the four policies independently | Passed for 160 real-session and 64 synthetic schedules. All 20 original pilot rows also matched on seven physical and economic metrics. | `results/part3/verification.json`, `expansion.json` |
 | Recheck sensitivity | All 12 weight-pair objective values agreed within 1e-6. All 36 temperature/history estimates agreed within 1e-8 ppm using polynomial moments. | `verification.json` |
@@ -35,7 +35,7 @@ To reproduce the original stack, start with Python 3.12 in a clean environment a
 python experiments/part3/replay_original.py ../ev-original-replay
 ```
 
-A successful baseline replay automatically checks the 532 expansion paths against the original solver, then records one warm-up and five fresh original-solver runs at each resolution and policy in the destination's `native_results.json`. Those two native steps remain pending until CVXPY and CLARABEL are installed. The latest local failure log is in `results/part3/original_entry_points.json`.
+The native expansion verified 531 of 532 schedules directly. One flat-price cost-only case at 30% arrival reached its second-stage iteration limit. Grouping equal-price slots preserves the squared-power minimum and the $1e-8 cost allowance. CLARABEL returned optimal, with cost within $8e-14 of the analytic minimum. See `results/part3/native_results.json` for the case ID, original failure and recheck.
 
 ## Code and equation cross-check
 
@@ -67,4 +67,4 @@ The three editable slides in `part3_slides.pptx` include English speaker notes, 
 1. **Equal-energy comparison.** On the synthetic overnight case, combined charging spends about $0.94 more than cost-only. Both deliver the same 30 battery kWh by departure. The additional cost buys a lower modeled high-SOC score under the selected weights.
 2. **Who enters the comparison.** Keep the original 15 records in order. Select 35 more before solving, from Jason's existing eligibility ledger. Cycle through duration/energy bins in ascending order and use connection time then ID within each bin. This is a deterministic extension of one frozen page. Team approval of the extension rule is pending. The manifest records the selected IDs and SHA-256 hashes of the frozen inputs.
 3. **Where comparisons are possible.** Simulate 30%, 60% and 75% starts. Of 150 scenarios, 17 would exceed the SOC cap (one at 60%, sixteen at 75%). The remaining 133 have four schedules each. Retain the timing-flagged control in raw results. Removing that control leaves 49, 48 and 33 clean paired cases by starting SOC. Median combined-minus-cost-only calendar changes are effectively zero at 30% and 60%, and −0.8055 ppm at 75%. These are conditional calendar-model estimates from different feasible subsets.
-4. **Computational cost.** Use `timing.json` for the independent solver's one warm-up and five measured calls per resolution and policy. The timer covers schedule computation, including the optimality check where applicable. It excludes file I/O and post-evaluation. Historical CLARABEL measurements cover a different implementation and timing scope. A repeated native CLARABEL benchmark and human review remain open.
+4. **Computational cost.** The original combined solver took median 6.15, 6.55, 7.36 and 10.16 ms per call at 60-, 30-, 15- and 5-minute resolution on this machine. Each median covers five calls after a warm-up. The native report separates full-call and final-stage solver times. Full cost-only calls include both stages.

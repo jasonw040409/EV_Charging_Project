@@ -1,0 +1,550 @@
+{
+  "paths": 532,
+  "original_verified": 531,
+  "original_failures": [
+    {
+      "session_id": "2_39_88_438_2018-04-26 00:05:36.143402",
+      "initial": 0.3,
+      "method": "cost_only",
+      "error": "Tie-break failed: user_limit",
+      "grouped_recheck": {
+        "status": "optimal",
+        "price_groups": 1,
+        "cost_premium_dollars": 7.693845560652335e-14
+      }
+    }
+  ],
+  "max_absolute_metric_differences": {
+    "grid_kwh": 7.134026702715346e-11,
+    "cost_dollars": 2.382701147496391e-08,
+    "power_proxy": 8.473999960068035e-09,
+    "high_soc_proxy": 1.6450701911807641e-09,
+    "calendar_increment_ppm": 4.9733394291706645e-08,
+    "peak_kw": 5.692576843241426e-07
+  },
+  "timings": [
+    {
+      "minutes": 60,
+      "method": "immediate",
+      "samples": [
+        {
+          "call_seconds": 4.1000021155923605e-06,
+          "last_solver_stage_seconds": null,
+          "status": "deterministic"
+        },
+        {
+          "call_seconds": 3.6999990697950125e-06,
+          "last_solver_stage_seconds": null,
+          "status": "deterministic"
+        },
+        {
+          "call_seconds": 3.500026650726795e-06,
+          "last_solver_stage_seconds": null,
+          "status": "deterministic"
+        },
+        {
+          "call_seconds": 3.200024366378784e-06,
+          "last_solver_stage_seconds": null,
+          "status": "deterministic"
+        },
+        {
+          "call_seconds": 3.1999952625483274e-06,
+          "last_solver_stage_seconds": null,
+          "status": "deterministic"
+        }
+      ],
+      "median_call_seconds": 3.500026650726795e-06
+    },
+    {
+      "minutes": 60,
+      "method": "cost_only",
+      "samples": [
+        {
+          "call_seconds": 0.011084199999459088,
+          "last_solver_stage_seconds": 0.0002181,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.011078699986683205,
+          "last_solver_stage_seconds": 0.0002213,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.021726800012402236,
+          "last_solver_stage_seconds": 0.0002193,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.011525199981406331,
+          "last_solver_stage_seconds": 0.0002215,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.010733900009654462,
+          "last_solver_stage_seconds": 0.0002175,
+          "status": "optimal"
+        }
+      ],
+      "median_call_seconds": 0.011084199999459088
+    },
+    {
+      "minutes": 60,
+      "method": "power_penalty",
+      "samples": [
+        {
+          "call_seconds": 0.006042099994374439,
+          "last_solver_stage_seconds": 0.0001957,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.006386099994415417,
+          "last_solver_stage_seconds": 0.0001974,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.0060458999942056835,
+          "last_solver_stage_seconds": 0.0001947,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.006032799981767312,
+          "last_solver_stage_seconds": 0.0001937,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.006509300001198426,
+          "last_solver_stage_seconds": 0.0001979,
+          "status": "optimal"
+        }
+      ],
+      "median_call_seconds": 0.0060458999942056835
+    },
+    {
+      "minutes": 60,
+      "method": "combined",
+      "samples": [
+        {
+          "call_seconds": 0.006443400023272261,
+          "last_solver_stage_seconds": 0.0002734,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.006145200022729114,
+          "last_solver_stage_seconds": 0.0002717,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.006135000003268942,
+          "last_solver_stage_seconds": 0.0002713,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.0063999000121839345,
+          "last_solver_stage_seconds": 0.0002729,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.006149099994217977,
+          "last_solver_stage_seconds": 0.0002716,
+          "status": "optimal"
+        }
+      ],
+      "median_call_seconds": 0.006149099994217977
+    },
+    {
+      "minutes": 30,
+      "method": "immediate",
+      "samples": [
+        {
+          "call_seconds": 4.1000021155923605e-06,
+          "last_solver_stage_seconds": null,
+          "status": "deterministic"
+        },
+        {
+          "call_seconds": 3.3999967854470015e-06,
+          "last_solver_stage_seconds": null,
+          "status": "deterministic"
+        },
+        {
+          "call_seconds": 3.200024366378784e-06,
+          "last_solver_stage_seconds": null,
+          "status": "deterministic"
+        },
+        {
+          "call_seconds": 3.0999945010989904e-06,
+          "last_solver_stage_seconds": null,
+          "status": "deterministic"
+        },
+        {
+          "call_seconds": 3.0999945010989904e-06,
+          "last_solver_stage_seconds": null,
+          "status": "deterministic"
+        }
+      ],
+      "median_call_seconds": 3.200024366378784e-06
+    },
+    {
+      "minutes": 30,
+      "method": "cost_only",
+      "samples": [
+        {
+          "call_seconds": 0.011458099994342774,
+          "last_solver_stage_seconds": 0.0004006,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.01129719999153167,
+          "last_solver_stage_seconds": 0.0003979,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.01169119999394752,
+          "last_solver_stage_seconds": 0.0004097,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.011408999998820946,
+          "last_solver_stage_seconds": 0.0003977,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.011438499990617856,
+          "last_solver_stage_seconds": 0.0004061,
+          "status": "optimal"
+        }
+      ],
+      "median_call_seconds": 0.011438499990617856
+    },
+    {
+      "minutes": 30,
+      "method": "power_penalty",
+      "samples": [
+        {
+          "call_seconds": 0.006249099998967722,
+          "last_solver_stage_seconds": 0.0003458,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.0064356999937444925,
+          "last_solver_stage_seconds": 0.0003475,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.006279299996094778,
+          "last_solver_stage_seconds": 0.000347,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.006452200002968311,
+          "last_solver_stage_seconds": 0.0003488,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.006267499993555248,
+          "last_solver_stage_seconds": 0.0003438,
+          "status": "optimal"
+        }
+      ],
+      "median_call_seconds": 0.006279299996094778
+    },
+    {
+      "minutes": 30,
+      "method": "combined",
+      "samples": [
+        {
+          "call_seconds": 0.006715700001223013,
+          "last_solver_stage_seconds": 0.0005169,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.00646569998934865,
+          "last_solver_stage_seconds": 0.0005142,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.00667620002059266,
+          "last_solver_stage_seconds": 0.000514,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.006464100006269291,
+          "last_solver_stage_seconds": 0.0005122,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.006545599986566231,
+          "last_solver_stage_seconds": 0.0005144,
+          "status": "optimal"
+        }
+      ],
+      "median_call_seconds": 0.006545599986566231
+    },
+    {
+      "minutes": 15,
+      "method": "immediate",
+      "samples": [
+        {
+          "call_seconds": 4.699977580457926e-06,
+          "last_solver_stage_seconds": null,
+          "status": "deterministic"
+        },
+        {
+          "call_seconds": 3.4999975468963385e-06,
+          "last_solver_stage_seconds": null,
+          "status": "deterministic"
+        },
+        {
+          "call_seconds": 3.2999960239976645e-06,
+          "last_solver_stage_seconds": null,
+          "status": "deterministic"
+        },
+        {
+          "call_seconds": 3.100023604929447e-06,
+          "last_solver_stage_seconds": null,
+          "status": "deterministic"
+        },
+        {
+          "call_seconds": 3.100023604929447e-06,
+          "last_solver_stage_seconds": null,
+          "status": "deterministic"
+        }
+      ],
+      "median_call_seconds": 3.2999960239976645e-06
+    },
+    {
+      "minutes": 15,
+      "method": "cost_only",
+      "samples": [
+        {
+          "call_seconds": 0.012664500012760982,
+          "last_solver_stage_seconds": 0.0008155,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.012613300001248717,
+          "last_solver_stage_seconds": 0.0008089,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.012592500017490238,
+          "last_solver_stage_seconds": 0.0008034,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.012451200018404052,
+          "last_solver_stage_seconds": 0.0008093,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.012604699993971735,
+          "last_solver_stage_seconds": 0.0008058,
+          "status": "optimal"
+        }
+      ],
+      "median_call_seconds": 0.012604699993971735
+    },
+    {
+      "minutes": 15,
+      "method": "power_penalty",
+      "samples": [
+        {
+          "call_seconds": 0.0068574000033549964,
+          "last_solver_stage_seconds": 0.0007821,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.007204300025478005,
+          "last_solver_stage_seconds": 0.0007554,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.006860599998617545,
+          "last_solver_stage_seconds": 0.0007615,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.007585300016216934,
+          "last_solver_stage_seconds": 0.001129,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.006927599984919652,
+          "last_solver_stage_seconds": 0.0007565,
+          "status": "optimal"
+        }
+      ],
+      "median_call_seconds": 0.006927599984919652
+    },
+    {
+      "minutes": 15,
+      "method": "combined",
+      "samples": [
+        {
+          "call_seconds": 0.00765539999702014,
+          "last_solver_stage_seconds": 0.00103,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.007160399982240051,
+          "last_solver_stage_seconds": 0.0010212,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.007496300007915124,
+          "last_solver_stage_seconds": 0.0010291,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.007147900003474206,
+          "last_solver_stage_seconds": 0.0010297,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.007359500013990328,
+          "last_solver_stage_seconds": 0.0010323,
+          "status": "optimal"
+        }
+      ],
+      "median_call_seconds": 0.007359500013990328
+    },
+    {
+      "minutes": 5,
+      "method": "immediate",
+      "samples": [
+        {
+          "call_seconds": 4.599976819008589e-06,
+          "last_solver_stage_seconds": null,
+          "status": "deterministic"
+        },
+        {
+          "call_seconds": 3.7999998312443495e-06,
+          "last_solver_stage_seconds": null,
+          "status": "deterministic"
+        },
+        {
+          "call_seconds": 3.5999983083456755e-06,
+          "last_solver_stage_seconds": null,
+          "status": "deterministic"
+        },
+        {
+          "call_seconds": 3.3999967854470015e-06,
+          "last_solver_stage_seconds": null,
+          "status": "deterministic"
+        },
+        {
+          "call_seconds": 3.2999960239976645e-06,
+          "last_solver_stage_seconds": null,
+          "status": "deterministic"
+        }
+      ],
+      "median_call_seconds": 3.5999983083456755e-06
+    },
+    {
+      "minutes": 5,
+      "method": "cost_only",
+      "samples": [
+        {
+          "call_seconds": 0.0172815999831073,
+          "last_solver_stage_seconds": 0.0026382,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.017141400021500885,
+          "last_solver_stage_seconds": 0.0026432,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.017375800001900643,
+          "last_solver_stage_seconds": 0.0026358,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.017330800008494407,
+          "last_solver_stage_seconds": 0.0026328,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.018187699984991923,
+          "last_solver_stage_seconds": 0.0026587,
+          "status": "optimal"
+        }
+      ],
+      "median_call_seconds": 0.017330800008494407
+    },
+    {
+      "minutes": 5,
+      "method": "power_penalty",
+      "samples": [
+        {
+          "call_seconds": 0.009089799976209179,
+          "last_solver_stage_seconds": 0.0024807,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.009070800006156787,
+          "last_solver_stage_seconds": 0.0024471,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.00966589999734424,
+          "last_solver_stage_seconds": 0.0024472,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.00901249999878928,
+          "last_solver_stage_seconds": 0.0024385,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.009162599977571517,
+          "last_solver_stage_seconds": 0.0024528,
+          "status": "optimal"
+        }
+      ],
+      "median_call_seconds": 0.009089799976209179
+    },
+    {
+      "minutes": 5,
+      "method": "combined",
+      "samples": [
+        {
+          "call_seconds": 0.009848499990766868,
+          "last_solver_stage_seconds": 0.0032974,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.010417599987704307,
+          "last_solver_stage_seconds": 0.0033057,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.010191500012297183,
+          "last_solver_stage_seconds": 0.003308,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.009996000007959083,
+          "last_solver_stage_seconds": 0.0033032,
+          "status": "optimal"
+        },
+        {
+          "call_seconds": 0.010164799983613193,
+          "last_solver_stage_seconds": 0.0032949,
+          "status": "optimal"
+        }
+      ],
+      "median_call_seconds": 0.010164799983613193
+    }
+  ],
+  "hardware": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "packages": {
+    "numpy": "2.3.5",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "cvxpy": "1.9.3",
+    "clarabel": "0.11.1"
+  },
+  "scope": "One warmup then five full scheduling calls. Cost-only has two solves. last_solver_stage_seconds covers only the final solver stage."
+}
