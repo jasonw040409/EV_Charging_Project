@@ -1,0 +1,326 @@
+[
+  {
+    "method": "immediate",
+    "prior_days": 0,
+    "calendar_loss_initial_fraction": 0.0,
+    "calendar_loss_final_fraction": 0.0013447709947955893,
+    "calendar_increment_fraction": 0.0013447709947955891,
+    "calendar_increment_ppm": 1344.770994795589,
+    "temperature_c": 15
+  },
+  {
+    "method": "immediate",
+    "prior_days": 365,
+    "calendar_loss_initial_fraction": 0.0425157591891815,
+    "calendar_loss_final_fraction": 0.042537021386798046,
+    "calendar_increment_fraction": 2.1262197616549725e-05,
+    "calendar_increment_ppm": 21.262197616549724,
+    "temperature_c": 15
+  },
+  {
+    "method": "immediate",
+    "prior_days": 1095,
+    "calendar_loss_initial_fraction": 0.07363945503802573,
+    "calendar_loss_final_fraction": 0.07365173281957361,
+    "calendar_increment_fraction": 1.2277781547881079e-05,
+    "calendar_increment_ppm": 12.277781547881078,
+    "temperature_c": 15
+  },
+  {
+    "method": "immediate",
+    "prior_days": 0,
+    "calendar_loss_initial_fraction": 0.0,
+    "calendar_loss_final_fraction": 0.0017091436075770336,
+    "calendar_increment_fraction": 0.0017091436075770336,
+    "calendar_increment_ppm": 1709.1436075770337,
+    "temperature_c": 25
+  },
+  {
+    "method": "immediate",
+    "prior_days": 365,
+    "calendar_loss_initial_fraction": 0.0425157591891815,
+    "calendar_loss_final_fraction": 0.04255009931015193,
+    "calendar_increment_fraction": 3.4340120970439944e-05,
+    "calendar_increment_ppm": 34.34012097043994,
+    "temperature_c": 25
+  },
+  {
+    "method": "immediate",
+    "prior_days": 1095,
+    "calendar_loss_initial_fraction": 0.07363945503802573,
+    "calendar_loss_final_fraction": 0.07365928665259211,
+    "calendar_increment_fraction": 1.9831614566382275e-05,
+    "calendar_increment_ppm": 19.831614566382274,
+    "temperature_c": 25
+  },
+  {
+    "method": "immediate",
+    "prior_days": 0,
+    "calendar_loss_initial_fraction": 0.0,
+    "calendar_loss_final_fraction": 0.0021387024428961023,
+    "calendar_increment_fraction": 0.002138702442896102,
+    "calendar_increment_ppm": 2138.7024428961017,
+    "temperature_c": 35
+  },
+  {
+    "method": "immediate",
+    "prior_days": 365,
+    "calendar_loss_initial_fraction": 0.0425157591891815,
+    "calendar_loss_final_fraction": 0.04256951758678645,
+    "calendar_increment_fraction": 5.3758397604950614e-05,
+    "calendar_increment_ppm": 53.758397604950616,
+    "temperature_c": 35
+  },
+  {
+    "method": "immediate",
+    "prior_days": 1095,
+    "calendar_loss_initial_fraction": 0.07363945503802573,
+    "calendar_loss_final_fraction": 0.07367050553944002,
+    "calendar_increment_fraction": 3.1050501414291024e-05,
+    "calendar_increment_ppm": 31.050501414291023,
+    "temperature_c": 35
+  },
+  {
+    "method": "cost_only",
+    "prior_days": 0,
+    "calendar_loss_initial_fraction": 0.0,
+    "calendar_loss_final_fraction": 0.0012727852938424706,
+    "calendar_increment_fraction": 0.0012727852938424703,
+    "calendar_increment_ppm": 1272.7852938424703,
+    "temperature_c": 15
+  },
+  {
+    "method": "cost_only",
+    "prior_days": 365,
+    "calendar_loss_initial_fraction": 0.0425157591891815,
+    "calendar_loss_final_fraction": 0.042534806474658994,
+    "calendar_increment_fraction": 1.9047285477495707e-05,
+    "calendar_increment_ppm": 19.047285477495706,
+    "temperature_c": 15
+  },
+  {
+    "method": "cost_only",
+    "prior_days": 1095,
+    "calendar_loss_initial_fraction": 0.07363945503802573,
+    "calendar_loss_final_fraction": 0.0736504536354097,
+    "calendar_increment_fraction": 1.099859738397568e-05,
+    "calendar_increment_ppm": 10.99859738397568,
+    "temperature_c": 15
+  },
+  {
+    "method": "cost_only",
+    "prior_days": 0,
+    "calendar_loss_initial_fraction": 0.0,
+    "calendar_loss_final_fraction": 0.0016176530109645768,
+    "calendar_increment_fraction": 0.0016176530109645768,
+    "calendar_increment_ppm": 1617.6530109645769,
+    "temperature_c": 25
+  },
+  {
+    "method": "cost_only",
+    "prior_days": 365,
+    "calendar_loss_initial_fraction": 0.0425157591891815,
+    "calendar_loss_final_fraction": 0.042546522545283925,
+    "calendar_increment_fraction": 3.076335610243205e-05,
+    "calendar_increment_ppm": 30.763356102432052,
+    "temperature_c": 25
+  },
+  {
+    "method": "cost_only",
+    "prior_days": 1095,
+    "calendar_loss_initial_fraction": 0.07363945503802573,
+    "calendar_loss_final_fraction": 0.07365722055278284,
+    "calendar_increment_fraction": 1.7765514757116842e-05,
+    "calendar_increment_ppm": 17.765514757116843,
+    "temperature_c": 25
+  },
+  {
+    "method": "cost_only",
+    "prior_days": 0,
+    "calendar_loss_initial_fraction": 0.0,
+    "calendar_loss_final_fraction": 0.002024217526819053,
+    "calendar_increment_fraction": 0.0020242175268190524,
+    "calendar_increment_ppm": 2024.2175268190524,
+    "temperature_c": 35
+  },
+  {
+    "method": "cost_only",
+    "prior_days": 365,
+    "calendar_loss_initial_fraction": 0.0425157591891815,
+    "calendar_loss_final_fraction": 0.042563919415725245,
+    "calendar_increment_fraction": 4.81602265437464e-05,
+    "calendar_increment_ppm": 48.160226543746404,
+    "temperature_c": 35
+  },
+  {
+    "method": "cost_only",
+    "prior_days": 1095,
+    "calendar_loss_initial_fraction": 0.07363945503802573,
+    "calendar_loss_final_fraction": 0.07366727085275587,
+    "calendar_increment_fraction": 2.7815814730139623e-05,
+    "calendar_increment_ppm": 27.81581473013962,
+    "temperature_c": 35
+  },
+  {
+    "method": "power_penalty",
+    "prior_days": 0,
+    "calendar_loss_initial_fraction": 0.0,
+    "calendar_loss_final_fraction": 0.0012575201176978593,
+    "calendar_increment_fraction": 0.0012575201176978595,
+    "calendar_increment_ppm": 1257.5201176978596,
+    "temperature_c": 15
+  },
+  {
+    "method": "power_penalty",
+    "prior_days": 365,
+    "calendar_loss_initial_fraction": 0.0425157591891815,
+    "calendar_loss_final_fraction": 0.04253435242576153,
+    "calendar_increment_fraction": 1.8593236580032884e-05,
+    "calendar_increment_ppm": 18.593236580032883,
+    "temperature_c": 15
+  },
+  {
+    "method": "power_penalty",
+    "prior_days": 1095,
+    "calendar_loss_initial_fraction": 0.07363945503802573,
+    "calendar_loss_final_fraction": 0.07365019141281187,
+    "calendar_increment_fraction": 1.073637478614401e-05,
+    "calendar_increment_ppm": 10.73637478614401,
+    "temperature_c": 15
+  },
+  {
+    "method": "power_penalty",
+    "prior_days": 0,
+    "calendar_loss_initial_fraction": 0.0,
+    "calendar_loss_final_fraction": 0.0015982516568849067,
+    "calendar_increment_fraction": 0.0015982516568849067,
+    "calendar_increment_ppm": 1598.2516568849067,
+    "temperature_c": 25
+  },
+  {
+    "method": "power_penalty",
+    "prior_days": 365,
+    "calendar_loss_initial_fraction": 0.0425157591891815,
+    "calendar_loss_final_fraction": 0.04254578930741803,
+    "calendar_increment_fraction": 3.003011823653159e-05,
+    "calendar_increment_ppm": 30.03011823653159,
+    "temperature_c": 25
+  },
+  {
+    "method": "power_penalty",
+    "prior_days": 1095,
+    "calendar_loss_initial_fraction": 0.07363945503802573,
+    "calendar_loss_final_fraction": 0.07365679701599946,
+    "calendar_increment_fraction": 1.734197797373993e-05,
+    "calendar_increment_ppm": 17.34197797373993,
+    "temperature_c": 25
+  },
+  {
+    "method": "power_penalty",
+    "prior_days": 0,
+    "calendar_loss_initial_fraction": 0.0,
+    "calendar_loss_final_fraction": 0.001999940033001838,
+    "calendar_increment_fraction": 0.0019999400330018386,
+    "calendar_increment_ppm": 1999.9400330018386,
+    "temperature_c": 35
+  },
+  {
+    "method": "power_penalty",
+    "prior_days": 365,
+    "calendar_loss_initial_fraction": 0.0425157591891815,
+    "calendar_loss_final_fraction": 0.04256277175617296,
+    "calendar_increment_fraction": 4.701256699145901e-05,
+    "calendar_increment_ppm": 47.01256699145901,
+    "temperature_c": 35
+  },
+  {
+    "method": "power_penalty",
+    "prior_days": 1095,
+    "calendar_loss_initial_fraction": 0.07363945503802573,
+    "calendar_loss_final_fraction": 0.07366660775706328,
+    "calendar_increment_fraction": 2.715271903755438e-05,
+    "calendar_increment_ppm": 27.152719037554377,
+    "temperature_c": 35
+  },
+  {
+    "method": "combined",
+    "prior_days": 0,
+    "calendar_loss_initial_fraction": 0.0,
+    "calendar_loss_final_fraction": 0.0012414135295658972,
+    "calendar_increment_fraction": 0.0012414135295658974,
+    "calendar_increment_ppm": 1241.4135295658975,
+    "temperature_c": 15
+  },
+  {
+    "method": "combined",
+    "prior_days": 365,
+    "calendar_loss_initial_fraction": 0.0425157591891815,
+    "calendar_loss_final_fraction": 0.04253387928444642,
+    "calendar_increment_fraction": 1.812009526492136e-05,
+    "calendar_increment_ppm": 18.12009526492136,
+    "temperature_c": 15
+  },
+  {
+    "method": "combined",
+    "prior_days": 1095,
+    "calendar_loss_initial_fraction": 0.07363945503802573,
+    "calendar_loss_final_fraction": 0.07364991816593418,
+    "calendar_increment_fraction": 1.0463127908455422e-05,
+    "calendar_increment_ppm": 10.463127908455421,
+    "temperature_c": 15
+  },
+  {
+    "method": "combined",
+    "prior_days": 0,
+    "calendar_loss_initial_fraction": 0.0,
+    "calendar_loss_final_fraction": 0.0015777809059152937,
+    "calendar_increment_fraction": 0.0015777809059152937,
+    "calendar_increment_ppm": 1577.7809059152937,
+    "temperature_c": 25
+  },
+  {
+    "method": "combined",
+    "prior_days": 365,
+    "calendar_loss_initial_fraction": 0.0425157591891815,
+    "calendar_loss_final_fraction": 0.04254502523232936,
+    "calendar_increment_fraction": 2.9266043147861536e-05,
+    "calendar_increment_ppm": 29.266043147861534,
+    "temperature_c": 25
+  },
+  {
+    "method": "combined",
+    "prior_days": 1095,
+    "calendar_loss_initial_fraction": 0.07363945503802573,
+    "calendar_loss_final_fraction": 0.0736563556720293,
+    "calendar_increment_fraction": 1.6900634003577595e-05,
+    "calendar_increment_ppm": 16.900634003577593,
+    "temperature_c": 25
+  },
+  {
+    "method": "combined",
+    "prior_days": 0,
+    "calendar_loss_initial_fraction": 0.0,
+    "calendar_loss_final_fraction": 0.0019743243709167226,
+    "calendar_increment_fraction": 0.001974324370916722,
+    "calendar_increment_ppm": 1974.3243709167223,
+    "temperature_c": 35
+  },
+  {
+    "method": "combined",
+    "prior_days": 365,
+    "calendar_loss_initial_fraction": 0.0425157591891815,
+    "calendar_loss_final_fraction": 0.042561575818501673,
+    "calendar_increment_fraction": 4.5816629320179054e-05,
+    "calendar_increment_ppm": 45.816629320179054,
+    "temperature_c": 35
+  },
+  {
+    "method": "combined",
+    "prior_days": 1095,
+    "calendar_loss_initial_fraction": 0.07363945503802573,
+    "calendar_loss_final_fraction": 0.07366591677987187,
+    "calendar_increment_fraction": 2.6461741846145697e-05,
+    "calendar_increment_ppm": 26.461741846145696,
+    "temperature_c": 35
+  }
+]

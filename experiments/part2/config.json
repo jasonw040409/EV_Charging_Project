@@ -1,0 +1,8 @@
+{
+  "cohort_file": "results/nov18/cohort.json",
+  "initial_socs": [0.3, 0.6, 0.75],
+  "power_weights": [0, 0.1, 1, 10],
+  "soc_weights": [0, 1, 10],
+  "timing_minutes": [60, 30, 15, 5],
+  "timing_repeats": 5
+}

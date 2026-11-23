@@ -1,0 +1,92 @@
+[
+  {
+    "case": "real_1_soc75",
+    "category": "infeasible_assumed_scenario",
+    "reason": "Invalid physical parameters",
+    "scenario": {
+      "n": 45,
+      "dt": 0.24855555555555556,
+      "capacity": 60.0,
+      "initial": 0.75,
+      "target": 0.900195,
+      "maximum_soc": 0.9,
+      "maximum_power": 7.2,
+      "efficiency": 0.9,
+      "reference_soc": 0.7
+    },
+    "session_id": "2_39_95_27_2018-04-25 13:45:09.617470",
+    "timing_flag": false
+  },
+  {
+    "case": "real_4_soc75",
+    "category": "infeasible_assumed_scenario",
+    "reason": "Invalid physical parameters",
+    "scenario": {
+      "n": 34,
+      "dt": 0.2463888888888889,
+      "capacity": 60.0,
+      "initial": 0.75,
+      "target": 0.9017850000000001,
+      "maximum_soc": 0.9,
+      "maximum_power": 7.2,
+      "efficiency": 0.9,
+      "reference_soc": 0.7
+    },
+    "session_id": "2_39_79_381_2018-04-25 14:40:33.638896",
+    "timing_flag": false
+  },
+  {
+    "case": "real_7_soc75",
+    "category": "infeasible_assumed_scenario",
+    "reason": "Invalid physical parameters",
+    "scenario": {
+      "n": 15,
+      "dt": 0.24461111111111108,
+      "capacity": 60.0,
+      "initial": 0.75,
+      "target": 0.97941,
+      "maximum_soc": 0.9,
+      "maximum_power": 7.2,
+      "efficiency": 0.9,
+      "reference_soc": 0.7
+    },
+    "session_id": "2_39_91_441_2018-04-25 14:47:41.776352",
+    "timing_flag": false
+  },
+  {
+    "case": "real_10_soc75",
+    "category": "infeasible_assumed_scenario",
+    "reason": "Invalid physical parameters",
+    "scenario": {
+      "n": 32,
+      "dt": 0.24649305555555556,
+      "capacity": 60.0,
+      "initial": 0.75,
+      "target": 1.01169,
+      "maximum_soc": 0.9,
+      "maximum_power": 7.2,
+      "efficiency": 0.9,
+      "reference_soc": 0.7
+    },
+    "session_id": "2_39_88_24_2018-04-25 16:03:58.630483",
+    "timing_flag": false
+  },
+  {
+    "case": "real_13_soc75",
+    "category": "infeasible_assumed_scenario",
+    "reason": "Invalid physical parameters",
+    "scenario": {
+      "n": 35,
+      "dt": 0.24365079365079367,
+      "capacity": 60.0,
+      "initial": 0.75,
+      "target": 0.970395,
+      "maximum_soc": 0.9,
+      "maximum_power": 7.2,
+      "efficiency": 0.9,
+      "reference_soc": 0.7
+    },
+    "session_id": "2_39_123_23_2018-04-25 16:01:25.950919",
+    "timing_flag": false
+  }
+]

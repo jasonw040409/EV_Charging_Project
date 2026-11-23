@@ -1,0 +1,1202 @@
+[
+  {
+    "minutes": 60,
+    "method": "cost_only",
+    "repetition": 1,
+    "outer_seconds": 0.018707417009864002,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 2.220446049250313e-11,
+      "wall_seconds": 0.01789737498620525,
+      "solver_seconds": 0.000483584,
+      "iterations": 13,
+      "stage_one_cost": 3.333333333358782,
+      "weight_power": 0,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.3333333433374186,
+    "power_proxy": 0.35722450693075997,
+    "high_soc_proxy": 0.03703703666681285
+  },
+  {
+    "minutes": 60,
+    "method": "cost_only",
+    "repetition": 2,
+    "outer_seconds": 0.018736583995632827,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 2.220446049250313e-11,
+      "wall_seconds": 0.017930708010680974,
+      "solver_seconds": 0.000487332,
+      "iterations": 13,
+      "stage_one_cost": 3.333333333358782,
+      "weight_power": 0,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.3333333433374186,
+    "power_proxy": 0.35722450693075997,
+    "high_soc_proxy": 0.03703703666681285
+  },
+  {
+    "minutes": 60,
+    "method": "cost_only",
+    "repetition": 3,
+    "outer_seconds": 0.018717999977525324,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 2.220446049250313e-11,
+      "wall_seconds": 0.0179100829991512,
+      "solver_seconds": 0.000482417,
+      "iterations": 13,
+      "stage_one_cost": 3.333333333358782,
+      "weight_power": 0,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.3333333433374186,
+    "power_proxy": 0.35722450693075997,
+    "high_soc_proxy": 0.03703703666681285
+  },
+  {
+    "minutes": 60,
+    "method": "cost_only",
+    "repetition": 4,
+    "outer_seconds": 0.018687125004362315,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 2.220446049250313e-11,
+      "wall_seconds": 0.017872874974273145,
+      "solver_seconds": 0.000482416,
+      "iterations": 13,
+      "stage_one_cost": 3.333333333358782,
+      "weight_power": 0,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.3333333433374186,
+    "power_proxy": 0.35722450693075997,
+    "high_soc_proxy": 0.03703703666681285
+  },
+  {
+    "minutes": 60,
+    "method": "cost_only",
+    "repetition": 5,
+    "outer_seconds": 0.018776292010443285,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 2.220446049250313e-11,
+      "wall_seconds": 0.017971208988456056,
+      "solver_seconds": 0.000482793,
+      "iterations": 13,
+      "stage_one_cost": 3.333333333358782,
+      "weight_power": 0,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.3333333433374186,
+    "power_proxy": 0.35722450693075997,
+    "high_soc_proxy": 0.03703703666681285
+  },
+  {
+    "minutes": 60,
+    "method": "power_penalty",
+    "repetition": 1,
+    "outer_seconds": 0.010602166992612183,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 1.4210854715202004e-14,
+      "wall_seconds": 0.009793833014555275,
+      "solver_seconds": 0.000450164,
+      "iterations": 11,
+      "stage_one_cost": 3.826289345127175,
+      "weight_power": 1,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.826289345127175,
+    "power_proxy": 0.2923843054057244,
+    "high_soc_proxy": 0.02149324076320816
+  },
+  {
+    "minutes": 60,
+    "method": "power_penalty",
+    "repetition": 2,
+    "outer_seconds": 0.010578166984487325,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 1.4210854715202004e-14,
+      "wall_seconds": 0.009776791004696861,
+      "solver_seconds": 0.000434918,
+      "iterations": 11,
+      "stage_one_cost": 3.826289345127175,
+      "weight_power": 1,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.826289345127175,
+    "power_proxy": 0.2923843054057244,
+    "high_soc_proxy": 0.02149324076320816
+  },
+  {
+    "minutes": 60,
+    "method": "power_penalty",
+    "repetition": 3,
+    "outer_seconds": 0.010520458017708734,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 1.4210854715202004e-14,
+      "wall_seconds": 0.009717708977404982,
+      "solver_seconds": 0.000435669,
+      "iterations": 11,
+      "stage_one_cost": 3.826289345127175,
+      "weight_power": 1,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.826289345127175,
+    "power_proxy": 0.2923843054057244,
+    "high_soc_proxy": 0.02149324076320816
+  },
+  {
+    "minutes": 60,
+    "method": "power_penalty",
+    "repetition": 4,
+    "outer_seconds": 0.010569250007392839,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 1.4210854715202004e-14,
+      "wall_seconds": 0.009759124979609624,
+      "solver_seconds": 0.000434166,
+      "iterations": 11,
+      "stage_one_cost": 3.826289345127175,
+      "weight_power": 1,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.826289345127175,
+    "power_proxy": 0.2923843054057244,
+    "high_soc_proxy": 0.02149324076320816
+  },
+  {
+    "minutes": 60,
+    "method": "power_penalty",
+    "repetition": 5,
+    "outer_seconds": 0.010596708016237244,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 1.4210854715202004e-14,
+      "wall_seconds": 0.009756958024809137,
+      "solver_seconds": 0.000439169,
+      "iterations": 11,
+      "stage_one_cost": 3.826289345127175,
+      "weight_power": 1,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.826289345127175,
+    "power_proxy": 0.2923843054057244,
+    "high_soc_proxy": 0.02149324076320816
+  },
+  {
+    "minutes": 60,
+    "method": "combined",
+    "repetition": 1,
+    "outer_seconds": 0.010865457996260375,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 1.4210854715202004e-14,
+      "wall_seconds": 0.010055042017484084,
+      "solver_seconds": 0.000630418,
+      "iterations": 17,
+      "stage_one_cost": 4.258164361807046,
+      "weight_power": 1,
+      "weight_soc": 10,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 4.258164361807046,
+    "power_proxy": 0.2657033076824364,
+    "high_soc_proxy": 0.010400621837501864
+  },
+  {
+    "minutes": 60,
+    "method": "combined",
+    "repetition": 2,
+    "outer_seconds": 0.010769333021016791,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 1.4210854715202004e-14,
+      "wall_seconds": 0.00995445900480263,
+      "solver_seconds": 0.000627626,
+      "iterations": 17,
+      "stage_one_cost": 4.258164361807046,
+      "weight_power": 1,
+      "weight_soc": 10,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 4.258164361807046,
+    "power_proxy": 0.2657033076824364,
+    "high_soc_proxy": 0.010400621837501864
+  },
+  {
+    "minutes": 60,
+    "method": "combined",
+    "repetition": 3,
+    "outer_seconds": 0.010812499996973202,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 1.4210854715202004e-14,
+      "wall_seconds": 0.010011000005761161,
+      "solver_seconds": 0.000630335,
+      "iterations": 17,
+      "stage_one_cost": 4.258164361807046,
+      "weight_power": 1,
+      "weight_soc": 10,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 4.258164361807046,
+    "power_proxy": 0.2657033076824364,
+    "high_soc_proxy": 0.010400621837501864
+  },
+  {
+    "minutes": 60,
+    "method": "combined",
+    "repetition": 4,
+    "outer_seconds": 0.011136540997540578,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 1.4210854715202004e-14,
+      "wall_seconds": 0.010325333016226068,
+      "solver_seconds": 0.00067767,
+      "iterations": 17,
+      "stage_one_cost": 4.258164361807046,
+      "weight_power": 1,
+      "weight_soc": 10,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 4.258164361807046,
+    "power_proxy": 0.2657033076824364,
+    "high_soc_proxy": 0.010400621837501864
+  },
+  {
+    "minutes": 60,
+    "method": "combined",
+    "repetition": 5,
+    "outer_seconds": 0.010931833006907254,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 1.4210854715202004e-14,
+      "wall_seconds": 0.010110458999406546,
+      "solver_seconds": 0.000635416,
+      "iterations": 17,
+      "stage_one_cost": 4.258164361807046,
+      "weight_power": 1,
+      "weight_soc": 10,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 4.258164361807046,
+    "power_proxy": 0.2657033076824364,
+    "high_soc_proxy": 0.010400621837501864
+  },
+  {
+    "minutes": 30,
+    "method": "cost_only",
+    "repetition": 1,
+    "outer_seconds": 0.02221733398619108,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 1.9610979506978765e-12,
+      "wall_seconds": 0.021332207979867235,
+      "solver_seconds": 0.000944541,
+      "iterations": 14,
+      "stage_one_cost": 3.3333333333423942,
+      "weight_power": 0,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.333333343339788,
+    "power_proxy": 0.3572245069285868,
+    "high_soc_proxy": 0.03356481442315872
+  },
+  {
+    "minutes": 30,
+    "method": "cost_only",
+    "repetition": 2,
+    "outer_seconds": 0.020730624994030222,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 1.9610979506978765e-12,
+      "wall_seconds": 0.019880832987837493,
+      "solver_seconds": 0.00093325,
+      "iterations": 14,
+      "stage_one_cost": 3.3333333333423942,
+      "weight_power": 0,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.333333343339788,
+    "power_proxy": 0.3572245069285868,
+    "high_soc_proxy": 0.03356481442315872
+  },
+  {
+    "minutes": 30,
+    "method": "cost_only",
+    "repetition": 3,
+    "outer_seconds": 0.02184050000505522,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 1.9610979506978765e-12,
+      "wall_seconds": 0.020982125017326325,
+      "solver_seconds": 0.000952207,
+      "iterations": 14,
+      "stage_one_cost": 3.3333333333423942,
+      "weight_power": 0,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.333333343339788,
+    "power_proxy": 0.3572245069285868,
+    "high_soc_proxy": 0.03356481442315872
+  },
+  {
+    "minutes": 30,
+    "method": "cost_only",
+    "repetition": 4,
+    "outer_seconds": 0.021099167002830654,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 1.9610979506978765e-12,
+      "wall_seconds": 0.02021216697175987,
+      "solver_seconds": 0.000931624,
+      "iterations": 14,
+      "stage_one_cost": 3.3333333333423942,
+      "weight_power": 0,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.333333343339788,
+    "power_proxy": 0.3572245069285868,
+    "high_soc_proxy": 0.03356481442315872
+  },
+  {
+    "minutes": 30,
+    "method": "cost_only",
+    "repetition": 5,
+    "outer_seconds": 0.02068758397945203,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 1.9610979506978765e-12,
+      "wall_seconds": 0.01985645800596103,
+      "solver_seconds": 0.000942707,
+      "iterations": 14,
+      "stage_one_cost": 3.3333333333423942,
+      "weight_power": 0,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.333333343339788,
+    "power_proxy": 0.3572245069285868,
+    "high_soc_proxy": 0.03356481442315872
+  },
+  {
+    "minutes": 30,
+    "method": "power_penalty",
+    "repetition": 1,
+    "outer_seconds": 0.011204999987967312,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 7.105427357601002e-15,
+      "wall_seconds": 0.010367292008595541,
+      "solver_seconds": 0.00082517,
+      "iterations": 11,
+      "stage_one_cost": 3.8262893451316247,
+      "weight_power": 1,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.8262893451316247,
+    "power_proxy": 0.2923843054053306,
+    "high_soc_proxy": 0.01855827674563603
+  },
+  {
+    "minutes": 30,
+    "method": "power_penalty",
+    "repetition": 2,
+    "outer_seconds": 0.01113987501594238,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 7.105427357601002e-15,
+      "wall_seconds": 0.010311666002962738,
+      "solver_seconds": 0.000813499,
+      "iterations": 11,
+      "stage_one_cost": 3.8262893451316247,
+      "weight_power": 1,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.8262893451316247,
+    "power_proxy": 0.2923843054053306,
+    "high_soc_proxy": 0.01855827674563603
+  },
+  {
+    "minutes": 30,
+    "method": "power_penalty",
+    "repetition": 3,
+    "outer_seconds": 0.011131124978419393,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 7.105427357601002e-15,
+      "wall_seconds": 0.010315874998923391,
+      "solver_seconds": 0.000816751,
+      "iterations": 11,
+      "stage_one_cost": 3.8262893451316247,
+      "weight_power": 1,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.8262893451316247,
+    "power_proxy": 0.2923843054053306,
+    "high_soc_proxy": 0.01855827674563603
+  },
+  {
+    "minutes": 30,
+    "method": "power_penalty",
+    "repetition": 4,
+    "outer_seconds": 0.01112270899466239,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 7.105427357601002e-15,
+      "wall_seconds": 0.010297000000718981,
+      "solver_seconds": 0.000815748,
+      "iterations": 11,
+      "stage_one_cost": 3.8262893451316247,
+      "weight_power": 1,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.8262893451316247,
+    "power_proxy": 0.2923843054053306,
+    "high_soc_proxy": 0.01855827674563603
+  },
+  {
+    "minutes": 30,
+    "method": "power_penalty",
+    "repetition": 5,
+    "outer_seconds": 0.01116400002501905,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 7.105427357601002e-15,
+      "wall_seconds": 0.010355416976381093,
+      "solver_seconds": 0.000815125,
+      "iterations": 11,
+      "stage_one_cost": 3.8262893451316247,
+      "weight_power": 1,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.8262893451316247,
+    "power_proxy": 0.2923843054053306,
+    "high_soc_proxy": 0.01855827674563603
+  },
+  {
+    "minutes": 30,
+    "method": "combined",
+    "repetition": 1,
+    "outer_seconds": 0.011794374993769452,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 2.1316282072803006e-14,
+      "wall_seconds": 0.010982084000715986,
+      "solver_seconds": 0.001352416,
+      "iterations": 18,
+      "stage_one_cost": 4.2668823761868575,
+      "weight_power": 1,
+      "weight_soc": 10,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 4.2668823761868575,
+    "power_proxy": 0.26846688946490754,
+    "high_soc_proxy": 0.006804537979815703
+  },
+  {
+    "minutes": 30,
+    "method": "combined",
+    "repetition": 2,
+    "outer_seconds": 0.011611333000473678,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 2.1316282072803006e-14,
+      "wall_seconds": 0.0107942080067005,
+      "solver_seconds": 0.001253127,
+      "iterations": 18,
+      "stage_one_cost": 4.2668823761868575,
+      "weight_power": 1,
+      "weight_soc": 10,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 4.2668823761868575,
+    "power_proxy": 0.26846688946490754,
+    "high_soc_proxy": 0.006804537979815703
+  },
+  {
+    "minutes": 30,
+    "method": "combined",
+    "repetition": 3,
+    "outer_seconds": 0.011627458006842062,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 2.1316282072803006e-14,
+      "wall_seconds": 0.010770499997306615,
+      "solver_seconds": 0.001245668,
+      "iterations": 18,
+      "stage_one_cost": 4.2668823761868575,
+      "weight_power": 1,
+      "weight_soc": 10,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 4.2668823761868575,
+    "power_proxy": 0.26846688946490754,
+    "high_soc_proxy": 0.006804537979815703
+  },
+  {
+    "minutes": 30,
+    "method": "combined",
+    "repetition": 4,
+    "outer_seconds": 0.01157016700017266,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 2.1316282072803006e-14,
+      "wall_seconds": 0.010753207985544577,
+      "solver_seconds": 0.001241874,
+      "iterations": 18,
+      "stage_one_cost": 4.2668823761868575,
+      "weight_power": 1,
+      "weight_soc": 10,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 4.2668823761868575,
+    "power_proxy": 0.26846688946490754,
+    "high_soc_proxy": 0.006804537979815703
+  },
+  {
+    "minutes": 30,
+    "method": "combined",
+    "repetition": 5,
+    "outer_seconds": 0.011586709006223828,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 2.1316282072803006e-14,
+      "wall_seconds": 0.010775791015475988,
+      "solver_seconds": 0.001247664,
+      "iterations": 18,
+      "stage_one_cost": 4.2668823761868575,
+      "weight_power": 1,
+      "weight_soc": 10,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 4.2668823761868575,
+    "power_proxy": 0.26846688946490754,
+    "high_soc_proxy": 0.006804537979815703
+  },
+  {
+    "minutes": 15,
+    "method": "cost_only",
+    "repetition": 1,
+    "outer_seconds": 0.022804666979936883,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 1.6200374375330284e-12,
+      "wall_seconds": 0.02198508399305865,
+      "solver_seconds": 0.001977792,
+      "iterations": 15,
+      "stage_one_cost": 3.3333333333390596,
+      "weight_power": 0,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.333333343334481,
+    "power_proxy": 0.35722450693063856,
+    "high_soc_proxy": 0.03211805516526895
+  },
+  {
+    "minutes": 15,
+    "method": "cost_only",
+    "repetition": 2,
+    "outer_seconds": 0.022727582982042804,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 1.6200374375330284e-12,
+      "wall_seconds": 0.02188220899552107,
+      "solver_seconds": 0.00196446,
+      "iterations": 15,
+      "stage_one_cost": 3.3333333333390596,
+      "weight_power": 0,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.333333343334481,
+    "power_proxy": 0.35722450693063856,
+    "high_soc_proxy": 0.03211805516526895
+  },
+  {
+    "minutes": 15,
+    "method": "cost_only",
+    "repetition": 3,
+    "outer_seconds": 0.02279375001671724,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 1.6200374375330284e-12,
+      "wall_seconds": 0.02197508400422521,
+      "solver_seconds": 0.001961874,
+      "iterations": 15,
+      "stage_one_cost": 3.3333333333390596,
+      "weight_power": 0,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.333333343334481,
+    "power_proxy": 0.35722450693063856,
+    "high_soc_proxy": 0.03211805516526895
+  },
+  {
+    "minutes": 15,
+    "method": "cost_only",
+    "repetition": 4,
+    "outer_seconds": 0.0228125830180943,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 1.6200374375330284e-12,
+      "wall_seconds": 0.021992916997987777,
+      "solver_seconds": 0.001962334,
+      "iterations": 15,
+      "stage_one_cost": 3.3333333333390596,
+      "weight_power": 0,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.333333343334481,
+    "power_proxy": 0.35722450693063856,
+    "high_soc_proxy": 0.03211805516526895
+  },
+  {
+    "minutes": 15,
+    "method": "cost_only",
+    "repetition": 5,
+    "outer_seconds": 0.02281391597352922,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 1.6200374375330284e-12,
+      "wall_seconds": 0.021991124987835065,
+      "solver_seconds": 0.001967168,
+      "iterations": 15,
+      "stage_one_cost": 3.3333333333390596,
+      "weight_power": 0,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.333333343334481,
+    "power_proxy": 0.35722450693063856,
+    "high_soc_proxy": 0.03211805516526895
+  },
+  {
+    "minutes": 15,
+    "method": "power_penalty",
+    "repetition": 1,
+    "outer_seconds": 0.012542375014163554,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 7.105427357601002e-15,
+      "wall_seconds": 0.011673957982566208,
+      "solver_seconds": 0.001894793,
+      "iterations": 13,
+      "stage_one_cost": 3.826289345206818,
+      "weight_power": 1,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.826289345206818,
+    "power_proxy": 0.2923843053971914,
+    "high_soc_proxy": 0.017257535125182893
+  },
+  {
+    "minutes": 15,
+    "method": "power_penalty",
+    "repetition": 2,
+    "outer_seconds": 0.012522833014372736,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 7.105427357601002e-15,
+      "wall_seconds": 0.011702416988555342,
+      "solver_seconds": 0.001936581,
+      "iterations": 13,
+      "stage_one_cost": 3.826289345206818,
+      "weight_power": 1,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.826289345206818,
+    "power_proxy": 0.2923843053971914,
+    "high_soc_proxy": 0.017257535125182893
+  },
+  {
+    "minutes": 15,
+    "method": "power_penalty",
+    "repetition": 3,
+    "outer_seconds": 0.012476000003516674,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 7.105427357601002e-15,
+      "wall_seconds": 0.011663207988021895,
+      "solver_seconds": 0.001889167,
+      "iterations": 13,
+      "stage_one_cost": 3.826289345206818,
+      "weight_power": 1,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.826289345206818,
+    "power_proxy": 0.2923843053971914,
+    "high_soc_proxy": 0.017257535125182893
+  },
+  {
+    "minutes": 15,
+    "method": "power_penalty",
+    "repetition": 4,
+    "outer_seconds": 0.01247950000106357,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 7.105427357601002e-15,
+      "wall_seconds": 0.011657208000542596,
+      "solver_seconds": 0.001934081,
+      "iterations": 13,
+      "stage_one_cost": 3.826289345206818,
+      "weight_power": 1,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.826289345206818,
+    "power_proxy": 0.2923843053971914,
+    "high_soc_proxy": 0.017257535125182893
+  },
+  {
+    "minutes": 15,
+    "method": "power_penalty",
+    "repetition": 5,
+    "outer_seconds": 0.01245370801188983,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 7.105427357601002e-15,
+      "wall_seconds": 0.011639708012808114,
+      "solver_seconds": 0.001900875,
+      "iterations": 13,
+      "stage_one_cost": 3.826289345206818,
+      "weight_power": 1,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.826289345206818,
+    "power_proxy": 0.2923843053971914,
+    "high_soc_proxy": 0.017257535125182893
+  },
+  {
+    "minutes": 15,
+    "method": "combined",
+    "repetition": 1,
+    "outer_seconds": 0.013129582977853715,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 0.0,
+      "wall_seconds": 0.01231112499954179,
+      "solver_seconds": 0.002581209,
+      "iterations": 19,
+      "stage_one_cost": 4.27070237466193,
+      "weight_power": 1,
+      "weight_soc": 10,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 4.27070237466193,
+    "power_proxy": 0.2691997778827377,
+    "high_soc_proxy": 0.005288806971113973
+  },
+  {
+    "minutes": 15,
+    "method": "combined",
+    "repetition": 2,
+    "outer_seconds": 0.013149957987479866,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 0.0,
+      "wall_seconds": 0.012343125010374933,
+      "solver_seconds": 0.002587085,
+      "iterations": 19,
+      "stage_one_cost": 4.27070237466193,
+      "weight_power": 1,
+      "weight_soc": 10,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 4.27070237466193,
+    "power_proxy": 0.2691997778827377,
+    "high_soc_proxy": 0.005288806971113973
+  },
+  {
+    "minutes": 15,
+    "method": "combined",
+    "repetition": 3,
+    "outer_seconds": 0.013193833990953863,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 0.0,
+      "wall_seconds": 0.01237483398290351,
+      "solver_seconds": 0.002584544,
+      "iterations": 19,
+      "stage_one_cost": 4.27070237466193,
+      "weight_power": 1,
+      "weight_soc": 10,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 4.27070237466193,
+    "power_proxy": 0.2691997778827377,
+    "high_soc_proxy": 0.005288806971113973
+  },
+  {
+    "minutes": 15,
+    "method": "combined",
+    "repetition": 4,
+    "outer_seconds": 0.013144292024662718,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 0.0,
+      "wall_seconds": 0.012326916999882087,
+      "solver_seconds": 0.002579587,
+      "iterations": 19,
+      "stage_one_cost": 4.27070237466193,
+      "weight_power": 1,
+      "weight_soc": 10,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 4.27070237466193,
+    "power_proxy": 0.2691997778827377,
+    "high_soc_proxy": 0.005288806971113973
+  },
+  {
+    "minutes": 15,
+    "method": "combined",
+    "repetition": 5,
+    "outer_seconds": 0.013180958019802347,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 0.0,
+      "wall_seconds": 0.012361458997474983,
+      "solver_seconds": 0.002579332,
+      "iterations": 19,
+      "stage_one_cost": 4.27070237466193,
+      "weight_power": 1,
+      "weight_soc": 10,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 4.27070237466193,
+    "power_proxy": 0.2691997778827377,
+    "high_soc_proxy": 0.005288806971113973
+  },
+  {
+    "minutes": 5,
+    "method": "cost_only",
+    "repetition": 1,
+    "outer_seconds": 0.0346649170096498,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 4.405364961712621e-13,
+      "wall_seconds": 0.033819459000369534,
+      "solver_seconds": 0.006750832,
+      "iterations": 17,
+      "stage_one_cost": 3.333333333355302,
+      "weight_power": 0,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.3333333433540977,
+    "power_proxy": 0.35722450694123276,
+    "high_soc_proxy": 0.03126071635932142
+  },
+  {
+    "minutes": 5,
+    "method": "cost_only",
+    "repetition": 2,
+    "outer_seconds": 0.034748915990348905,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 4.405364961712621e-13,
+      "wall_seconds": 0.0339279159961734,
+      "solver_seconds": 0.006803333,
+      "iterations": 17,
+      "stage_one_cost": 3.333333333355302,
+      "weight_power": 0,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.3333333433540977,
+    "power_proxy": 0.35722450694123276,
+    "high_soc_proxy": 0.03126071635932142
+  },
+  {
+    "minutes": 5,
+    "method": "cost_only",
+    "repetition": 3,
+    "outer_seconds": 0.034694917005253956,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 4.405364961712621e-13,
+      "wall_seconds": 0.03387487499276176,
+      "solver_seconds": 0.006776582,
+      "iterations": 17,
+      "stage_one_cost": 3.333333333355302,
+      "weight_power": 0,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.3333333433540977,
+    "power_proxy": 0.35722450694123276,
+    "high_soc_proxy": 0.03126071635932142
+  },
+  {
+    "minutes": 5,
+    "method": "cost_only",
+    "repetition": 4,
+    "outer_seconds": 0.03489308399730362,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 4.405364961712621e-13,
+      "wall_seconds": 0.034066082997014746,
+      "solver_seconds": 0.00679654,
+      "iterations": 17,
+      "stage_one_cost": 3.333333333355302,
+      "weight_power": 0,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.3333333433540977,
+    "power_proxy": 0.35722450694123276,
+    "high_soc_proxy": 0.03126071635932142
+  },
+  {
+    "minutes": 5,
+    "method": "cost_only",
+    "repetition": 5,
+    "outer_seconds": 0.034888750000391155,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 4.405364961712621e-13,
+      "wall_seconds": 0.0340611660212744,
+      "solver_seconds": 0.006805413,
+      "iterations": 17,
+      "stage_one_cost": 3.333333333355302,
+      "weight_power": 0,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.3333333433540977,
+    "power_proxy": 0.35722450694123276,
+    "high_soc_proxy": 0.03126071635932142
+  },
+  {
+    "minutes": 5,
+    "method": "power_penalty",
+    "repetition": 1,
+    "outer_seconds": 0.018041125003946945,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 7.105427357601002e-15,
+      "wall_seconds": 0.017213833023561165,
+      "solver_seconds": 0.006365291,
+      "iterations": 14,
+      "stage_one_cost": 3.8262893454774725,
+      "weight_power": 1,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.8262893454774725,
+    "power_proxy": 0.2923843053698205,
+    "high_soc_proxy": 0.016443200324939414
+  },
+  {
+    "minutes": 5,
+    "method": "power_penalty",
+    "repetition": 2,
+    "outer_seconds": 0.018209791975095868,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 7.105427357601002e-15,
+      "wall_seconds": 0.017372500005876645,
+      "solver_seconds": 0.00646979,
+      "iterations": 14,
+      "stage_one_cost": 3.8262893454774725,
+      "weight_power": 1,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.8262893454774725,
+    "power_proxy": 0.2923843053698205,
+    "high_soc_proxy": 0.016443200324939414
+  },
+  {
+    "minutes": 5,
+    "method": "power_penalty",
+    "repetition": 3,
+    "outer_seconds": 0.01808895799331367,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 7.105427357601002e-15,
+      "wall_seconds": 0.017261957982555032,
+      "solver_seconds": 0.006425417,
+      "iterations": 14,
+      "stage_one_cost": 3.8262893454774725,
+      "weight_power": 1,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.8262893454774725,
+    "power_proxy": 0.2923843053698205,
+    "high_soc_proxy": 0.016443200324939414
+  },
+  {
+    "minutes": 5,
+    "method": "power_penalty",
+    "repetition": 4,
+    "outer_seconds": 0.018092457990860566,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 7.105427357601002e-15,
+      "wall_seconds": 0.017272583005251363,
+      "solver_seconds": 0.006365253,
+      "iterations": 14,
+      "stage_one_cost": 3.8262893454774725,
+      "weight_power": 1,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.8262893454774725,
+    "power_proxy": 0.2923843053698205,
+    "high_soc_proxy": 0.016443200324939414
+  },
+  {
+    "minutes": 5,
+    "method": "power_penalty",
+    "repetition": 5,
+    "outer_seconds": 0.018053916021017358,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 7.105427357601002e-15,
+      "wall_seconds": 0.01723870899877511,
+      "solver_seconds": 0.006432377,
+      "iterations": 14,
+      "stage_one_cost": 3.8262893454774725,
+      "weight_power": 1,
+      "weight_soc": 0,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 3.8262893454774725,
+    "power_proxy": 0.2923843053698205,
+    "high_soc_proxy": 0.016443200324939414
+  },
+  {
+    "minutes": 5,
+    "method": "combined",
+    "repetition": 1,
+    "outer_seconds": 0.020812958013266325,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 7.105427357601002e-15,
+      "wall_seconds": 0.019946458021877334,
+      "solver_seconds": 0.008761544,
+      "iterations": 20,
+      "stage_one_cost": 4.271400845597071,
+      "weight_power": 1,
+      "weight_soc": 10,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 4.271400845597071,
+    "power_proxy": 0.26942145469725254,
+    "high_soc_proxy": 0.004414002443927988
+  },
+  {
+    "minutes": 5,
+    "method": "combined",
+    "repetition": 2,
+    "outer_seconds": 0.02115375001449138,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 7.105427357601002e-15,
+      "wall_seconds": 0.02025291699101217,
+      "solver_seconds": 0.008757288,
+      "iterations": 20,
+      "stage_one_cost": 4.271400845597071,
+      "weight_power": 1,
+      "weight_soc": 10,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 4.271400845597071,
+    "power_proxy": 0.26942145469725254,
+    "high_soc_proxy": 0.004414002443927988
+  },
+  {
+    "minutes": 5,
+    "method": "combined",
+    "repetition": 3,
+    "outer_seconds": 0.020578666997607797,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 7.105427357601002e-15,
+      "wall_seconds": 0.019733791996259242,
+      "solver_seconds": 0.008685879,
+      "iterations": 20,
+      "stage_one_cost": 4.271400845597071,
+      "weight_power": 1,
+      "weight_soc": 10,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 4.271400845597071,
+    "power_proxy": 0.26942145469725254,
+    "high_soc_proxy": 0.004414002443927988
+  },
+  {
+    "minutes": 5,
+    "method": "combined",
+    "repetition": 4,
+    "outer_seconds": 0.020447750022867694,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 7.105427357601002e-15,
+      "wall_seconds": 0.01962204198935069,
+      "solver_seconds": 0.008690293,
+      "iterations": 20,
+      "stage_one_cost": 4.271400845597071,
+      "weight_power": 1,
+      "weight_soc": 10,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 4.271400845597071,
+    "power_proxy": 0.26942145469725254,
+    "high_soc_proxy": 0.004414002443927988
+  },
+  {
+    "minutes": 5,
+    "method": "combined",
+    "repetition": 5,
+    "outer_seconds": 0.02047925000078976,
+    "solver": {
+      "status": "optimal",
+      "max_constraint_residual": 7.105427357601002e-15,
+      "wall_seconds": 0.0196600409981329,
+      "solver_seconds": 0.008718207,
+      "iterations": 20,
+      "stage_one_cost": 4.271400845597071,
+      "weight_power": 1,
+      "weight_soc": 10,
+      "cost_reference": 9.093333333333334
+    },
+    "cost_dollars": 4.271400845597071,
+    "power_proxy": 0.26942145469725254,
+    "high_soc_proxy": 0.004414002443927988
+  }
+]
