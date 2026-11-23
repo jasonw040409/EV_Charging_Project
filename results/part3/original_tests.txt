@@ -1,0 +1,12 @@
+test_all_schedules_same_physics (test_verification.Verification.test_all_schedules_same_physics) ... ok
+test_calendar_closed_form_and_units (test_verification.Verification.test_calendar_closed_form_and_units) ... ok
+test_flat_price_uniform_and_tie_break (test_verification.Verification.test_flat_price_uniform_and_tie_break) ... ok
+test_history_split_and_timestep (test_verification.Verification.test_history_split_and_timestep) ... ok
+test_infeasible_and_invalid (test_verification.Verification.test_infeasible_and_invalid) ... ok
+test_price_optimum_known (test_verification.Verification.test_price_optimum_known) ... ok
+test_waiting_and_aging_history (test_verification.Verification.test_waiting_and_aging_history) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.067s
+
+OK

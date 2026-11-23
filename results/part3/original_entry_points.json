@@ -1,0 +1,36 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "packages": {
+    "cvxpy": "1.9.3",
+    "clarabel": "0.11.1",
+    "numpy": "2.3.5",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2"
+  },
+  "exit_codes": {
+    "tests": 0,
+    "synthetic": 0,
+    "pilot": 0,
+    "study": 0
+  },
+  "commands": {
+    "tests": [
+      "-m",
+      "unittest",
+      "discover",
+      "-s",
+      "tests",
+      "-v"
+    ],
+    "synthetic": [
+      "src/run_example.py"
+    ],
+    "pilot": [
+      "src/inspect_data.py"
+    ],
+    "study": [
+      "experiments/nov18/run_study.py"
+    ]
+  },
+  "errors": {}
+}
